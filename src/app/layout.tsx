@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     apple: "/apple-touch-icon.png",
   },
   verification: {
-    google: "1c562e4caa6835fc",
+    google: "ASqkl42Eo5N_qlEaVFufd9_hvBSLhqqZU6qvzEnvt0Y",
   },
   other: {
     "apple-itunes-app": `app-id=${APP_ID}`,
