@@ -1,0 +1,450 @@
+{
+  "cliparc": {
+    "meta": {
+      "title": "ClipArc - Gestor de Portapapeles Inteligente para macOS",
+      "description": "El gestor de portapapeles inteligente que recuerda todo lo que copias. Detección inteligente de contenido, búsqueda instantánea y pegado fluido en todas tus apps."
+    },
+    "hero": {
+      "tagline": "Gestor de Portapapeles Inteligente para macOS",
+      "description": "Nunca pierdas lo que copias. ClipArc organiza inteligentemente tu historial de portapapeles con detección de contenido inteligente, búsqueda instantánea y pegado con un clic."
+    },
+    "features": {
+      "title": "Características",
+      "intelligentDetection": {
+        "title": "Detección Inteligente de Contenido",
+        "description": "Categoriza automáticamente el contenido del portapapeles en 10 tipos: Texto, URL, Imagen, Código, Color, Email, Teléfono, Número, JSON, Archivo y más."
+      },
+      "instantAccess": {
+        "title": "Acceso Instantáneo",
+        "description": "Presiona Cmd+Shift+V en cualquier lugar para abrir tu historial de portapapeles. Busca, filtra y pega en segundos sin cambiar de app."
+      },
+      "powerfulSearch": {
+        "title": "Búsqueda Potente",
+        "description": "Búsqueda difusa en todo el contenido del portapapeles. Filtra por tipo para encontrar rápidamente esa URL, fragmento de código o imagen que copiaste antes."
+      },
+      "frequentItems": {
+        "title": "Elementos Frecuentes",
+        "description": "Rastrea los elementos del portapapeles más usados. Accede al contenido pegado frecuentemente con un clic para máxima productividad."
+      },
+      "privacyFirst": {
+        "title": "Privacidad Primero",
+        "description": "Todos los datos se almacenan localmente en tu dispositivo. Sin sincronización en la nube, sin cuentas requeridas. Tu historial de portapapeles nunca sale de tu dispositivo."
+      },
+      "smartPaste": {
+        "title": "Pegado Inteligente",
+        "description": "Pega con un clic en cualquier aplicación activa. Funciona perfectamente en todas tus apps con restauración automática del portapapeles."
+      }
+    },
+    "contentTypes": {
+      "title": "Reconoce Todo Tu Contenido",
+      "text": "Texto",
+      "urls": "URLs",
+      "images": "Imágenes",
+      "code": "Código",
+      "colors": "Colores",
+      "emails": "Emails",
+      "phoneNumbers": "Teléfonos",
+      "numbers": "Números",
+      "json": "JSON",
+      "files": "Archivos"
+    },
+    "perfectFor": {
+      "title": "Perfecto Para",
+      "developers": {
+        "title": "Desarrolladores",
+        "description": "Fragmentos de código, comandos de terminal, claves API al alcance"
+      },
+      "writers": {
+        "title": "Escritores",
+        "description": "Notas de investigación, citas y referencias siempre accesibles"
+      },
+      "designers": {
+        "title": "Diseñadores",
+        "description": "Códigos de color, imágenes y recursos de diseño organizados"
+      },
+      "dataAnalysts": {
+        "title": "Analistas de Datos",
+        "description": "Datos JSON, números y consultas rastreados automáticamente"
+      },
+      "businessProfessionals": {
+        "title": "Profesionales de Negocios",
+        "description": "Emails, contactos y documentos al alcance"
+      },
+      "powerUsers": {
+        "title": "Usuarios Avanzados",
+        "description": "Potencia tu flujo de trabajo con historial de portapapeles ilimitado"
+      }
+    },
+    "featuresList": {
+      "unlimitedHistory": "Historial de portapapeles ilimitado (Pro)",
+      "contentTypes": "10 categorías de tipos de contenido",
+      "globalHotkey": "Atajo global en Mac (Cmd+Shift+V)",
+      "fuzzySearch": "Búsqueda difusa y filtrado",
+      "frequentItems": "Seguimiento de elementos frecuentes",
+      "urlTitle": "Obtención de títulos de páginas URL",
+      "menuBar": "Interfaz en la barra de menú",
+      "batchDelete": "Operaciones de eliminación por lotes",
+      "sourceApp": "Seguimiento de app de origen",
+      "offline": "Funciona completamente sin conexión",
+      "languages": "13 idiomas soportados",
+      "nativeDesign": "Diseño nativo para macOS"
+    },
+    "pricing": {
+      "title": "Precios Simples",
+      "free": {
+        "title": "Gratis",
+        "price": "$0",
+        "features": ["5 elementos del portapapeles", "Características básicas", "Acceso a la barra de menú"]
+      },
+      "proYearly": {
+        "title": "Pro Anual",
+        "price": "$19.99",
+        "period": "/año",
+        "save": "Ahorra 44%",
+        "mostPopular": "Más Popular",
+        "features": ["Historial ilimitado", "Todas las características", "Soporte prioritario"]
+      },
+      "lifetime": {
+        "title": "De por Vida",
+        "price": "$59.99",
+        "features": ["Compra única", "Todas las características para siempre", "Actualizaciones gratis"]
+      }
+    },
+    "requirements": {
+      "title": "Requisitos del Sistema",
+      "description": "Requiere macOS 14.0 o posterior. Funciona en Macs con Apple Silicon e Intel."
+    },
+    "cta": {
+      "download": "Descargar en Mac App Store",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio",
+      "support": "Soporte",
+      "troubleshooting": "Solución de Problemas"
+    },
+    "support": {
+      "meta": {
+        "title": "Soporte - ClipArc",
+        "description": "Obtén ayuda y soporte para ClipArc - Gestor de Portapapeles Inteligente para macOS"
+      },
+      "title": "Soporte",
+      "subtitle": "ClipArc - Gestor de Portapapeles Inteligente para macOS",
+      "contact": {
+        "title": "Contáctanos",
+        "description": "Si tienes preguntas, comentarios o necesitas asistencia con ClipArc, contáctanos:"
+      },
+      "gettingStarted": {
+        "title": "Primeros Pasos",
+        "step1": {
+          "title": "1. Otorgar Permiso de Accesibilidad (Solo Mac)",
+          "description": "En Mac, al iniciar ClipArc por primera vez, macOS pedirá permiso de Accesibilidad. Esto es necesario para que funcione el atajo global (Cmd+Shift+V). Ve a Configuración del Sistema → Privacidad y Seguridad → Accesibilidad y habilita ClipArc."
+        },
+        "step2": {
+          "title": "2. Usar el Atajo Global (Mac) o Abrir la App",
+          "description": "En Mac, presiona Cmd+Shift+V en cualquier lugar para abrir el panel de portapapeles de ClipArc. En iPhone, iPad o Vision Pro, simplemente abre la app para acceder a tu historial."
+        },
+        "step3": {
+          "title": "3. Pegar con Un Toque",
+          "description": "Toca o haz clic en cualquier elemento de tu historial de portapapeles para pegarlo instantáneamente en la aplicación activa."
+        }
+      },
+      "faq": {
+        "title": "Preguntas Frecuentes",
+        "q1": {
+          "question": "¿Por qué ClipArc necesita permiso de Accesibilidad en Mac?",
+          "answer": "En Mac, el permiso de Accesibilidad es necesario para dos funciones: el atajo global (Cmd+Shift+V) para abrir ClipArc desde cualquier app, y la función de pegado inteligente que pega automáticamente contenido en tu aplicación activa. En iPhone, iPad y Vision Pro no se requiere este permiso."
+        },
+        "q2": {
+          "question": "¿Están seguros mis datos del portapapeles?",
+          "answer": "Sí. Todos los datos del portapapeles se almacenan localmente en tu dispositivo usando el framework SwiftData de Apple. No se envían datos a servidores externos a menos que inicies sesión explícitamente con Apple ID para la sincronización Pro."
+        },
+        "q3": {
+          "question": "¿Cuál es la diferencia entre Gratis y Pro?",
+          "answer": "La versión gratuita almacena hasta 5 elementos del portapapeles y muestra 5 elementos en el menú rápido. Pro desbloquea historial ilimitado (configurable de 5-1000 elementos), 10 elementos en el menú rápido, almacenamiento ilimitado de imágenes y archivos, y búsqueda completa."
+        },
+        "q4": {
+          "question": "¿Qué tipos de contenido reconoce ClipArc?",
+          "answer": "ClipArc detecta automáticamente 10 tipos de contenido: Texto, URL (con obtención de título de página), Imagen, Código (todos los lenguajes de programación), códigos de Color (hex, RGB), Email, Teléfonos, Números/moneda, JSON y Archivos."
+        },
+        "q5": {
+          "question": "¿Cómo limpio mi historial de portapapeles?",
+          "answer": "Puedes eliminar elementos individuales pasando el cursor sobre ellos y haciendo clic en el botón eliminar. Para borrar todo el historial, usa la opción 'Borrar Todo' en la configuración de la app. Desinstalar la app también eliminará todos los datos."
+        },
+        "q6": {
+          "question": "¿ClipArc funciona con imágenes y archivos?",
+          "answer": "Sí. ClipArc almacena imágenes copiadas con miniaturas e información de dimensiones. Las rutas de archivos también se rastrean, incluyendo selecciones de múltiples archivos."
+        },
+        "q7": {
+          "question": "¿Cuáles son los requisitos del sistema?",
+          "answer": "ClipArc requiere iOS 26.1+ para iPhone y iPad, macOS 26.1+ para Mac, o visionOS 26.1+ para Apple Vision Pro."
+        },
+        "q8": {
+          "question": "¿Qué opciones de personalización están disponibles?",
+          "answer": "ClipArc ofrece múltiples opciones de personalización: límite de historial (5-1000 elementos), iniciar al arrancar (Mac), mostrar/ocultar icono del dock (Mac), efectos de sonido, apariencia (claro/oscuro/sistema) y selección de idioma."
+        },
+        "q9": {
+          "question": "¿Qué idiomas soporta ClipArc?",
+          "answer": "ClipArc soporta 13 idiomas: inglés, chino simplificado, chino tradicional, japonés, coreano, francés, alemán, español, portugués, italiano, ruso, árabe y turco."
+        },
+        "q10": {
+          "question": "¿Necesito una cuenta para usar ClipArc?",
+          "answer": "No se requiere cuenta. Iniciar sesión con Apple es completamente opcional y solo está disponible para suscriptores Pro que deseen sincronizar su estado de membresía entre sus dispositivos Apple."
+        },
+        "q11": {
+          "question": "¿Cómo accedo al Menú Rápido?",
+          "answer": "En Mac, el Menú Rápido es accesible desde el icono de ClipArc en la barra de menú. En iPhone, iPad y Vision Pro, abre la app para ver tu historial. Muestra tus elementos del portapapeles más recientes para acceso rápido. Los usuarios gratuitos ven 5 elementos, los usuarios Pro ven 10 elementos."
+        }
+      },
+      "troubleshooting": {
+        "title": "Solución de Problemas",
+        "cantPaste": {
+          "title": "No puedo pegar en otras apps (Mac)",
+          "description": "Para pegar directamente en otras aplicaciones, ClipArc requiere acceso a las funciones de accesibilidad de tu Mac. A veces (por ejemplo, después de una actualización del sistema operativo), el acceso puede perderse involuntariamente y necesitarás volver a habilitarlo manualmente.",
+          "steps": {
+            "step1": "Ve a Ajustes del Sistema → Privacidad y Seguridad → Accesibilidad",
+            "step2": "Encuentra ClipArc en la lista y haz clic en el botón \"−\" para eliminarlo",
+            "step3": "Reinicia tu Mac",
+            "step4": "Abre ClipArc, intenta pegar cualquier elemento en cualquier app, y sigue las instrucciones en pantalla para otorgar el permiso nuevamente"
+          },
+          "imageAlt": "Ajustes de Accesibilidad de macOS mostrando ClipArc"
+        }
+      },
+      "links": {
+        "title": "Enlaces Útiles",
+        "home": "Inicio de ClipArc",
+        "privacy": "Política de Privacidad",
+        "terms": "Términos de Servicio",
+        "troubleshooting": "Guía de Solución de Problemas"
+      },
+      "backToCliparc": "Volver a ClipArc"
+    },
+    "privacy": {
+      "meta": {
+        "title": "Política de Privacidad - ClipArc",
+        "description": "Política de Privacidad de ClipArc - Gestor de Portapapeles Inteligente para macOS"
+      },
+      "title": "Política de Privacidad",
+      "subtitle": "ClipArc - Gestor de Portapapeles Inteligente para macOS",
+      "lastUpdated": "Última Actualización: 23 de enero de 2026",
+      "sections": {
+        "privacyMatters": {
+          "title": "Tu Privacidad Importa",
+          "content": "ClipArc está diseñado con la privacidad como núcleo. Todos tus datos del portapapeles se almacenan localmente en tu dispositivo. No recopilamos, transmitimos ni tenemos acceso a ningún contenido de tu portapapeles. Lo que copias permanece en tu dispositivo."
+        },
+        "infoCollect": {
+          "title": "Información que Recopilamos",
+          "intro": "No recopilamos ninguna información personal.",
+          "stored": "Los siguientes datos se almacenan solo localmente en tu dispositivo y nunca se transmiten:",
+          "items": [
+            "Contenido del Portapapeles: Texto, imágenes, archivos y otro contenido que copias",
+            "Metadatos del Contenido: Tipo de contenido, marcas de tiempo, recuento de uso y aplicación de origen",
+            "Preferencias del Usuario: Configuración, preferencias de idioma y configuración de atajos",
+            "Estado de Suscripción: Si tienes una suscripción Pro activa (gestionado por Apple)"
+          ]
+        },
+        "infoNotCollect": {
+          "title": "Información que NO Recopilamos",
+          "items": [
+            "No recopilamos análisis ni datos de uso",
+            "No rastreamos tu comportamiento o actividades",
+            "No usamos SDKs de seguimiento o publicidad de terceros",
+            "No compartimos datos con terceros",
+            "No transmitimos tu contenido del portapapeles a servidores externos (a menos que habilites explícitamente la sincronización Pro)",
+            "La cuenta es opcional - Iniciar sesión con Apple es solo para sincronización de membresía Pro entre tus dispositivos Apple"
+          ]
+        },
+        "howItWorks": {
+          "title": "Cómo Funciona ClipArc",
+          "intro": "ClipArc monitorea el portapapeles de tu sistema para proporcionar sus funciones:",
+          "items": [
+            "El contenido del portapapeles se captura y almacena localmente usando el framework SwiftData de Apple",
+            "La detección del tipo de contenido se realiza completamente en tu dispositivo",
+            "La obtención del título de página URL es la única solicitud de red, y solo cuando copias una URL",
+            "Todas las operaciones de búsqueda y filtrado ocurren localmente"
+          ]
+        },
+        "urlFetching": {
+          "title": "Obtención de Título de Página URL",
+          "content": "Cuando copias una URL, ClipArc puede obtener el título de la página web para proporcionar mejor contexto en tu historial de portapapeles. Esta es la única vez que ClipArc hace una solicitud de red. El contenido de la URL se obtiene directamente y no se envían datos a nuestros servidores."
+        },
+        "permissions": {
+          "title": "Permisos Requeridos",
+          "intro": "ClipArc requiere los siguientes permisos:",
+          "items": [
+            "Accesibilidad (Solo Mac): Requerido para el atajo global y la funcionalidad de pegado inteligente",
+            "Acceso al Portapapeles: Requerido para monitorear y almacenar contenido del portapapeles"
+          ],
+          "note": "Estos permisos se usan únicamente para la funcionalidad de la app y no para recopilación de datos."
+        },
+        "dataStorage": {
+          "title": "Almacenamiento de Datos",
+          "content": "Todos los datos se almacenan localmente en tu dispositivo usando el framework SwiftData de Apple. Los datos se almacenan en el contenedor sandbox de la app, protegido por las características de seguridad de iOS, macOS y visionOS.",
+          "control": "Tienes control total sobre tus datos:",
+          "items": [
+            "Elimina elementos individuales del portapapeles en cualquier momento",
+            "Borra todo el historial a través de la app",
+            "Elimina todos los datos desinstalando la app"
+          ]
+        },
+        "appleSignIn": {
+          "title": "Iniciar sesión con Apple (Opcional)",
+          "content": "Para suscriptores Pro, ofrecemos Iniciar sesión con Apple como una función opcional para verificar el estado de membresía en tu iPhone, iPad, Mac y Vision Pro. Cuando usas Iniciar sesión con Apple, solo recibimos un identificador anónimo de Apple - tus datos del portapapeles nunca se sincronizan con servidores externos. Puedes usar todas las funciones de ClipArc sin iniciar sesión."
+        },
+        "inAppPurchases": {
+          "title": "Compras Dentro de la App",
+          "content": "ClipArc usa StoreKit de Apple para compras dentro de la app y suscripciones. Todo el procesamiento de pagos es manejado por Apple. No recopilamos ni almacenamos ninguna información de pago."
+        },
+        "thirdParty": {
+          "title": "Servicios de Terceros",
+          "intro": "ClipArc no usa ningún servicio de análisis, publicidad o seguimiento de terceros. Nos basamos exclusivamente en los frameworks nativos de Apple:",
+          "items": [
+            "SwiftData (para almacenamiento local de datos)",
+            "StoreKit (para compras dentro de la app)",
+            "Iniciar sesión con Apple (opcional, para verificación de membresía Pro)",
+            "URLSession (solo para obtención de títulos de URL)"
+          ]
+        },
+        "children": {
+          "title": "Privacidad de Niños",
+          "content": "ClipArc es apropiado para todas las edades. No recopilamos información personal de ningún usuario, incluidos niños. Dado que no se transmiten datos externamente, no hay preocupaciones sobre datos de niños."
+        },
+        "changes": {
+          "title": "Cambios a Esta Política",
+          "content": "Podemos actualizar esta Política de Privacidad de vez en cuando. Cualquier cambio se reflejará en esta página con una fecha de 'Última Actualización' actualizada."
+        },
+        "contact": {
+          "title": "Contáctanos",
+          "content": "Si tienes preguntas sobre esta Política de Privacidad o ClipArc, contáctanos en:"
+        }
+      },
+      "backToCliparc": "Volver a ClipArc"
+    },
+    "terms": {
+      "meta": {
+        "title": "Términos de Servicio - ClipArc",
+        "description": "Términos de Servicio de ClipArc - Gestor de Portapapeles Inteligente para macOS"
+      },
+      "title": "Términos de Servicio",
+      "subtitle": "ClipArc - Gestor de Portapapeles Inteligente para macOS",
+      "lastUpdated": "Última Actualización: 23 de enero de 2026",
+      "sections": {
+        "agreement": {
+          "title": "Aceptación de Términos",
+          "content": "Al descargar, instalar o usar ClipArc ('la App'), aceptas quedar vinculado por estos Términos de Servicio ('Términos'). Si no estás de acuerdo con estos Términos, no uses la App."
+        },
+        "description": {
+          "title": "Descripción del Servicio",
+          "content": "ClipArc es una aplicación de gestión de portapapeles para plataformas Apple (iPhone, iPad, Mac y Vision Pro) que almacena y organiza tu historial de portapapeles localmente en tu dispositivo. La App proporciona funciones que incluyen, pero no se limitan a, monitoreo del portapapeles, detección de tipo de contenido, funcionalidad de búsqueda y capacidades de pegado rápido."
+        },
+        "license": {
+          "title": "Licencia",
+          "intro": "Versegates te otorga una licencia limitada, no exclusiva, intransferible y revocable para usar ClipArc con fines personales o comerciales de acuerdo con estos Términos y los Términos de Servicio de la App Store de Apple.",
+          "restrictions": "No puedes:",
+          "items": [
+            "Copiar, modificar o distribuir la App",
+            "Realizar ingeniería inversa, descompilar o desensamblar la App",
+            "Eliminar cualquier aviso de propiedad o etiquetas de la App",
+            "Usar la App para cualquier propósito ilegal"
+          ]
+        },
+        "subscriptions": {
+          "title": "Suscripciones y Compras",
+          "intro": "ClipArc ofrece un nivel gratuito y suscripciones Pro de pago a través de la App Store de Apple.",
+          "tiers": [
+            "Nivel Gratuito: Limitado a 5 elementos del portapapeles con características básicas",
+            "Pro Mensual: $2.99/mes para historial de portapapeles ilimitado",
+            "Pro Anual: $19.99/año para historial de portapapeles ilimitado",
+            "Pro De por Vida: $59.99 compra única para acceso ilimitado"
+          ],
+          "note": "Todas las compras se procesan a través de Apple y están sujetas a los términos y condiciones de Apple. Las suscripciones se renuevan automáticamente a menos que se cancelen al menos 24 horas antes del final del período actual. Gestiona las suscripciones en la configuración de tu Apple ID."
+        },
+        "refunds": {
+          "title": "Reembolsos",
+          "content": "Todas las compras se realizan a través de la App Store de Apple. Las solicitudes de reembolso deben dirigirse a Apple de acuerdo con su política de reembolsos. No podemos procesar reembolsos directamente."
+        },
+        "userResponsibilities": {
+          "title": "Responsabilidades del Usuario",
+          "intro": "Eres responsable de:",
+          "items": [
+            "Asegurar que tu uso de la App cumple con las leyes aplicables",
+            "Mantener la seguridad de tu dispositivo y datos",
+            "Cualquier contenido que copies y almacenes usando la App",
+            "Gestionar y respaldar tus propios datos"
+          ]
+        },
+        "privacy": {
+          "title": "Privacidad",
+          "content": "Tu privacidad es importante para nosotros. Por favor revisa nuestra Política de Privacidad para entender cómo ClipArc maneja tus datos. En resumen, todos los datos del portapapeles se almacenan localmente en tu dispositivo y nunca se transmiten a servidores externos."
+        },
+        "disclaimer": {
+          "title": "Descargo de Garantías",
+          "content1": "LA APP SE PROPORCIONA 'TAL CUAL' Y 'SEGÚN DISPONIBILIDAD' SIN GARANTÍAS DE NINGÚN TIPO, YA SEAN EXPRESAS O IMPLÍCITAS, INCLUYENDO PERO NO LIMITADO A GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN.",
+          "content2": "No garantizamos que la App será ininterrumpida, libre de errores o completamente segura. Usas la App bajo tu propio riesgo."
+        },
+        "liability": {
+          "title": "Limitación de Responsabilidad",
+          "intro": "EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEY, VERSEGATES NO SERÁ RESPONSABLE DE NINGÚN DAÑO INDIRECTO, INCIDENTAL, ESPECIAL, CONSECUENTE O PUNITIVO, O CUALQUIER PÉRDIDA DE BENEFICIOS O INGRESOS, YA SEA INCURRIDA DIRECTA O INDIRECTAMENTE, O CUALQUIER PÉRDIDA DE DATOS, USO, FONDO DE COMERCIO U OTRAS PÉRDIDAS INTANGIBLES RESULTANTES DE:",
+          "items": [
+            "Tu uso o incapacidad de usar la App",
+            "Cualquier acceso no autorizado o alteración de tus datos",
+            "Cualquier pérdida de datos del portapapeles o historial",
+            "Cualquier otro asunto relacionado con la App"
+          ]
+        },
+        "indemnification": {
+          "title": "Indemnización",
+          "content": "Aceptas indemnizar y mantener indemne a Versegates y sus funcionarios, directores, empleados y agentes de cualquier reclamación, daños, pérdidas, responsabilidades y gastos que surjan de tu uso de la App o violación de estos Términos."
+        },
+        "modifications": {
+          "title": "Modificaciones a la App",
+          "content": "Nos reservamos el derecho de modificar, suspender o discontinuar la App o cualquier parte de la misma en cualquier momento sin previo aviso. No seremos responsables ante ti ni ante ningún tercero por cualquier modificación, suspensión o discontinuación de la App."
+        },
+        "changes": {
+          "title": "Cambios a los Términos",
+          "content": "Podemos actualizar estos Términos de vez en cuando. Te notificaremos de cualquier cambio material actualizando la fecha de 'Última Actualización'. Tu uso continuado de la App después de tales cambios constituye la aceptación de los nuevos Términos."
+        },
+        "governingLaw": {
+          "title": "Ley Aplicable",
+          "content": "Estos Términos se regirán e interpretarán de acuerdo con las leyes de la jurisdicción en la que opera Versegates, sin tener en cuenta sus disposiciones sobre conflicto de leyes."
+        },
+        "contact": {
+          "title": "Contáctanos",
+          "content": "Si tienes preguntas sobre estos Términos, contáctanos en:"
+        }
+      },
+      "backToCliparc": "Volver a ClipArc"
+    },
+    "troubleshooting": {
+      "meta": {
+        "title": "Solución de Problemas - ClipArc",
+        "description": "Guía de solución de problemas de ClipArc - Gestor de Portapapeles Inteligente para macOS"
+      },
+      "title": "Solución de Problemas",
+      "subtitle": "ClipArc - Gestor de Portapapeles Inteligente para macOS",
+      "backToSupport": "Volver a Soporte",
+      "cantPaste": {
+        "title": "No puedo pegar en otras apps (Mac)",
+        "description": "Para pegar directamente en otras aplicaciones, ClipArc requiere acceso a las funciones de accesibilidad de tu Mac. A veces (por ejemplo, después de una actualización del sistema operativo), el acceso puede perderse involuntariamente y necesitarás volver a habilitarlo manualmente.",
+        "stepsTitle": "Pasos para Solucionar",
+        "steps": {
+          "step1": "Ve a Ajustes del Sistema → Privacidad y Seguridad → Accesibilidad",
+          "step2": "Encuentra ClipArc en la lista y haz clic en el botón \"−\" para eliminarlo",
+          "step3": "Reinicia tu Mac",
+          "step4": "Abre ClipArc, intenta pegar cualquier elemento en cualquier app, y sigue las instrucciones en pantalla para otorgar el permiso nuevamente"
+        },
+        "imageAlt": "Ajustes de Accesibilidad de macOS mostrando ClipArc",
+        "note": {
+          "label": "Nota:",
+          "content": "Este problema solo afecta a Mac. En iPhone, iPad y Vision Pro, ClipArc funciona con el portapapeles del sistema sin requerir permisos especiales."
+        }
+      },
+      "stillNeedHelp": {
+        "title": "¿Aún necesitas ayuda?",
+        "description": "Si los pasos anteriores no resuelven tu problema, contacta con nuestro equipo de soporte."
+      }
+    }
+  },
+  "common": {
+    "copyright": "© {year} Versegates. Todos los derechos reservados.",
+    "seePrivacyPolicy": "Consulta nuestra Política de Privacidad para más detalles."
+  }
+}

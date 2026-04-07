@@ -1,0 +1,450 @@
+{
+  "cliparc": {
+    "meta": {
+      "title": "ClipArc - Gestore Appunti Intelligente per macOS",
+      "description": "Il gestore appunti intelligente che ricorda tutto ciò che copi. Rilevamento intelligente del contenuto, ricerca istantanea e incolla senza interruzioni in tutte le tue app."
+    },
+    "hero": {
+      "tagline": "Gestore Appunti Intelligente per macOS",
+      "description": "Non perdere mai più ciò che copi. ClipArc organizza in modo intelligente la cronologia degli appunti con rilevamento smart del contenuto, ricerca istantanea e incolla con un clic."
+    },
+    "features": {
+      "title": "Funzionalità",
+      "intelligentDetection": {
+        "title": "Rilevamento Intelligente del Contenuto",
+        "description": "Categorizza automaticamente il contenuto degli appunti in 10 tipi: Testo, URL, Immagine, Codice, Colore, Email, Telefono, Numero, JSON e File."
+      },
+      "instantAccess": {
+        "title": "Accesso Istantaneo",
+        "description": "Premi Cmd+Shift+V ovunque per aprire la cronologia. Cerca, filtra e incolla in pochi secondi senza cambiare app."
+      },
+      "powerfulSearch": {
+        "title": "Ricerca Potente",
+        "description": "Ricerca fuzzy in tutto il contenuto degli appunti. Filtra per tipo per trovare rapidamente l'URL, lo snippet di codice o l'immagine copiati in precedenza."
+      },
+      "frequentItems": {
+        "title": "Elementi Frequenti",
+        "description": "Traccia gli elementi degli appunti più usati. Accedi con un clic ai contenuti incollati frequentemente per la massima produttività."
+      },
+      "privacyFirst": {
+        "title": "Privacy Prima di Tutto",
+        "description": "Tutti i dati sono memorizzati localmente sul tuo dispositivo. Nessuna sincronizzazione cloud, nessun account richiesto. La tua cronologia non lascia mai il dispositivo."
+      },
+      "smartPaste": {
+        "title": "Incolla Intelligente",
+        "description": "Incolla con un clic in qualsiasi applicazione attiva. Funziona perfettamente con tutte le tue app con ripristino automatico degli appunti."
+      }
+    },
+    "contentTypes": {
+      "title": "Riconosce Tutti i Tuoi Contenuti",
+      "text": "Testo",
+      "urls": "URL",
+      "images": "Immagini",
+      "code": "Codice",
+      "colors": "Colori",
+      "emails": "Email",
+      "phoneNumbers": "Telefoni",
+      "numbers": "Numeri",
+      "json": "JSON",
+      "files": "File"
+    },
+    "perfectFor": {
+      "title": "Perfetto Per",
+      "developers": {
+        "title": "Sviluppatori",
+        "description": "Snippet di codice, comandi terminale, chiavi API a portata di mano"
+      },
+      "writers": {
+        "title": "Scrittori",
+        "description": "Note di ricerca, citazioni e riferimenti sempre accessibili"
+      },
+      "designers": {
+        "title": "Designer",
+        "description": "Codici colore, immagini e risorse di design organizzati"
+      },
+      "dataAnalysts": {
+        "title": "Analisti Dati",
+        "description": "Dati JSON, numeri e query tracciati automaticamente"
+      },
+      "businessProfessionals": {
+        "title": "Professionisti",
+        "description": "Email, contatti e documenti a portata di mano"
+      },
+      "powerUsers": {
+        "title": "Power User",
+        "description": "Potenzia il tuo workflow con cronologia illimitata"
+      }
+    },
+    "featuresList": {
+      "unlimitedHistory": "Cronologia illimitata (Pro)",
+      "contentTypes": "10 categorie di tipi di contenuto",
+      "globalHotkey": "Scorciatoia globale su Mac (Cmd+Shift+V)",
+      "fuzzySearch": "Ricerca fuzzy e filtri",
+      "frequentItems": "Tracciamento elementi frequenti",
+      "urlTitle": "Recupero titoli pagine URL",
+      "menuBar": "Interfaccia nella barra dei menu",
+      "batchDelete": "Eliminazione in batch",
+      "sourceApp": "Tracciamento app di origine",
+      "offline": "Funziona completamente offline",
+      "languages": "13 lingue supportate",
+      "nativeDesign": "Design nativo per macOS"
+    },
+    "pricing": {
+      "title": "Prezzi Semplici",
+      "free": {
+        "title": "Gratuito",
+        "price": "0 $",
+        "features": ["5 elementi negli appunti", "Funzionalità base", "Accesso barra dei menu"]
+      },
+      "proYearly": {
+        "title": "Pro Annuale",
+        "price": "19,99 $",
+        "period": "/anno",
+        "save": "Risparmia 44%",
+        "mostPopular": "Più Popolare",
+        "features": ["Cronologia illimitata", "Tutte le funzionalità", "Supporto prioritario"]
+      },
+      "lifetime": {
+        "title": "A Vita",
+        "price": "59,99 $",
+        "features": ["Acquisto unico", "Tutte le funzionalità per sempre", "Aggiornamenti gratuiti"]
+      }
+    },
+    "requirements": {
+      "title": "Requisiti di Sistema",
+      "description": "Richiede macOS 14.0 o versioni successive. Funziona su Mac con Apple Silicon e Intel."
+    },
+    "cta": {
+      "download": "Scarica dal Mac App Store",
+      "privacy": "Privacy Policy",
+      "terms": "Termini di Servizio",
+      "support": "Supporto",
+      "troubleshooting": "Risoluzione Problemi"
+    },
+    "support": {
+      "meta": {
+        "title": "Supporto - ClipArc",
+        "description": "Ottieni aiuto e supporto per ClipArc - Gestore Appunti Intelligente per macOS"
+      },
+      "title": "Supporto",
+      "subtitle": "ClipArc - Gestore Appunti Intelligente per macOS",
+      "contact": {
+        "title": "Contattaci",
+        "description": "Se hai domande, feedback o hai bisogno di assistenza con ClipArc, contattaci:"
+      },
+      "gettingStarted": {
+        "title": "Come Iniziare",
+        "step1": {
+          "title": "1. Concedi il Permesso di Accessibilità (solo Mac)",
+          "description": "Al primo avvio di ClipArc su Mac, macOS chiederà il permesso di Accessibilità. È necessario per la scorciatoia globale (Cmd+Shift+V). Vai in Impostazioni di Sistema → Privacy e Sicurezza → Accessibilità e abilita ClipArc."
+        },
+        "step2": {
+          "title": "2. Usa la Scorciatoia Globale",
+          "description": "Premi Cmd+Shift+V ovunque per aprire il pannello di ClipArc. Puoi anche cliccare sull'icona nella barra dei menu."
+        },
+        "step3": {
+          "title": "3. Incolla con Un Clic",
+          "description": "Clicca su qualsiasi elemento nella cronologia per incollarlo istantaneamente nell'applicazione attiva."
+        }
+      },
+      "faq": {
+        "title": "Domande Frequenti",
+        "q1": {
+          "question": "Perché ClipArc ha bisogno del permesso di Accessibilità? (solo Mac)",
+          "answer": "Su Mac, il permesso di Accessibilità è necessario per due funzioni: la scorciatoia globale (Cmd+Shift+V) per aprire ClipArc da qualsiasi app, e la funzione di incolla intelligente che incolla automaticamente il contenuto nell'applicazione attiva. Questo permesso non è richiesto su iPhone, iPad o Vision Pro."
+        },
+        "q2": {
+          "question": "I miei dati degli appunti sono sicuri?",
+          "answer": "Sì. Tutti i tuoi dati sono memorizzati localmente sul tuo dispositivo usando il framework SwiftData sicuro di Apple. Nessun dato viene trasmesso a server esterni, a meno che tu non scelga esplicitamente di accedere con Apple ID per la sincronizzazione Pro."
+        },
+        "q3": {
+          "question": "Qual è la differenza tra Gratuito e Pro?",
+          "answer": "La versione gratuita memorizza fino a 5 elementi e ne mostra 5 nel menu rapido. Pro sblocca la cronologia illimitata (configurabile da 5 a 1000 elementi), 10 elementi nel menu rapido, archiviazione illimitata di immagini e file, e ricerca completa."
+        },
+        "q4": {
+          "question": "Quali tipi di contenuto riconosce ClipArc?",
+          "answer": "ClipArc rileva automaticamente 10 tipi di contenuto: Testo, URL (con recupero titolo pagina), Immagine, Codice (tutti i linguaggi), codici Colore (hex, RGB), Email, Telefoni, Numeri/valuta, JSON e File."
+        },
+        "q5": {
+          "question": "Come elimino la cronologia?",
+          "answer": "Puoi eliminare singoli elementi passandoci sopra e cliccando il pulsante elimina. Per cancellare tutto, usa l'opzione 'Cancella Tutto' nelle impostazioni. Disinstallare l'app eliminerà anche tutti i dati."
+        },
+        "q6": {
+          "question": "ClipArc funziona con immagini e file?",
+          "answer": "Sì. ClipArc memorizza le immagini copiate con miniature e informazioni sulle dimensioni. Anche i percorsi dei file vengono tracciati, incluse le selezioni multiple."
+        },
+        "q7": {
+          "question": "Quali sono i requisiti di sistema?",
+          "answer": "ClipArc richiede iOS 26.1+ (iPhone/iPad), macOS 26.1+ (Mac) o visionOS 26.1+ (Apple Vision Pro)."
+        },
+        "q8": {
+          "question": "Quali opzioni di personalizzazione sono disponibili?",
+          "answer": "ClipArc offre numerose opzioni di personalizzazione: limite cronologia (da 5 a 1000 elementi), avvio all'accesso (Mac), mostra/nascondi icona dock (Mac), effetti sonori, tema dell'aspetto e selezione della lingua."
+        },
+        "q9": {
+          "question": "Quali lingue sono supportate?",
+          "answer": "ClipArc supporta 13 lingue: Inglese, Cinese Semplificato, Cinese Tradizionale, Giapponese, Coreano, Spagnolo, Francese, Tedesco, Italiano, Portoghese, Russo, Arabo e Hindi."
+        },
+        "q10": {
+          "question": "È necessario un account per usare ClipArc?",
+          "answer": "No, non è richiesto alcun account per usare ClipArc. L'accesso con Apple è completamente opzionale ed è disponibile solo per gli abbonati Pro che desiderano sincronizzare lo stato dell'abbonamento tra i propri dispositivi Apple."
+        },
+        "q11": {
+          "question": "Cos'è il Menu Rapido?",
+          "answer": "Il Menu Rapido è accessibile dalla barra dei menu su Mac e mostra gli elementi copiati più recenti per un accesso veloce. La versione gratuita mostra 5 elementi, mentre Pro ne mostra 10."
+        }
+      },
+      "troubleshooting": {
+        "title": "Risoluzione Problemi",
+        "cantPaste": {
+          "title": "Non riesco a incollare in altre app (Mac)",
+          "description": "Per incollare direttamente in altre applicazioni, ClipArc richiede l'accesso alle funzioni di accessibilità del tuo Mac. A volte (ad esempio, dopo un aggiornamento del sistema operativo), l'accesso potrebbe essere revocato involontariamente e dovrai riattivarlo manualmente.",
+          "steps": {
+            "step1": "Vai in Impostazioni di Sistema → Privacy e Sicurezza → Accessibilità",
+            "step2": "Trova ClipArc nell'elenco e clicca sul pulsante \"−\" per rimuoverlo",
+            "step3": "Riavvia il Mac",
+            "step4": "Avvia ClipArc, prova a incollare un elemento in qualsiasi app e segui le istruzioni sullo schermo per concedere nuovamente il permesso"
+          },
+          "imageAlt": "Impostazioni Accessibilità macOS con ClipArc"
+        }
+      },
+      "links": {
+        "title": "Link Utili",
+        "home": "Home ClipArc",
+        "privacy": "Privacy Policy",
+        "terms": "Termini di Servizio",
+        "troubleshooting": "Guida alla Risoluzione Problemi"
+      },
+      "backToCliparc": "Torna a ClipArc"
+    },
+    "privacy": {
+      "meta": {
+        "title": "Privacy Policy - ClipArc",
+        "description": "Privacy Policy di ClipArc - Gestore Appunti Intelligente per macOS"
+      },
+      "title": "Privacy Policy",
+      "subtitle": "ClipArc - Gestore Appunti Intelligente per macOS",
+      "lastUpdated": "Ultimo aggiornamento: 23 gennaio 2026",
+      "sections": {
+        "privacyMatters": {
+          "title": "La Tua Privacy È Importante",
+          "content": "ClipArc è progettato con la privacy come priorità. Tutti i dati degli appunti sono memorizzati localmente sul tuo dispositivo. Non raccogliamo, trasmettiamo o accediamo a nessun contenuto dei tuoi appunti. Ciò che copi rimane sul tuo dispositivo."
+        },
+        "infoCollect": {
+          "title": "Informazioni Che Raccogliamo",
+          "intro": "Non raccogliamo alcuna informazione personale.",
+          "stored": "I seguenti dati sono memorizzati solo localmente sul tuo dispositivo e non vengono mai trasmessi:",
+          "items": [
+            "Contenuto degli Appunti: Testo, immagini, file e altri contenuti che copi",
+            "Metadati del Contenuto: Tipo di contenuto, timestamp, conteggio utilizzi e applicazione di origine",
+            "Preferenze Utente: Impostazioni, preferenze di lingua e configurazione scorciatoie",
+            "Stato Abbonamento: Se hai un abbonamento Pro attivo (gestito da Apple)"
+          ]
+        },
+        "infoNotCollect": {
+          "title": "Informazioni Che NON Raccogliamo",
+          "items": [
+            "Non raccogliamo dati analitici o di utilizzo",
+            "Non tracciamo il tuo comportamento o le tue attività",
+            "Non usiamo SDK di tracciamento o pubblicità di terze parti",
+            "Non condividiamo dati con terze parti",
+            "Non trasmettiamo dati a server esterni, a meno che la sincronizzazione Pro non sia esplicitamente abilitata",
+            "Non richiediamo account - l'Accesso con Apple è opzionale solo per la sincronizzazione dell'abbonamento Pro tra i tuoi dispositivi Apple"
+          ]
+        },
+        "howItWorks": {
+          "title": "Come Funziona ClipArc",
+          "intro": "ClipArc monitora gli appunti di sistema per fornire le sue funzionalità:",
+          "items": [
+            "Il contenuto viene catturato e memorizzato localmente usando il framework SwiftData di Apple",
+            "Il rilevamento del tipo di contenuto avviene interamente sul tuo dispositivo",
+            "Il recupero del titolo pagina URL è l'unica richiesta di rete, e solo quando copi un URL",
+            "Tutte le operazioni di ricerca e filtro avvengono localmente"
+          ]
+        },
+        "urlFetching": {
+          "title": "Recupero Titoli Pagine URL",
+          "content": "Quando copi un URL, ClipArc può recuperare il titolo della pagina web per fornire un contesto migliore nella cronologia. Questa è l'unica volta che ClipArc fa una richiesta di rete. Il contenuto dell'URL viene recuperato direttamente e nessun dato viene inviato ai nostri server."
+        },
+        "permissions": {
+          "title": "Permessi Richiesti",
+          "intro": "ClipArc richiede i seguenti permessi:",
+          "items": [
+            "Accessibilità (solo Mac): Richiesto per la scorciatoia globale e la funzionalità di incolla intelligente",
+            "Accesso agli Appunti: Richiesto per monitorare e memorizzare il contenuto degli appunti"
+          ],
+          "note": "Questi permessi sono usati solo per le funzionalità dell'app e non per la raccolta dati."
+        },
+        "dataStorage": {
+          "title": "Memorizzazione Dati",
+          "content": "Tutti i dati sono memorizzati localmente sul tuo dispositivo usando il framework SwiftData di Apple. I dati sono memorizzati nel container sandbox dell'app, protetto dalle funzionalità di sicurezza di iOS, macOS e visionOS.",
+          "control": "Hai il pieno controllo sui tuoi dati:",
+          "items": [
+            "Elimina singoli elementi in qualsiasi momento",
+            "Cancella tutta la cronologia tramite l'app",
+            "Rimuovi tutti i dati disinstallando l'app"
+          ]
+        },
+        "appleSignIn": {
+          "title": "Accedi con Apple (Opzionale)",
+          "content": "ClipArc offre l'Accesso con Apple opzionale per gli abbonati Pro che desiderano verificare lo stato dell'abbonamento sui propri dispositivi Apple (iPhone, iPad, Mac, Vision Pro). Quando usi Accedi con Apple, riceviamo solo un identificatore anonimo da Apple. I dati dei tuoi appunti non vengono mai sincronizzati esternamente. Puoi usare ClipArc senza effettuare l'accesso."
+        },
+        "inAppPurchases": {
+          "title": "Acquisti In-App",
+          "content": "ClipArc usa StoreKit di Apple per acquisti in-app e abbonamenti. Tutta l'elaborazione dei pagamenti è gestita da Apple. Non raccogliamo o memorizziamo informazioni di pagamento."
+        },
+        "thirdParty": {
+          "title": "Servizi di Terze Parti",
+          "intro": "ClipArc non usa servizi di analisi, pubblicità o tracciamento di terze parti. Ci affidiamo esclusivamente ai framework nativi di Apple:",
+          "items": [
+            "SwiftData (per la memorizzazione locale)",
+            "StoreKit (per gli acquisti in-app)",
+            "Accedi con Apple (opzionale, per verifica abbonamento Pro)",
+            "URLSession (solo per il recupero titoli URL)"
+          ]
+        },
+        "children": {
+          "title": "Privacy dei Minori",
+          "content": "ClipArc è adatto a tutte le età. Non raccogliamo informazioni personali da nessun utente, inclusi i minori. Poiché nessun dato viene trasmesso esternamente, non ci sono preoccupazioni riguardo ai dati dei minori."
+        },
+        "changes": {
+          "title": "Modifiche a Questa Policy",
+          "content": "Potremmo aggiornare questa Privacy Policy di tanto in tanto. Eventuali modifiche saranno riflesse in questa pagina con una data di 'Ultimo aggiornamento' aggiornata."
+        },
+        "contact": {
+          "title": "Contattaci",
+          "content": "Se hai domande su questa Privacy Policy o ClipArc, contattaci a:"
+        }
+      },
+      "backToCliparc": "Torna a ClipArc"
+    },
+    "terms": {
+      "meta": {
+        "title": "Termini di Servizio - ClipArc",
+        "description": "Termini di Servizio di ClipArc - Gestore Appunti Intelligente per macOS"
+      },
+      "title": "Termini di Servizio",
+      "subtitle": "ClipArc - Gestore Appunti Intelligente per macOS",
+      "lastUpdated": "Ultimo aggiornamento: 23 gennaio 2026",
+      "sections": {
+        "agreement": {
+          "title": "Accettazione dei Termini",
+          "content": "Scaricando, installando o usando ClipArc ('l'App'), accetti di essere vincolato da questi Termini di Servizio ('Termini'). Se non accetti questi Termini, non usare l'App."
+        },
+        "description": {
+          "title": "Descrizione del Servizio",
+          "content": "ClipArc è un'applicazione di gestione appunti per piattaforme Apple (iPhone, iPad, Mac e Apple Vision Pro) che memorizza e organizza la cronologia localmente sul tuo dispositivo. L'App fornisce funzionalità tra cui, ma non limitate a, monitoraggio appunti, rilevamento tipo di contenuto, funzionalità di ricerca e capacità di incolla rapido."
+        },
+        "license": {
+          "title": "Licenza",
+          "intro": "Versegates ti concede una licenza limitata, non esclusiva, non trasferibile e revocabile per usare ClipArc per scopi personali o commerciali in conformità con questi Termini e i Termini di Servizio dell'App Store di Apple.",
+          "restrictions": "Non puoi:",
+          "items": [
+            "Copiare, modificare o distribuire l'App",
+            "Decompilare, disassemblare o fare reverse engineering dell'App",
+            "Rimuovere avvisi di proprietà o etichette dall'App",
+            "Usare l'App per scopi illegali"
+          ]
+        },
+        "subscriptions": {
+          "title": "Abbonamenti e Acquisti",
+          "intro": "ClipArc offre un livello gratuito e abbonamenti Pro a pagamento tramite l'App Store di Apple.",
+          "tiers": [
+            "Livello Gratuito: Limitato a 5 elementi con funzionalità base",
+            "Pro Mensile: 2,99 $/mese per cronologia illimitata",
+            "Pro Annuale: 19,99 $/anno per cronologia illimitata",
+            "Pro A Vita: 59,99 $ acquisto unico per accesso illimitato"
+          ],
+          "note": "Tutti gli acquisti sono elaborati tramite Apple e soggetti ai termini di Apple. Gli abbonamenti si rinnovano automaticamente a meno che non vengano annullati almeno 24 ore prima della fine del periodo corrente. Gestisci gli abbonamenti nelle impostazioni del tuo Apple ID."
+        },
+        "refunds": {
+          "title": "Rimborsi",
+          "content": "Tutti gli acquisti vengono effettuati tramite l'App Store di Apple. Le richieste di rimborso devono essere indirizzate ad Apple in conformità con la loro politica di rimborso. Non possiamo elaborare rimborsi direttamente."
+        },
+        "userResponsibilities": {
+          "title": "Responsabilità dell'Utente",
+          "intro": "Sei responsabile di:",
+          "items": [
+            "Assicurarti che l'uso dell'App sia conforme alle leggi applicabili",
+            "Mantenere la sicurezza del tuo dispositivo e dei tuoi dati",
+            "Qualsiasi contenuto che copi e memorizzi usando l'App",
+            "Gestire e fare backup dei tuoi dati"
+          ]
+        },
+        "privacy": {
+          "title": "Privacy",
+          "content": "La tua privacy è importante per noi. Consulta la nostra Privacy Policy per capire come ClipArc gestisce i tuoi dati. In sintesi, tutti i dati sono memorizzati localmente sul tuo dispositivo e non vengono mai trasmessi a server esterni."
+        },
+        "disclaimer": {
+          "title": "Esclusione di Garanzie",
+          "content1": "L'APP È FORNITA 'COSÌ COM'È' E 'COME DISPONIBILE' SENZA GARANZIE DI ALCUN TIPO, ESPRESSE O IMPLICITE, INCLUSE MA NON LIMITATE A GARANZIE IMPLICITE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO PARTICOLARE E NON VIOLAZIONE.",
+          "content2": "Non garantiamo che l'App sarà ininterrotta, priva di errori o completamente sicura. Usi l'App a tuo rischio."
+        },
+        "liability": {
+          "title": "Limitazione di Responsabilità",
+          "intro": "NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE, VERSEGATES NON SARÀ RESPONSABILE PER DANNI INDIRETTI, INCIDENTALI, SPECIALI, CONSEQUENZIALI O PUNITIVI, O PER PERDITA DI PROFITTI O RICAVI, SOSTENUTI DIRETTAMENTE O INDIRETTAMENTE, O PER PERDITA DI DATI, USO, AVVIAMENTO O ALTRE PERDITE INTANGIBILI DERIVANTI DA:",
+          "items": [
+            "Il tuo uso o incapacità di usare l'App",
+            "Qualsiasi accesso non autorizzato o alterazione dei tuoi dati",
+            "Qualsiasi perdita di dati o cronologia degli appunti",
+            "Qualsiasi altra questione relativa all'App"
+          ]
+        },
+        "indemnification": {
+          "title": "Indennizzo",
+          "content": "Accetti di indennizzare e tenere indenne Versegates e i suoi funzionari, direttori, dipendenti e agenti da qualsiasi reclamo, danno, perdita, responsabilità e spesa derivanti dal tuo uso dell'App o dalla violazione di questi Termini."
+        },
+        "modifications": {
+          "title": "Modifiche all'App",
+          "content": "Ci riserviamo il diritto di modificare, sospendere o interrompere l'App o qualsiasi sua parte in qualsiasi momento senza preavviso. Non saremo responsabili verso di te o terze parti per qualsiasi modifica, sospensione o interruzione dell'App."
+        },
+        "changes": {
+          "title": "Modifiche ai Termini",
+          "content": "Potremmo aggiornare questi Termini di tanto in tanto. Ti informeremo di eventuali modifiche sostanziali aggiornando la data di 'Ultimo aggiornamento'. L'uso continuato dell'App dopo tali modifiche costituisce accettazione dei nuovi Termini."
+        },
+        "governingLaw": {
+          "title": "Legge Applicabile",
+          "content": "Questi Termini saranno regolati e interpretati in conformità con le leggi della giurisdizione in cui opera Versegates, senza riguardo alle disposizioni sul conflitto di leggi."
+        },
+        "contact": {
+          "title": "Contattaci",
+          "content": "Se hai domande su questi Termini, contattaci a:"
+        }
+      },
+      "backToCliparc": "Torna a ClipArc"
+    },
+    "troubleshooting": {
+      "meta": {
+        "title": "Risoluzione Problemi - ClipArc",
+        "description": "Guida alla risoluzione dei problemi di ClipArc - Gestore Appunti Intelligente per macOS"
+      },
+      "title": "Risoluzione Problemi",
+      "subtitle": "ClipArc - Gestore Appunti Intelligente per macOS",
+      "backToSupport": "Torna al Supporto",
+      "cantPaste": {
+        "title": "Non riesco a incollare in altre app (Mac)",
+        "description": "Per incollare direttamente in altre applicazioni, ClipArc richiede l'accesso alle funzioni di accessibilità del tuo Mac. A volte (ad esempio, dopo un aggiornamento del sistema operativo), l'accesso potrebbe essere revocato involontariamente e dovrai riattivarlo manualmente.",
+        "stepsTitle": "Passaggi per Risolvere",
+        "steps": {
+          "step1": "Vai in Impostazioni di Sistema → Privacy e Sicurezza → Accessibilità",
+          "step2": "Trova ClipArc nell'elenco e clicca sul pulsante \"−\" per rimuoverlo",
+          "step3": "Riavvia il Mac",
+          "step4": "Avvia ClipArc, prova a incollare un elemento in qualsiasi app e segui le istruzioni sullo schermo per concedere nuovamente il permesso"
+        },
+        "imageAlt": "Impostazioni Accessibilità macOS con ClipArc",
+        "note": {
+          "label": "Nota:",
+          "content": "Questo problema riguarda solo Mac. Su iPhone, iPad e Vision Pro, ClipArc funziona con gli appunti di sistema senza richiedere permessi speciali."
+        }
+      },
+      "stillNeedHelp": {
+        "title": "Hai ancora bisogno di aiuto?",
+        "description": "Se i passaggi sopra non risolvono il tuo problema, contatta il nostro team di supporto."
+      }
+    }
+  },
+  "common": {
+    "copyright": "© {year} Versegates. Tutti i diritti riservati.",
+    "seePrivacyPolicy": "Vedi la nostra Privacy Policy per maggiori dettagli."
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "cliparc": {
+    "meta": {
+      "title": "ClipArc - macOS용 스마트 클립보드 관리자",
+      "description": "Mac용 지능형 클립보드 관리자. 스마트 콘텐츠 감지, 즉시 검색, 모든 앱에 원활한 붙여넣기."
+    },
+    "hero": {
+      "tagline": "macOS용 스마트 클립보드 관리자",
+      "description": "복사한 것을 다시는 잃어버리지 마세요. ClipArc는 스마트 콘텐츠 감지, 즉시 검색, 원클릭 붙여넣기로 클립보드 기록을 지능적으로 정리합니다."
+    },
+    "features": {
+      "title": "기능",
+      "intelligentDetection": {
+        "title": "지능형 콘텐츠 감지",
+        "description": "클립보드 콘텐츠를 10가지 유형으로 자동 분류: 텍스트, URL, 이미지, 코드, 색상, 이메일, 전화, 숫자, JSON, 파일 등."
+      },
+      "instantAccess": {
+        "title": "즉시 액세스",
+        "description": "어디서든 Cmd+Shift+V를 눌러 클립보드 기록을 열 수 있습니다. 앱 전환 없이 몇 초 만에 검색, 필터링, 붙여넣기."
+      },
+      "powerfulSearch": {
+        "title": "강력한 검색",
+        "description": "모든 클립보드 콘텐츠를 퍼지 검색. 유형별로 필터링하여 이전에 복사한 URL, 코드 스니펫 또는 이미지를 빠르게 찾습니다."
+      },
+      "frequentItems": {
+        "title": "자주 사용하는 항목",
+        "description": "가장 많이 사용하는 클립보드 항목을 추적합니다. 원클릭으로 자주 붙여넣는 콘텐츠에 액세스하여 생산성을 극대화합니다."
+      },
+      "privacyFirst": {
+        "title": "개인정보 보호 우선",
+        "description": "모든 데이터는 기기에 로컬 저장됩니다. 클라우드 동기화 불필요, 계정 불필요. 클립보드 기록은 기기를 떠나지 않습니다."
+      },
+      "smartPaste": {
+        "title": "스마트 붙여넣기",
+        "description": "활성 애플리케이션에 원클릭으로 붙여넣기. 모든 앱에서 원활하게 작동하며 클립보드를 자동 복원합니다."
+      }
+    },
+    "contentTypes": {
+      "title": "모든 콘텐츠 인식",
+      "text": "텍스트",
+      "urls": "URL",
+      "images": "이미지",
+      "code": "코드",
+      "colors": "색상",
+      "emails": "이메일",
+      "phoneNumbers": "전화번호",
+      "numbers": "숫자",
+      "json": "JSON",
+      "files": "파일"
+    },
+    "perfectFor": {
+      "title": "이런 분들께 적합",
+      "developers": {
+        "title": "개발자",
+        "description": "코드 스니펫, 터미널 명령어, API 키를 손쉽게 사용"
+      },
+      "writers": {
+        "title": "작가",
+        "description": "연구 노트, 인용문, 참고 자료에 언제든 액세스"
+      },
+      "designers": {
+        "title": "디자이너",
+        "description": "색상 코드, 이미지, 디자인 에셋을 체계적으로 정리"
+      },
+      "dataAnalysts": {
+        "title": "데이터 분석가",
+        "description": "JSON 데이터, 숫자, 쿼리를 자동 추적"
+      },
+      "businessProfessionals": {
+        "title": "비즈니스 전문가",
+        "description": "이메일, 연락처, 문서를 손쉽게 사용"
+      },
+      "powerUsers": {
+        "title": "파워 유저",
+        "description": "무제한 클립보드 기록으로 워크플로우를 초가속"
+      }
+    },
+    "featuresList": {
+      "unlimitedHistory": "무제한 클립보드 기록 (Pro)",
+      "contentTypes": "10가지 콘텐츠 유형 카테고리",
+      "globalHotkey": "글로벌 단축키 (Mac: Cmd+Shift+V)",
+      "fuzzySearch": "퍼지 검색 및 필터링",
+      "frequentItems": "자주 사용하는 항목 추적",
+      "urlTitle": "URL 페이지 제목 가져오기",
+      "menuBar": "메뉴 막대 앱 인터페이스",
+      "batchDelete": "일괄 삭제 작업",
+      "sourceApp": "소스 앱 추적",
+      "offline": "완전 오프라인 작동",
+      "languages": "13개 언어 지원",
+      "nativeDesign": "네이티브 macOS 디자인"
+    },
+    "pricing": {
+      "title": "간단한 가격",
+      "free": {
+        "title": "무료",
+        "price": "$0",
+        "features": ["클립보드 항목 5개", "기본 기능", "메뉴 막대 액세스"]
+      },
+      "proYearly": {
+        "title": "Pro 연간",
+        "price": "$19.99",
+        "period": "/년",
+        "save": "44% 할인",
+        "mostPopular": "가장 인기",
+        "features": ["무제한 기록", "모든 기능", "우선 지원"]
+      },
+      "lifetime": {
+        "title": "평생",
+        "price": "$59.99",
+        "features": ["일회성 구매", "영구적으로 모든 기능", "무료 업데이트"]
+      }
+    },
+    "requirements": {
+      "title": "시스템 요구 사항",
+      "description": "macOS 14.0 이상 필요. Apple Silicon 및 Intel Mac 지원."
+    },
+    "cta": {
+      "download": "Mac App Store에서 다운로드",
+      "privacy": "개인정보 처리방침",
+      "terms": "서비스 약관",
+      "support": "지원",
+      "troubleshooting": "문제 해결"
+    },
+    "support": {
+      "meta": {
+        "title": "지원 - ClipArc",
+        "description": "ClipArc 도움말 및 지원 - macOS용 스마트 클립보드 관리자"
+      },
+      "title": "지원",
+      "subtitle": "ClipArc - macOS용 스마트 클립보드 관리자",
+      "contact": {
+        "title": "문의하기",
+        "description": "ClipArc에 대한 질문, 피드백 또는 도움이 필요하시면 연락해 주세요:"
+      },
+      "gettingStarted": {
+        "title": "시작하기",
+        "step1": {
+          "title": "1. 손쉬운 사용 권한 부여 (Mac 전용)",
+          "description": "Mac에서 ClipArc를 처음 실행하면 손쉬운 사용 권한을 요청합니다. 글로벌 단축키(Cmd+Shift+V) 작동에 필요합니다. 시스템 설정 → 개인정보 보호 및 보안 → 손쉬운 사용에서 ClipArc를 활성화하세요. iPhone, iPad, Vision Pro에서는 이 권한이 필요하지 않습니다."
+        },
+        "step2": {
+          "title": "2. 글로벌 단축키 사용",
+          "description": "어디서든 Cmd+Shift+V를 눌러 ClipArc의 클립보드 패널을 엽니다. 메뉴 막대 아이콘을 클릭할 수도 있습니다."
+        },
+        "step3": {
+          "title": "3. 원클릭 붙여넣기",
+          "description": "클립보드 기록에서 항목을 클릭하면 현재 활성 애플리케이션에 즉시 붙여넣습니다."
+        }
+      },
+      "faq": {
+        "title": "자주 묻는 질문",
+        "q1": {
+          "question": "ClipArc에 손쉬운 사용 권한이 필요한 이유는? (Mac 전용)",
+          "answer": "Mac에서 손쉬운 사용 권한은 두 가지 기능에 필요합니다: 모든 앱에서 ClipArc를 여는 글로벌 단축키(Cmd+Shift+V)와 활성 애플리케이션에 자동으로 붙여넣는 스마트 붙여넣기 기능입니다. iPhone, iPad, Vision Pro에서는 이 권한이 필요하지 않습니다."
+        },
+        "q2": {
+          "question": "클립보드 데이터는 안전한가요?",
+          "answer": "네. 모든 클립보드 데이터는 Apple의 안전한 SwiftData 프레임워크를 사용하여 기기에 로컬 저장됩니다. Pro 동기화를 위해 Apple ID로 명시적으로 로그인하지 않는 한 외부 서버로 데이터가 전송되지 않습니다."
+        },
+        "q3": {
+          "question": "무료 버전과 Pro 버전의 차이점은?",
+          "answer": "무료 버전은 최대 5개의 클립보드 항목을 저장하고 빠른 메뉴에 5개 항목을 표시합니다. Pro 버전은 무제한 클립보드 기록(5-1000개 설정 가능), 빠른 메뉴에 10개 항목 표시, 무제한 이미지 및 파일 저장, 전체 검색 기능을 잠금 해제합니다."
+        },
+        "q4": {
+          "question": "ClipArc가 인식하는 콘텐츠 유형은?",
+          "answer": "ClipArc는 10가지 콘텐츠 유형을 자동 감지합니다: 텍스트, URL(페이지 제목 가져오기 포함), 이미지, 코드(모든 프로그래밍 언어), 색상 코드(hex, RGB), 이메일, 전화번호, 숫자/통화, JSON, 파일."
+        },
+        "q5": {
+          "question": "클립보드 기록을 지우려면?",
+          "answer": "항목 위에 마우스를 올리고 삭제 버튼을 클릭하여 개별 항목을 삭제할 수 있습니다. 모든 기록을 지우려면 앱 설정의 '모두 지우기' 옵션을 사용하세요. 앱을 제거하면 모든 데이터가 삭제됩니다."
+        },
+        "q6": {
+          "question": "ClipArc는 이미지와 파일을 지원하나요?",
+          "answer": "네. ClipArc는 복사한 이미지를 썸네일 및 크기 정보와 함께 저장합니다. 여러 파일 선택을 포함한 파일 경로도 추적됩니다."
+        },
+        "q7": {
+          "question": "시스템 요구 사항은?",
+          "answer": "ClipArc는 iOS 26.1 이상(iPhone, iPad), macOS 26.1 이상(Mac), visionOS 26.1 이상(Apple Vision Pro)이 필요합니다."
+        },
+        "q8": {
+          "question": "어떤 사용자 지정 옵션이 있나요?",
+          "answer": "ClipArc는 많은 설정을 제공합니다: 기록 제한 설정(5-1000개), 로그인 시 실행(Mac), Dock 아이콘 표시/숨기기(Mac), 소리 알림, 외관(시스템/라이트/다크), 언어 기본 설정."
+        },
+        "q9": {
+          "question": "ClipArc는 어떤 언어를 지원하나요?",
+          "answer": "ClipArc는 13개 언어를 지원합니다: 영어, 중국어 간체, 중국어 번체, 일본어, 한국어, 스페인어, 프랑스어, 독일어, 이탈리아어, 포르투갈어(브라질), 러시아어, 아랍어, 힌디어."
+        },
+        "q10": {
+          "question": "ClipArc를 사용하려면 계정이 필요한가요?",
+          "answer": "기본 사용에는 계정이 필요하지 않습니다. 그러나 iPhone, iPad, Mac, Vision Pro 간 Pro 멤버십을 동기화하기 위해 선택적으로 Apple ID로 로그인할 수 있습니다. 모든 클립보드 데이터는 각 기기에 로컬 저장된 상태로 유지됩니다."
+        },
+        "q11": {
+          "question": "빠른 메뉴란 무엇인가요?",
+          "answer": "빠른 메뉴는 Mac의 메뉴 막대 아이콘 또는 다른 플랫폼의 앱 인터페이스에서 액세스할 수 있으며 빠른 액세스를 위해 최근 클립보드 항목을 표시합니다. 무료 사용자는 5개 항목, Pro 사용자는 10개 항목을 볼 수 있습니다."
+        }
+      },
+      "troubleshooting": {
+        "title": "문제 해결",
+        "cantPaste": {
+          "title": "다른 앱에 붙여넣기 안 됨 (Mac)",
+          "description": "다른 앱에 직접 붙여넣으려면 ClipArc가 Mac의 손쉬운 사용 기능에 대한 접근 권한이 필요합니다. 때때로 (예: 운영 체제 업데이트 후) 이 권한이 의도치 않게 취소될 수 있으며, 수동으로 다시 활성화해야 합니다.",
+          "steps": {
+            "step1": "시스템 설정 → 개인정보 보호 및 보안 → 손쉬운 사용으로 이동",
+            "step2": "목록에서 ClipArc를 찾아 \"−\" 버튼을 클릭하여 제거",
+            "step3": "Mac 재시작",
+            "step4": "ClipArc를 실행하고 아무 항목이나 아무 앱에 붙여넣기를 시도한 후, 화면의 안내에 따라 권한을 다시 부여"
+          },
+          "imageAlt": "ClipArc가 표시된 macOS 손쉬운 사용 설정"
+        }
+      },
+      "links": {
+        "title": "유용한 링크",
+        "home": "ClipArc 홈",
+        "privacy": "개인정보 처리방침",
+        "terms": "서비스 약관",
+        "troubleshooting": "문제 해결 가이드"
+      },
+      "backToCliparc": "ClipArc로 돌아가기"
+    },
+    "privacy": {
+      "meta": {
+        "title": "개인정보 처리방침 - ClipArc",
+        "description": "ClipArc 개인정보 처리방침 - macOS용 스마트 클립보드 관리자"
+      },
+      "title": "개인정보 처리방침",
+      "subtitle": "ClipArc - macOS용 스마트 클립보드 관리자",
+      "lastUpdated": "최종 업데이트: 2026년 1월 23일",
+      "sections": {
+        "privacyMatters": {
+          "title": "귀하의 개인정보가 중요합니다",
+          "content": "ClipArc는 개인정보 보호를 핵심으로 설계되었습니다. 모든 클립보드 데이터는 기기에 로컬 저장됩니다. 우리는 클립보드 콘텐츠를 수집, 전송 또는 액세스하지 않습니다. 복사한 내용은 기기에 남습니다."
+        },
+        "infoCollect": {
+          "title": "수집하는 정보",
+          "intro": "개인 정보를 수집하지 않습니다.",
+          "stored": "다음 데이터는 기기에만 로컬 저장되며 전송되지 않습니다:",
+          "items": [
+            "클립보드 콘텐츠: 복사한 텍스트, 이미지, 파일 및 기타 콘텐츠",
+            "콘텐츠 메타데이터: 콘텐츠 유형, 타임스탬프, 사용 횟수, 소스 애플리케이션",
+            "사용자 기본 설정: 설정, 언어 기본 설정, 단축키 구성",
+            "구독 상태: Pro 구독 활성화 여부(Apple에서 관리)"
+          ]
+        },
+        "infoNotCollect": {
+          "title": "수집하지 않는 정보",
+          "items": [
+            "분석 또는 사용 데이터를 수집하지 않습니다",
+            "행동이나 활동을 추적하지 않습니다",
+            "타사 추적 또는 광고 SDK를 사용하지 않습니다",
+            "클립보드 콘텐츠를 외부 서버로 전송하지 않습니다(Pro 동기화를 명시적으로 활성화하지 않는 한)",
+            "타사와 데이터를 공유하지 않습니다",
+            "계정은 선택 사항입니다 - Apple 로그인은 iPhone, iPad, Mac, Vision Pro 간 Pro 멤버십 동기화 전용입니다"
+          ]
+        },
+        "howItWorks": {
+          "title": "ClipArc 작동 방식",
+          "intro": "ClipArc는 기능을 제공하기 위해 시스템 클립보드를 모니터링합니다:",
+          "items": [
+            "Apple의 SwiftData 프레임워크를 사용하여 클립보드 콘텐츠를 로컬에 캡처하고 저장",
+            "콘텐츠 유형 감지는 기기에서 완전히 수행",
+            "URL 페이지 제목 가져오기는 유일한 네트워크 요청이며, URL을 복사할 때만 발생",
+            "모든 검색 및 필터링 작업은 로컬에서 수행"
+          ]
+        },
+        "urlFetching": {
+          "title": "URL 페이지 제목 가져오기",
+          "content": "URL을 복사하면 ClipArc가 클립보드 기록에서 더 나은 컨텍스트를 제공하기 위해 웹페이지 제목을 가져올 수 있습니다. 이것이 ClipArc가 네트워크 요청을 하는 유일한 시점입니다. URL 콘텐츠는 직접 가져오며 우리 서버로 데이터가 전송되지 않습니다."
+        },
+        "permissions": {
+          "title": "필요한 권한",
+          "intro": "ClipArc는 다음 권한이 필요합니다:",
+          "items": [
+            "손쉬운 사용(Mac 전용): 글로벌 단축키 및 스마트 붙여넣기 기능에 필요",
+            "클립보드 액세스: 클립보드 콘텐츠 모니터링 및 저장에 필요"
+          ],
+          "note": "이러한 권한은 앱 기능에만 사용되며 데이터 수집에는 사용되지 않습니다."
+        },
+        "dataStorage": {
+          "title": "데이터 저장",
+          "content": "모든 데이터는 Apple의 SwiftData 프레임워크를 사용하여 기기에 로컬 저장됩니다. 데이터는 앱의 샌드박스 컨테이너에 저장되며 iOS, macOS, visionOS 보안 기능으로 보호됩니다.",
+          "control": "데이터를 완전히 제어할 수 있습니다:",
+          "items": [
+            "언제든지 개별 클립보드 항목 삭제",
+            "앱을 통해 모든 기록 지우기",
+            "앱을 제거하여 모든 데이터 삭제"
+          ]
+        },
+        "appleSignIn": {
+          "title": "Apple 로그인(선택 사항)",
+          "content": "ClipArc는 iPhone, iPad, Mac, Vision Pro 간 멤버십을 확인하려는 Pro 구독자를 위해 선택적 Apple 로그인을 제공합니다. 로그인하면 Apple이 제공하는 익명 사용자 식별자만 받습니다. 클립보드 데이터는 외부 서버에 동기화되지 않습니다—각 기기에 로컬 저장된 상태로 유지됩니다. 로그인 없이 ClipArc를 사용할 수 있습니다."
+        },
+        "inAppPurchases": {
+          "title": "인앱 구매",
+          "content": "ClipArc는 인앱 구매 및 구독에 Apple의 StoreKit을 사용합니다. 모든 결제 처리는 Apple에서 처리합니다. 결제 정보를 수집하거나 저장하지 않습니다."
+        },
+        "thirdParty": {
+          "title": "타사 서비스",
+          "intro": "ClipArc는 타사 분석, 광고 또는 추적 서비스를 사용하지 않습니다. Apple의 네이티브 프레임워크만 사용합니다:",
+          "items": [
+            "SwiftData(로컬 데이터 저장용)",
+            "StoreKit(인앱 구매용)",
+            "Apple 로그인(선택 사항, Pro 멤버십 확인용)",
+            "URLSession(URL 제목 가져오기 전용)"
+          ]
+        },
+        "children": {
+          "title": "아동 개인정보 보호",
+          "content": "ClipArc는 모든 연령에 적합합니다. 아동을 포함한 모든 사용자로부터 개인 정보를 수집하지 않습니다. 외부로 데이터가 전송되지 않으므로 아동 데이터에 대한 우려가 없습니다."
+        },
+        "changes": {
+          "title": "정책 변경",
+          "content": "이 개인정보 처리방침은 수시로 업데이트될 수 있습니다. 변경 사항은 이 페이지에 반영되며 '최종 업데이트' 날짜가 업데이트됩니다."
+        },
+        "contact": {
+          "title": "문의하기",
+          "content": "이 개인정보 처리방침 또는 ClipArc에 대해 질문이 있으시면 연락해 주세요:"
+        }
+      },
+      "backToCliparc": "ClipArc로 돌아가기"
+    },
+    "terms": {
+      "meta": {
+        "title": "서비스 약관 - ClipArc",
+        "description": "ClipArc 서비스 약관 - macOS용 스마트 클립보드 관리자"
+      },
+      "title": "서비스 약관",
+      "subtitle": "ClipArc - macOS용 스마트 클립보드 관리자",
+      "lastUpdated": "최종 업데이트: 2026년 1월 23일",
+      "sections": {
+        "agreement": {
+          "title": "약관 동의",
+          "content": "ClipArc('앱')를 다운로드, 설치 또는 사용함으로써 본 서비스 약관('약관')에 구속되는 것에 동의합니다. 이 약관에 동의하지 않으면 앱을 사용하지 마세요."
+        },
+        "description": {
+          "title": "서비스 설명",
+          "content": "ClipArc는 클립보드 기록을 기기에 로컬 저장하고 정리하는 Apple 플랫폼(iOS, macOS, visionOS)용 클립보드 관리 애플리케이션입니다. 앱은 클립보드 모니터링, 콘텐츠 유형 감지, 검색 기능, 빠른 붙여넣기 기능을 포함하되 이에 국한되지 않는 기능을 제공합니다."
+        },
+        "license": {
+          "title": "라이선스",
+          "intro": "Versegates는 이 약관 및 Apple App Store 서비스 약관에 따라 개인 또는 상업 목적으로 ClipArc를 사용할 수 있는 제한적, 비독점적, 양도 불가능한, 취소 가능한 라이선스를 부여합니다.",
+          "restrictions": "다음 행위는 금지됩니다:",
+          "items": [
+            "앱의 복사, 수정 또는 배포",
+            "앱의 리버스 엔지니어링, 디컴파일 또는 디스어셈블",
+            "앱의 소유권 고지 또는 라벨 제거",
+            "앱의 불법적인 목적으로 사용"
+          ]
+        },
+        "subscriptions": {
+          "title": "구독 및 구매",
+          "intro": "ClipArc는 Apple App Store를 통해 무료 버전과 유료 Pro 구독을 제공합니다.",
+          "tiers": [
+            "무료 버전: 클립보드 항목 5개로 제한, 기본 기능",
+            "Pro 월간: $2.99/월, 무제한 클립보드 기록",
+            "Pro 연간: $19.99/년, 무제한 클립보드 기록",
+            "Pro 평생: $59.99 일회성 구매, 무제한 액세스"
+          ],
+          "note": "모든 구매는 Apple을 통해 처리되며 Apple의 약관이 적용됩니다. 현재 기간 종료 최소 24시간 전에 취소하지 않으면 구독이 자동으로 갱신됩니다. Apple ID 설정에서 구독을 관리하세요."
+        },
+        "refunds": {
+          "title": "환불",
+          "content": "모든 구매는 Apple App Store를 통해 이루어집니다. 환불 요청은 Apple의 환불 정책에 따라 Apple에 직접 문의하세요. 직접 환불 처리는 불가능합니다."
+        },
+        "userResponsibilities": {
+          "title": "사용자 책임",
+          "intro": "다음은 사용자의 책임입니다:",
+          "items": [
+            "앱 사용이 관련 법률을 준수하는지 확인",
+            "기기 및 데이터의 보안 유지",
+            "앱을 사용하여 복사하고 저장하는 콘텐츠",
+            "자신의 데이터 관리 및 백업"
+          ]
+        },
+        "privacy": {
+          "title": "개인정보",
+          "content": "귀하의 개인정보는 우리에게 중요합니다. ClipArc가 데이터를 어떻게 처리하는지 이해하려면 개인정보 처리방침을 검토하세요. 요약하면 모든 클립보드 데이터는 기기에 로컬 저장되며 외부 서버로 전송되지 않습니다."
+        },
+        "disclaimer": {
+          "title": "보증 부인",
+          "content1": "앱은 상품성, 특정 목적에의 적합성, 비침해의 묵시적 보증을 포함하되 이에 국한되지 않는 명시적 또는 묵시적 보증 없이 '있는 그대로' 및 '이용 가능한 대로' 제공됩니다.",
+          "content2": "앱이 중단 없이, 오류 없이 또는 완전히 안전할 것을 보증하지 않습니다. 앱 사용은 전적으로 귀하의 책임입니다."
+        },
+        "liability": {
+          "title": "책임 제한",
+          "intro": "법률이 허용하는 최대 범위 내에서 VERSEGATES는 다음으로 인해 발생하는 간접적, 부수적, 특별, 결과적 또는 징벌적 손해, 또는 직접 또는 간접적으로 발생한 이익 또는 수익 손실, 또는 데이터, 사용, 영업권 또는 기타 무형 손실에 대해 책임지지 않습니다:",
+          "items": [
+            "앱 사용 또는 사용 불능",
+            "데이터에 대한 무단 액세스 또는 변경",
+            "클립보드 데이터 또는 기록 손실",
+            "앱과 관련된 기타 모든 사항"
+          ]
+        },
+        "indemnification": {
+          "title": "면책",
+          "content": "귀하는 앱 사용 또는 이 약관 위반으로 인해 발생하는 모든 청구, 손해, 손실, 책임 및 비용으로부터 Versegates 및 그 임원, 이사, 직원, 대리인을 면책하고 보호하는 데 동의합니다."
+        },
+        "modifications": {
+          "title": "앱 수정",
+          "content": "우리는 예고 없이 언제든지 앱 또는 그 일부를 수정, 일시 중단 또는 중단할 권리를 보유합니다. 앱의 수정, 일시 중단 또는 중단에 대해 귀하 또는 제3자에게 책임지지 않습니다."
+        },
+        "changes": {
+          "title": "약관 변경",
+          "content": "이 약관은 수시로 업데이트될 수 있습니다. '최종 업데이트' 날짜를 업데이트하여 중요한 변경 사항을 알려드립니다. 이러한 변경 후 앱을 계속 사용하면 새 약관에 동의한 것으로 간주됩니다."
+        },
+        "governingLaw": {
+          "title": "준거법",
+          "content": "이 약관은 법률 충돌 조항에 관계없이 Versegates가 운영되는 관할권의 법률에 따라 관리되고 해석됩니다."
+        },
+        "contact": {
+          "title": "문의하기",
+          "content": "이 약관에 대해 질문이 있으시면 연락해 주세요:"
+        }
+      },
+      "backToCliparc": "ClipArc로 돌아가기"
+    },
+    "troubleshooting": {
+      "meta": {
+        "title": "문제 해결 - ClipArc",
+        "description": "ClipArc 문제 해결 가이드 - macOS용 스마트 클립보드 관리자"
+      },
+      "title": "문제 해결",
+      "subtitle": "ClipArc - macOS용 스마트 클립보드 관리자",
+      "backToSupport": "지원으로 돌아가기",
+      "cantPaste": {
+        "title": "다른 앱에 붙여넣기 안 됨 (Mac)",
+        "description": "다른 앱에 직접 붙여넣으려면 ClipArc가 Mac의 손쉬운 사용 기능에 대한 접근 권한이 필요합니다. 때때로 (예: 운영 체제 업데이트 후) 이 권한이 의도치 않게 취소될 수 있으며, 수동으로 다시 활성화해야 합니다.",
+        "stepsTitle": "해결 방법",
+        "steps": {
+          "step1": "시스템 설정 → 개인정보 보호 및 보안 → 손쉬운 사용으로 이동",
+          "step2": "목록에서 ClipArc를 찾아 \"−\" 버튼을 클릭하여 제거",
+          "step3": "Mac 재시작",
+          "step4": "ClipArc를 실행하고 아무 항목이나 아무 앱에 붙여넣기를 시도한 후, 화면의 안내에 따라 권한을 다시 부여"
+        },
+        "imageAlt": "ClipArc가 표시된 macOS 손쉬운 사용 설정",
+        "note": {
+          "label": "참고:",
+          "content": "이 문제는 Mac에서만 발생합니다. iPhone, iPad, Vision Pro에서는 ClipArc가 특별한 권한 없이 시스템 클립보드를 사용할 수 있습니다."
+        }
+      },
+      "stillNeedHelp": {
+        "title": "아직 도움이 필요하신가요?",
+        "description": "위의 단계로 문제가 해결되지 않으면 지원팀에 문의해 주세요."
+      }
+    }
+  },
+  "common": {
+    "copyright": "© {year} Versegates. All rights reserved.",
+    "seePrivacyPolicy": "자세한 내용은 개인정보 처리방침을 참조하세요."
+  }
+}

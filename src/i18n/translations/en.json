@@ -1,0 +1,446 @@
+{
+  "cliparc": {
+    "meta": {
+      "title": "ClipArc - Smart Clipboard Manager for macOS",
+      "description": "The intelligent clipboard manager that remembers everything you copy. Smart content detection, instant search, and seamless paste across all your apps on Mac."
+    },
+    "hero": {
+      "tagline": "Smart Clipboard Manager for macOS",
+      "description": "Never lose what you copy. ClipArc intelligently organizes your clipboard history with smart content detection, fuzzy search, and one-click paste to any app."
+    },
+    "features": {
+      "title": "Features",
+      "intelligentDetection": {
+        "title": "Intelligent Content Detection",
+        "description": "Automatically categorizes clipboard content into 10+ types: Text, URL, Image, File, Code, Color, Email, Phone, Number, JSON, and more."
+      },
+      "instantAccess": {
+        "title": "Instant Access",
+        "description": "Press Cmd+Shift+V anywhere to open your clipboard history. Navigate with keyboard, search, and paste in seconds."
+      },
+      "powerfulSearch": {
+        "title": "Fuzzy Search",
+        "description": "Flexible fuzzy matching algorithm with smart relevance scoring. Real-time filtering across content and preview text."
+      },
+      "frequentItems": {
+        "title": "Smart Paste Modes",
+        "description": "Choose your preferred paste mode: Direct Paste (simulates Cmd+V), Copy to Clipboard, or Ask Every Time."
+      },
+      "privacyFirst": {
+        "title": "Privacy First",
+        "description": "All data is stored locally on your Mac using SwiftData. No cloud sync, no accounts required. Your clipboard history never leaves your device."
+      },
+      "smartPaste": {
+        "title": "Screenshot Auto-Save",
+        "description": "Automatically detects and captures new screenshots from your designated folder. Supports system screenshots and third-party tools."
+      }
+    },
+    "contentTypes": {
+      "title": "Recognizes All Your Content",
+      "text": "Text",
+      "urls": "URLs",
+      "images": "Images",
+      "code": "Code",
+      "colors": "Colors",
+      "emails": "Emails",
+      "phoneNumbers": "Phone Numbers",
+      "numbers": "Numbers",
+      "json": "JSON",
+      "files": "Files"
+    },
+    "perfectFor": {
+      "title": "Perfect For",
+      "developers": {
+        "title": "Developers",
+        "description": "Code snippets, terminal commands, API keys at your fingertips"
+      },
+      "writers": {
+        "title": "Writers",
+        "description": "Research notes, quotes, and references always accessible"
+      },
+      "designers": {
+        "title": "Designers",
+        "description": "Color codes, images, and design assets organized"
+      },
+      "dataAnalysts": {
+        "title": "Data Analysts",
+        "description": "JSON data, numbers, and queries tracked automatically"
+      },
+      "businessProfessionals": {
+        "title": "Business Professionals",
+        "description": "Emails, contacts, and documents at your fingertips"
+      },
+      "powerUsers": {
+        "title": "Power Users",
+        "description": "Supercharge your workflow with unlimited clipboard history"
+      }
+    },
+    "featuresList": {
+      "unlimitedHistory": "Clipboard history (50/100/200/500 items)",
+      "contentTypes": "10+ content type categories",
+      "globalHotkey": "Global hotkey (Cmd+Shift+V)",
+      "fuzzySearch": "Fuzzy search with smart ranking",
+      "frequentItems": "Duplicate detection (SHA-256)",
+      "urlTitle": "URL page title fetching",
+      "menuBar": "Screenshot auto-capture",
+      "batchDelete": "Three paste modes",
+      "sourceApp": "Menu bar app with floating panel",
+      "offline": "Quick Look image preview",
+      "languages": "13 languages supported",
+      "nativeDesign": "Native macOS design"
+    },
+    "pricing": {
+      "title": "Simple Pricing",
+      "free": {
+        "title": "Free",
+        "price": "$0",
+        "features": ["5 clipboard items", "Basic features", "Menu bar access"]
+      },
+      "proYearly": {
+        "title": "Pro Yearly",
+        "price": "$19.99",
+        "period": "/year",
+        "save": "Save 44%",
+        "mostPopular": "Most Popular",
+        "features": ["Unlimited history", "All features", "Priority support"]
+      },
+      "lifetime": {
+        "title": "Lifetime",
+        "price": "$59.99",
+        "features": ["One-time purchase", "All features forever", "Free updates"]
+      }
+    },
+    "requirements": {
+      "title": "System Requirements",
+      "description": "Requires macOS 14.0 or later. Works on Apple Silicon and Intel Macs."
+    },
+    "cta": {
+      "download": "Download on Mac App Store",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "support": "Support",
+      "troubleshooting": "Troubleshooting"
+    },
+    "support": {
+      "meta": {
+        "title": "Support - ClipArc",
+        "description": "Get help and support for ClipArc - Smart Clipboard Manager for macOS"
+      },
+      "title": "Support",
+      "subtitle": "ClipArc - Smart Clipboard Manager for macOS",
+      "contact": {
+        "title": "Contact Us",
+        "description": "If you have any questions, feedback, or need assistance with ClipArc, please reach out to us:"
+      },
+      "gettingStarted": {
+        "title": "Getting Started",
+        "step1": {
+          "title": "1. Grant Required Permissions",
+          "description": "When you first launch ClipArc, macOS will ask for Accessibility permission for the global hotkey (Cmd+Shift+V). Go to System Settings → Privacy & Security → Accessibility and enable ClipArc."
+        },
+        "step2": {
+          "title": "2. Access Your Clipboard History",
+          "description": "Press Cmd+Shift+V anywhere to open ClipArc's clipboard panel, or click the menu bar icon."
+        },
+        "step3": {
+          "title": "3. Paste with One Click",
+          "description": "Click any item in your clipboard history to copy it back to your clipboard, ready to paste into any application."
+        }
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "q1": {
+          "question": "Why does ClipArc need Accessibility permission?",
+          "answer": "Accessibility permission is required for two features: the global hotkey (Cmd+Shift+V) to open ClipArc from any app, and the smart paste feature that automatically pastes content into your active application."
+        },
+        "q2": {
+          "question": "Is my clipboard data secure?",
+          "answer": "Yes. All your clipboard data is stored locally on your device using Apple's secure SwiftData framework. No data is ever sent to external servers."
+        },
+        "q3": {
+          "question": "What's the difference between Free and Pro?",
+          "answer": "The free version stores up to 5 clipboard items. Pro unlocks unlimited clipboard history (configurable at 50/100/200/500 items), advanced fuzzy search, global hotkey (Cmd+Shift+V), and direct paste functionality."
+        },
+        "q4": {
+          "question": "What content types does ClipArc recognize?",
+          "answer": "ClipArc automatically detects 10 content types: Text, URL (with page title fetching), Image, Code (all programming languages), Color codes (hex, RGB), Email, Phone numbers, Numbers/currency, JSON, and Files."
+        },
+        "q5": {
+          "question": "How do I clear my clipboard history?",
+          "answer": "You can delete individual items by tapping/clicking the delete button. To clear all history, use the \"Clear All\" option in the app settings. Uninstalling the app will also remove all data."
+        },
+        "q6": {
+          "question": "Does ClipArc work with images and files?",
+          "answer": "Yes. ClipArc stores copied images with thumbnails and dimension information. File paths are also tracked, including multiple file selections."
+        },
+        "q7": {
+          "question": "What are the system requirements?",
+          "answer": "ClipArc requires macOS 14.0 or later. It works on both Apple Silicon and Intel Macs."
+        },
+        "q8": {
+          "question": "What customization options are available?",
+          "answer": "ClipArc offers many settings: history limit (50/100/200/500 items), appearance (System/Light/Dark), paste mode preference, language, sound notifications, launch at login, show/hide dock icon, and screenshot monitoring folder."
+        },
+        "q9": {
+          "question": "What languages does ClipArc support?",
+          "answer": "ClipArc supports 13 languages: English, Simplified Chinese, Traditional Chinese, Japanese, Korean, Spanish, French, German, Italian, Portuguese (Brazil), Russian, Arabic, and Hindi."
+        },
+        "q10": {
+          "question": "Do I need an account to use ClipArc?",
+          "answer": "No account is required to use ClipArc. You can optionally sign in with Apple ID to verify your Pro membership. All clipboard data remains stored locally on your Mac."
+        },
+        "q11": {
+          "question": "What is the Quick Menu?",
+          "answer": "The Quick Menu is accessible from the menu bar icon and shows your most recent clipboard items for fast access. Free users see 5 items, Pro users see 10 items."
+        }
+      },
+      "troubleshooting": {
+        "title": "Troubleshooting",
+        "cantPaste": {
+          "title": "Can't Paste to Other Apps (Mac)",
+          "description": "To paste directly to other applications, ClipArc requires access to the accessibility features of your Mac. Sometimes (e.g., after an operating system update), the access may get taken away unintentionally, and you'll need to re-enable it manually.",
+          "steps": {
+            "step1": "Go to System Settings → Privacy & Security → Accessibility",
+            "step2": "Find ClipArc in the list and click the \"−\" button to remove it",
+            "step3": "Restart your Mac",
+            "step4": "Launch ClipArc, try to paste any item to any app, and follow the on-screen instructions to grant permission again"
+          },
+          "imageAlt": "macOS Accessibility Settings showing ClipArc"
+        }
+      },
+      "links": {
+        "title": "Useful Links",
+        "home": "ClipArc Home",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "troubleshooting": "Troubleshooting Guide"
+      },
+      "backToCliparc": "Back to ClipArc"
+    },
+    "privacy": {
+      "meta": {
+        "title": "Privacy Policy - ClipArc",
+        "description": "Privacy Policy for ClipArc - Smart Clipboard Manager for macOS"
+      },
+      "title": "Privacy Policy",
+      "subtitle": "ClipArc - Smart Clipboard Manager for macOS",
+      "lastUpdated": "Last Updated: January 23, 2026",
+      "sections": {
+        "privacyMatters": {
+          "title": "Your Privacy Matters",
+          "content": "ClipArc is designed with privacy at its core. All your clipboard data is stored locally on your device. We do not collect, transmit, or have access to any of your clipboard content. What you copy stays on your device."
+        },
+        "infoCollect": {
+          "title": "Information We Collect",
+          "intro": "We do not collect any personal information.",
+          "stored": "The following data is stored locally on your device only and is never transmitted:",
+          "items": [
+            "Clipboard Content: Text, images, files, and other content you copy",
+            "Content Metadata: Content type, timestamps, usage count, and source application",
+            "User Preferences: Settings, language preferences, and hotkey configuration",
+            "Subscription Status: Whether you have an active Pro subscription (managed by Apple)"
+          ]
+        },
+        "infoNotCollect": {
+          "title": "Information We Do NOT Collect",
+          "items": [
+            "We do not collect analytics or usage data",
+            "We do not track your behavior or activities",
+            "We do not use any third-party tracking or advertising SDKs",
+            "We do not transmit your clipboard content to any external servers",
+            "We do not share any data with third parties",
+            "An account is optional - Apple Sign-In is available for Pro membership verification only"
+          ]
+        },
+        "howItWorks": {
+          "title": "How ClipArc Works",
+          "intro": "ClipArc monitors your system clipboard to provide its features:",
+          "items": [
+            "Clipboard content is captured and stored locally using Apple's SwiftData framework",
+            "Content type detection is performed entirely on your device",
+            "URL page title fetching is the only network request made, and only when you copy a URL",
+            "All search and filtering operations happen locally"
+          ]
+        },
+        "urlFetching": {
+          "title": "URL Page Title Fetching",
+          "content": "When you copy a URL, ClipArc may fetch the webpage title to provide better context in your clipboard history. This is the only time ClipArc makes a network request. The URL content is fetched directly and no data is sent to our servers."
+        },
+        "permissions": {
+          "title": "Permissions Required",
+          "intro": "ClipArc requires the following permissions:",
+          "items": [
+            "Accessibility: Required for the global hotkey and smart paste functionality",
+            "Clipboard Access: Required to monitor and store clipboard content"
+          ],
+          "note": "These permissions are used solely for app functionality and not for data collection."
+        },
+        "dataStorage": {
+          "title": "Data Storage",
+          "content": "All data is stored locally on your device using Apple's SwiftData framework. Data is stored in the app's sandboxed container, protected by platform security features.",
+          "control": "You have full control over your data:",
+          "items": [
+            "Delete individual clipboard items at any time",
+            "Clear all history through the app",
+            "Remove all data by uninstalling the app"
+          ]
+        },
+        "appleSignIn": {
+          "title": "Apple Sign-In (Optional)",
+          "content": "ClipArc offers optional Apple Sign-In for Pro subscribers who want to verify their membership across devices. When you sign in, we only receive the anonymous user identifier provided by Apple. Your clipboard data is never synced between devices - it remains stored locally on each device. You can use ClipArc without signing in."
+        },
+        "inAppPurchases": {
+          "title": "In-App Purchases",
+          "content": "ClipArc uses Apple's StoreKit for in-app purchases and subscriptions. All payment processing is handled by Apple. We do not collect or store any payment information."
+        },
+        "thirdParty": {
+          "title": "Third-Party Services",
+          "intro": "ClipArc does not use any third-party analytics, advertising, or tracking services. We rely exclusively on Apple's native frameworks:",
+          "items": [
+            "SwiftData (for local data storage)",
+            "StoreKit (for in-app purchases)",
+            "Sign in with Apple (optional, for Pro membership verification)",
+            "URLSession (for URL title fetching only)"
+          ]
+        },
+        "children": {
+          "title": "Children's Privacy",
+          "content": "ClipArc is suitable for all ages. We do not collect any personal information from any users, including children. Since no data is transmitted externally, there are no concerns regarding children's data."
+        },
+        "changes": {
+          "title": "Changes to This Policy",
+          "content": "We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated \"Last Updated\" date."
+        },
+        "contact": {
+          "title": "Contact Us",
+          "content": "If you have any questions about this Privacy Policy or ClipArc, please contact us at:"
+        }
+      },
+      "backToCliparc": "Back to ClipArc"
+    },
+    "terms": {
+      "meta": {
+        "title": "Terms of Service - ClipArc",
+        "description": "Terms of Service for ClipArc - Smart Clipboard Manager for macOS"
+      },
+      "title": "Terms of Service",
+      "subtitle": "ClipArc - Smart Clipboard Manager for macOS",
+      "lastUpdated": "Last Updated: January 23, 2026",
+      "sections": {
+        "agreement": {
+          "title": "Agreement to Terms",
+          "content": "By downloading, installing, or using ClipArc (\"the App\"), you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree to these Terms, please do not use the App."
+        },
+        "description": {
+          "title": "Description of Service",
+          "content": "ClipArc is a clipboard management application for macOS that stores and organizes your clipboard history locally on your Mac. The App provides features including but not limited to clipboard monitoring, content type detection, search functionality, and quick paste capabilities."
+        },
+        "license": {
+          "title": "License",
+          "intro": "Versegates grants you a limited, non-exclusive, non-transferable, revocable license to use ClipArc for personal or commercial purposes in accordance with these Terms and Apple's App Store Terms of Service.",
+          "restrictions": "You may not:",
+          "items": [
+            "Copy, modify, or distribute the App",
+            "Reverse engineer, decompile, or disassemble the App",
+            "Remove any proprietary notices or labels on the App",
+            "Use the App for any unlawful purpose"
+          ]
+        },
+        "subscriptions": {
+          "title": "Subscriptions and Purchases",
+          "intro": "ClipArc offers a free tier and paid Pro subscriptions through Apple's App Store.",
+          "tiers": [
+            "Free Tier: Limited to 5 clipboard items with basic features",
+            "Pro Monthly: $2.99/month for unlimited clipboard history",
+            "Pro Yearly: $19.99/year for unlimited clipboard history",
+            "Pro Lifetime: $59.99 one-time purchase for unlimited access"
+          ],
+          "note": "All purchases are processed through Apple and are subject to Apple's terms and conditions. Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period. Manage subscriptions in your Apple ID settings."
+        },
+        "refunds": {
+          "title": "Refunds",
+          "content": "All purchases are made through Apple's App Store. Refund requests should be directed to Apple in accordance with their refund policy. We cannot process refunds directly."
+        },
+        "userResponsibilities": {
+          "title": "User Responsibilities",
+          "intro": "You are responsible for:",
+          "items": [
+            "Ensuring your use of the App complies with applicable laws",
+            "Maintaining the security of your device and data",
+            "Any content you copy and store using the App",
+            "Managing and backing up your own data"
+          ]
+        },
+        "privacy": {
+          "title": "Privacy",
+          "content": "Your privacy is important to us. Please review our Privacy Policy to understand how ClipArc handles your data. In summary, all clipboard data is stored locally on your device and is never transmitted to external servers."
+        },
+        "disclaimer": {
+          "title": "Disclaimer of Warranties",
+          "content1": "THE APP IS PROVIDED \"AS IS\" AND \"AS AVAILABLE\" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.",
+          "content2": "We do not warrant that the App will be uninterrupted, error-free, or completely secure. You use the App at your own risk."
+        },
+        "liability": {
+          "title": "Limitation of Liability",
+          "intro": "TO THE MAXIMUM EXTENT PERMITTED BY LAW, VERSEGATES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES RESULTING FROM:",
+          "items": [
+            "Your use or inability to use the App",
+            "Any unauthorized access to or alteration of your data",
+            "Any loss of clipboard data or history",
+            "Any other matter relating to the App"
+          ]
+        },
+        "indemnification": {
+          "title": "Indemnification",
+          "content": "You agree to indemnify and hold harmless Versegates and its officers, directors, employees, and agents from any claims, damages, losses, liabilities, and expenses arising out of your use of the App or violation of these Terms."
+        },
+        "modifications": {
+          "title": "Modifications to the App",
+          "content": "We reserve the right to modify, suspend, or discontinue the App or any part thereof at any time without notice. We shall not be liable to you or any third party for any modification, suspension, or discontinuance of the App."
+        },
+        "changes": {
+          "title": "Changes to Terms",
+          "content": "We may update these Terms from time to time. We will notify you of any material changes by updating the \"Last Updated\" date. Your continued use of the App after such changes constitutes acceptance of the new Terms."
+        },
+        "governingLaw": {
+          "title": "Governing Law",
+          "content": "These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which Versegates operates, without regard to its conflict of law provisions."
+        },
+        "contact": {
+          "title": "Contact Us",
+          "content": "If you have any questions about these Terms, please contact us at:"
+        }
+      },
+      "backToCliparc": "Back to ClipArc"
+    },
+    "troubleshooting": {
+      "meta": {
+        "title": "Troubleshooting - ClipArc",
+        "description": "Troubleshooting guide for ClipArc - Smart Clipboard Manager for macOS"
+      },
+      "title": "Troubleshooting",
+      "subtitle": "ClipArc - Smart Clipboard Manager for macOS",
+      "backToSupport": "Back to Support",
+      "cantPaste": {
+        "title": "Can't Paste to Other Apps",
+        "description": "To paste directly to other applications, ClipArc requires access to the accessibility features of your Mac. Sometimes (e.g., after an operating system update), the access may get taken away unintentionally, and you'll need to re-enable it manually.",
+        "stepsTitle": "Steps to Fix",
+        "steps": {
+          "step1": "Go to System Settings → Privacy & Security → Accessibility",
+          "step2": "Find ClipArc in the list and click the \"−\" button to remove it",
+          "step3": "Restart your Mac",
+          "step4": "Launch ClipArc, try to paste any item to any app, and follow the on-screen instructions to grant permission again"
+        },
+        "imageAlt": "macOS Accessibility Settings showing ClipArc"
+      },
+      "stillNeedHelp": {
+        "title": "Still Need Help?",
+        "description": "If the steps above don't resolve your issue, please contact our support team."
+      }
+    }
+  },
+  "common": {
+    "copyright": "© {year} Versegates. All rights reserved.",
+    "seePrivacyPolicy": "See our Privacy Policy for more details."
+  }
+}

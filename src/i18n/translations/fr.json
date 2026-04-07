@@ -1,0 +1,450 @@
+{
+  "cliparc": {
+    "meta": {
+      "title": "ClipArc - Gestionnaire de Presse-papiers Intelligent pour macOS",
+      "description": "Le gestionnaire de presse-papiers intelligent pour macOS qui se souvient de tout ce que vous copiez. Détection intelligente du contenu, recherche instantanée et collage fluide dans toutes vos apps."
+    },
+    "hero": {
+      "tagline": "Gestionnaire de Presse-papiers Intelligent pour macOS",
+      "description": "Ne perdez plus jamais ce que vous copiez. ClipArc organise intelligemment votre historique de presse-papiers avec détection de contenu intelligente, recherche instantanée et collage en un clic."
+    },
+    "features": {
+      "title": "Fonctionnalités",
+      "intelligentDetection": {
+        "title": "Détection Intelligente du Contenu",
+        "description": "Catégorise automatiquement le contenu du presse-papiers en 10 types : Texte, URL, Image, Code, Couleur, Email, Téléphone, Nombre, JSON et Fichier."
+      },
+      "instantAccess": {
+        "title": "Accès Instantané",
+        "description": "Appuyez sur Cmd+Shift+V n'importe où pour ouvrir votre historique. Recherchez, filtrez et collez en quelques secondes sans changer d'app."
+      },
+      "powerfulSearch": {
+        "title": "Recherche Puissante",
+        "description": "Recherche floue dans tout le contenu du presse-papiers. Filtrez par type pour trouver rapidement cette URL, extrait de code ou image copiée auparavant."
+      },
+      "frequentItems": {
+        "title": "Éléments Fréquents",
+        "description": "Suit les éléments du presse-papiers les plus utilisés. Accédez au contenu fréquemment collé en un clic pour une productivité maximale."
+      },
+      "privacyFirst": {
+        "title": "Confidentialité d'Abord",
+        "description": "Toutes les données sont stockées localement sur votre appareil. Pas de synchronisation cloud, pas de compte requis. Votre historique ne quitte jamais votre appareil."
+      },
+      "smartPaste": {
+        "title": "Collage Intelligent",
+        "description": "Collez en un clic dans n'importe quelle application active. Fonctionne parfaitement avec toutes vos apps avec restauration automatique du presse-papiers."
+      }
+    },
+    "contentTypes": {
+      "title": "Reconnaît Tout Votre Contenu",
+      "text": "Texte",
+      "urls": "URLs",
+      "images": "Images",
+      "code": "Code",
+      "colors": "Couleurs",
+      "emails": "Emails",
+      "phoneNumbers": "Téléphones",
+      "numbers": "Nombres",
+      "json": "JSON",
+      "files": "Fichiers"
+    },
+    "perfectFor": {
+      "title": "Parfait Pour",
+      "developers": {
+        "title": "Développeurs",
+        "description": "Extraits de code, commandes terminal, clés API à portée de main"
+      },
+      "writers": {
+        "title": "Écrivains",
+        "description": "Notes de recherche, citations et références toujours accessibles"
+      },
+      "designers": {
+        "title": "Designers",
+        "description": "Codes couleur, images et ressources de design organisés"
+      },
+      "dataAnalysts": {
+        "title": "Analystes de Données",
+        "description": "Données JSON, nombres et requêtes suivis automatiquement"
+      },
+      "businessProfessionals": {
+        "title": "Professionnels",
+        "description": "Emails, contacts et documents à portée de main"
+      },
+      "powerUsers": {
+        "title": "Utilisateurs Avancés",
+        "description": "Boostez votre workflow avec un historique illimité"
+      }
+    },
+    "featuresList": {
+      "unlimitedHistory": "Historique illimité (Pro)",
+      "contentTypes": "10 catégories de types de contenu",
+      "globalHotkey": "Raccourci global sur Mac (Cmd+Shift+V)",
+      "fuzzySearch": "Recherche floue et filtrage",
+      "frequentItems": "Suivi des éléments fréquents",
+      "urlTitle": "Récupération des titres de pages URL",
+      "menuBar": "Interface dans la barre de menus",
+      "batchDelete": "Suppression par lots",
+      "sourceApp": "Suivi de l'app source",
+      "offline": "Fonctionne complètement hors ligne",
+      "languages": "13 langues supportées",
+      "nativeDesign": "Design natif macOS"
+    },
+    "pricing": {
+      "title": "Tarifs Simples",
+      "free": {
+        "title": "Gratuit",
+        "price": "0 $",
+        "features": ["5 éléments de presse-papiers", "Fonctionnalités de base", "Accès à la barre de menus"]
+      },
+      "proYearly": {
+        "title": "Pro Annuel",
+        "price": "19,99 $",
+        "period": "/an",
+        "save": "Économisez 44%",
+        "mostPopular": "Plus Populaire",
+        "features": ["Historique illimité", "Toutes les fonctionnalités", "Support prioritaire"]
+      },
+      "lifetime": {
+        "title": "À Vie",
+        "price": "59,99 $",
+        "features": ["Achat unique", "Toutes les fonctionnalités pour toujours", "Mises à jour gratuites"]
+      }
+    },
+    "requirements": {
+      "title": "Configuration Requise",
+      "description": "Nécessite macOS 14.0 ou version ultérieure. Fonctionne sur les Mac Apple Silicon et Intel."
+    },
+    "cta": {
+      "download": "Télécharger sur le Mac App Store",
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions d'Utilisation",
+      "support": "Support",
+      "troubleshooting": "Dépannage"
+    },
+    "support": {
+      "meta": {
+        "title": "Support - ClipArc",
+        "description": "Obtenez de l'aide et du support pour ClipArc - Gestionnaire de Presse-papiers Intelligent pour macOS"
+      },
+      "title": "Support",
+      "subtitle": "ClipArc - Gestionnaire de Presse-papiers Intelligent pour macOS",
+      "contact": {
+        "title": "Contactez-nous",
+        "description": "Si vous avez des questions, commentaires ou besoin d'assistance avec ClipArc, contactez-nous :"
+      },
+      "gettingStarted": {
+        "title": "Premiers Pas",
+        "step1": {
+          "title": "1. Accorder la Permission d'Accessibilité (Mac uniquement)",
+          "description": "Au premier lancement de ClipArc sur Mac, macOS demandera la permission d'Accessibilité. C'est nécessaire pour le raccourci global (Cmd+Shift+V). Allez dans Réglages Système → Confidentialité et Sécurité → Accessibilité et activez ClipArc."
+        },
+        "step2": {
+          "title": "2. Accéder à Votre Historique",
+          "description": "Sur Mac, appuyez sur Cmd+Shift+V n'importe où pour ouvrir le panneau de ClipArc, ou cliquez sur l'icône de la barre de menus. Sur iPhone, iPad et Vision Pro, ouvrez l'app pour voir votre historique."
+        },
+        "step3": {
+          "title": "3. Coller en Un Clic",
+          "description": "Appuyez sur n'importe quel élément de votre historique pour le copier dans le presse-papiers, prêt à être collé dans n'importe quelle app."
+        }
+      },
+      "faq": {
+        "title": "Questions Fréquentes",
+        "q1": {
+          "question": "Pourquoi ClipArc a-t-il besoin de la permission d'Accessibilité sur Mac ?",
+          "answer": "Sur Mac, la permission d'Accessibilité est nécessaire pour deux fonctions : le raccourci global (Cmd+Shift+V) pour ouvrir ClipArc depuis n'importe quelle app, et la fonction de collage intelligent qui colle automatiquement le contenu dans votre application active. Cette permission n'est pas requise sur iPhone, iPad ou Vision Pro."
+        },
+        "q2": {
+          "question": "Mes données de presse-papiers sont-elles sécurisées ?",
+          "answer": "Oui. Toutes vos données sont stockées localement sur votre appareil en utilisant le framework SwiftData sécurisé d'Apple. Aucune donnée n'est transmise à des serveurs externes, sauf si vous choisissez explicitement de vous connecter avec votre identifiant Apple pour la synchronisation Pro."
+        },
+        "q3": {
+          "question": "Quelle est la différence entre Gratuit et Pro ?",
+          "answer": "La version gratuite stocke jusqu'à 5 éléments et affiche 5 éléments dans le menu rapide. Pro débloque un historique illimité (configurable de 5 à 1000), 10 éléments dans le menu rapide, un stockage illimité d'images et de fichiers, ainsi qu'une recherche complète."
+        },
+        "q4": {
+          "question": "Quels types de contenu ClipArc reconnaît-il ?",
+          "answer": "ClipArc détecte automatiquement 10 types de contenu : Texte, URL (avec récupération du titre de page), Image, Code (tous les langages), codes Couleur (hex, RGB), Email, Téléphones, Nombres/devises, JSON et Fichiers."
+        },
+        "q5": {
+          "question": "Comment effacer mon historique ?",
+          "answer": "Vous pouvez supprimer des éléments individuels en les survolant et en cliquant sur le bouton supprimer. Pour tout effacer, utilisez l'option 'Tout Effacer' dans les paramètres. Désinstaller l'app supprimera aussi toutes les données."
+        },
+        "q6": {
+          "question": "ClipArc fonctionne-t-il avec les images et fichiers ?",
+          "answer": "Oui. ClipArc stocke les images copiées avec vignettes et informations de dimensions. Les chemins de fichiers sont aussi suivis, y compris les sélections multiples."
+        },
+        "q7": {
+          "question": "Quelle est la configuration requise ?",
+          "answer": "ClipArc nécessite iOS 26.1+ pour iPhone et iPad, macOS 26.1+ pour Mac, ou visionOS 26.1+ pour Apple Vision Pro."
+        },
+        "q8": {
+          "question": "Quelles options de personnalisation sont disponibles ?",
+          "answer": "ClipArc offre de nombreuses options de personnalisation : limite d'historique (de 5 à 1000 éléments), lancement au démarrage (Mac), affichage de l'icône dans le Dock (Mac), sons, apparence (Système/Clair/Sombre) et choix de la langue."
+        },
+        "q9": {
+          "question": "Quelles langues sont supportées ?",
+          "answer": "ClipArc prend en charge 13 langues : anglais, chinois simplifié, chinois traditionnel, japonais, coréen, espagnol, français, allemand, italien, portugais (Brésil), russe, arabe et hindi."
+        },
+        "q10": {
+          "question": "Dois-je créer un compte pour utiliser ClipArc ?",
+          "answer": "Non, aucun compte n'est requis. La connexion avec Apple est optionnelle et uniquement disponible pour la synchronisation de l'abonnement Pro entre vos appareils. Vos données de presse-papiers restent toujours stockées localement sur votre appareil."
+        },
+        "q11": {
+          "question": "Comment fonctionne le Menu Rapide ?",
+          "answer": "Sur Mac, le Menu Rapide est accessible depuis l'icône de la barre de menus et affiche vos éléments récents. La version gratuite affiche 5 éléments, tandis que Pro en affiche 10 pour un accès encore plus rapide. Sur iPhone, iPad et Vision Pro, accédez à vos éléments récents directement depuis l'app."
+        }
+      },
+      "troubleshooting": {
+        "title": "Dépannage",
+        "cantPaste": {
+          "title": "Impossible de coller dans d'autres apps (Mac)",
+          "description": "Pour coller directement dans d'autres applications, ClipArc a besoin d'accéder aux fonctions d'accessibilité de votre Mac. Parfois (par exemple, après une mise à jour du système), l'accès peut être révoqué involontairement et vous devrez le réactiver manuellement.",
+          "steps": {
+            "step1": "Allez dans Réglages Système → Confidentialité et sécurité → Accessibilité",
+            "step2": "Trouvez ClipArc dans la liste et cliquez sur le bouton « − » pour le supprimer",
+            "step3": "Redémarrez votre Mac",
+            "step4": "Lancez ClipArc, essayez de coller un élément dans n'importe quelle app, et suivez les instructions à l'écran pour accorder à nouveau l'autorisation"
+          },
+          "imageAlt": "Réglages d'accessibilité macOS affichant ClipArc"
+        }
+      },
+      "links": {
+        "title": "Liens Utiles",
+        "home": "Accueil ClipArc",
+        "privacy": "Politique de Confidentialité",
+        "terms": "Conditions d'Utilisation",
+        "troubleshooting": "Guide de Dépannage"
+      },
+      "backToCliparc": "Retour à ClipArc"
+    },
+    "privacy": {
+      "meta": {
+        "title": "Politique de Confidentialité - ClipArc",
+        "description": "Politique de Confidentialité de ClipArc - Gestionnaire de Presse-papiers Intelligent pour macOS"
+      },
+      "title": "Politique de Confidentialité",
+      "subtitle": "ClipArc - Gestionnaire de Presse-papiers Intelligent pour macOS",
+      "lastUpdated": "Dernière mise à jour : 23 janvier 2026",
+      "sections": {
+        "privacyMatters": {
+          "title": "Votre Confidentialité Compte",
+          "content": "ClipArc est conçu avec la confidentialité comme priorité. Toutes vos données sont stockées localement sur votre appareil. Nous ne collectons, transmettons ni accédons à aucun contenu de votre presse-papiers. Ce que vous copiez reste sur votre appareil."
+        },
+        "infoCollect": {
+          "title": "Informations que Nous Collectons",
+          "intro": "Nous ne collectons aucune information personnelle.",
+          "stored": "Les données suivantes sont stockées uniquement localement sur votre appareil et ne sont jamais transmises :",
+          "items": [
+            "Contenu du Presse-papiers : Texte, images, fichiers et autre contenu que vous copiez",
+            "Métadonnées du Contenu : Type de contenu, horodatages, compte d'utilisation et application source",
+            "Préférences Utilisateur : Paramètres, préférences de langue et configuration des raccourcis",
+            "État de l'Abonnement : Si vous avez un abonnement Pro actif (géré par Apple)"
+          ]
+        },
+        "infoNotCollect": {
+          "title": "Informations que Nous NE Collectons PAS",
+          "items": [
+            "Nous ne collectons pas de données analytiques ou d'utilisation",
+            "Nous ne suivons pas votre comportement ou vos activités",
+            "Nous n'utilisons aucun SDK de suivi ou de publicité tiers",
+            "Nous ne partageons aucune donnée avec des tiers",
+            "La transmission vers des serveurs externes n'a lieu que si vous activez explicitement la synchronisation Pro",
+            "Le compte est optionnel - la Connexion avec Apple n'est utilisée que pour la synchronisation de l'abonnement Pro entre vos appareils"
+          ]
+        },
+        "howItWorks": {
+          "title": "Comment Fonctionne ClipArc",
+          "intro": "ClipArc surveille le presse-papiers de votre système pour fournir ses fonctionnalités :",
+          "items": [
+            "Le contenu est capturé et stocké localement en utilisant le framework SwiftData d'Apple",
+            "La détection du type de contenu est effectuée entièrement sur votre appareil",
+            "La récupération du titre de page URL est la seule requête réseau, et uniquement quand vous copiez une URL",
+            "Toutes les opérations de recherche et de filtrage se font localement"
+          ]
+        },
+        "urlFetching": {
+          "title": "Récupération des Titres de Pages URL",
+          "content": "Quand vous copiez une URL, ClipArc peut récupérer le titre de la page web pour fournir un meilleur contexte dans votre historique. C'est la seule fois que ClipArc fait une requête réseau. Le contenu de l'URL est récupéré directement et aucune donnée n'est envoyée à nos serveurs."
+        },
+        "permissions": {
+          "title": "Permissions Requises",
+          "intro": "ClipArc nécessite les permissions suivantes :",
+          "items": [
+            "Accessibilité (Mac uniquement) : Requise pour le raccourci global et la fonctionnalité de collage intelligent",
+            "Accès au Presse-papiers : Requis pour surveiller et stocker le contenu du presse-papiers"
+          ],
+          "note": "Ces permissions sont utilisées uniquement pour les fonctionnalités de l'app et non pour la collecte de données."
+        },
+        "dataStorage": {
+          "title": "Stockage des Données",
+          "content": "Toutes les données sont stockées localement sur votre appareil en utilisant le framework SwiftData d'Apple. Les données sont stockées dans le conteneur sandbox de l'app, protégé par les fonctionnalités de sécurité d'iOS, macOS et visionOS.",
+          "control": "Vous avez le contrôle total sur vos données :",
+          "items": [
+            "Supprimez des éléments individuels à tout moment",
+            "Effacez tout l'historique via l'app",
+            "Supprimez toutes les données en désinstallant l'app"
+          ]
+        },
+        "appleSignIn": {
+          "title": "Connexion avec Apple (Optionnel)",
+          "content": "La Connexion avec Apple est une fonctionnalité optionnelle disponible pour les abonnés Pro qui souhaitent vérifier leur abonnement sur plusieurs appareils (iPhone, iPad, Mac et Vision Pro). Lorsque vous utilisez la Connexion avec Apple, nous recevons uniquement un identifiant anonyme d'Apple - nous ne recevons jamais votre email, nom ou autres informations personnelles. Vos données de presse-papiers ne sont jamais synchronisées en externe et restent toujours stockées localement sur votre appareil. Vous pouvez utiliser ClipArc sans jamais vous connecter."
+        },
+        "inAppPurchases": {
+          "title": "Achats In-App",
+          "content": "ClipArc utilise StoreKit d'Apple pour les achats in-app et abonnements. Tout le traitement des paiements est géré par Apple. Nous ne collectons ni ne stockons aucune information de paiement."
+        },
+        "thirdParty": {
+          "title": "Services Tiers",
+          "intro": "ClipArc n'utilise aucun service d'analyse, publicité ou suivi tiers. Nous nous appuyons exclusivement sur les frameworks natifs d'Apple :",
+          "items": [
+            "SwiftData (pour le stockage local)",
+            "StoreKit (pour les achats in-app)",
+            "Connexion avec Apple (optionnel, pour vérification d'abonnement Pro)",
+            "URLSession (uniquement pour la récupération des titres URL)"
+          ]
+        },
+        "children": {
+          "title": "Confidentialité des Enfants",
+          "content": "ClipArc convient à tous les âges. Nous ne collectons aucune information personnelle d'aucun utilisateur, y compris les enfants. Puisqu'aucune donnée n'est transmise à l'extérieur, il n'y a pas de préoccupation concernant les données des enfants."
+        },
+        "changes": {
+          "title": "Modifications de Cette Politique",
+          "content": "Nous pouvons mettre à jour cette Politique de Confidentialité de temps en temps. Tout changement sera reflété sur cette page avec une date de 'Dernière mise à jour' actualisée."
+        },
+        "contact": {
+          "title": "Contactez-nous",
+          "content": "Si vous avez des questions sur cette Politique de Confidentialité ou ClipArc, contactez-nous à :"
+        }
+      },
+      "backToCliparc": "Retour à ClipArc"
+    },
+    "terms": {
+      "meta": {
+        "title": "Conditions d'Utilisation - ClipArc",
+        "description": "Conditions d'Utilisation de ClipArc - Gestionnaire de Presse-papiers Intelligent pour macOS"
+      },
+      "title": "Conditions d'Utilisation",
+      "subtitle": "ClipArc - Gestionnaire de Presse-papiers Intelligent pour macOS",
+      "lastUpdated": "Dernière mise à jour : 23 janvier 2026",
+      "sections": {
+        "agreement": {
+          "title": "Acceptation des Conditions",
+          "content": "En téléchargeant, installant ou utilisant ClipArc ('l'App'), vous acceptez d'être lié par ces Conditions d'Utilisation ('Conditions'). Si vous n'acceptez pas ces Conditions, veuillez ne pas utiliser l'App."
+        },
+        "description": {
+          "title": "Description du Service",
+          "content": "ClipArc est une application de gestion de presse-papiers pour les plateformes Apple (iPhone, iPad, Mac et Vision Pro) qui stocke et organise votre historique localement sur votre appareil. L'App fournit des fonctionnalités incluant, mais sans s'y limiter, la surveillance du presse-papiers, la détection du type de contenu, la fonctionnalité de recherche et les capacités de collage rapide."
+        },
+        "license": {
+          "title": "Licence",
+          "intro": "Versegates vous accorde une licence limitée, non exclusive, non transférable et révocable pour utiliser ClipArc à des fins personnelles ou commerciales conformément à ces Conditions et aux Conditions d'Utilisation de l'App Store d'Apple.",
+          "restrictions": "Vous ne pouvez pas :",
+          "items": [
+            "Copier, modifier ou distribuer l'App",
+            "Désosser, décompiler ou désassembler l'App",
+            "Supprimer tout avis de propriété ou étiquette de l'App",
+            "Utiliser l'App à des fins illégales"
+          ]
+        },
+        "subscriptions": {
+          "title": "Abonnements et Achats",
+          "intro": "ClipArc propose un niveau gratuit et des abonnements Pro payants via l'App Store d'Apple.",
+          "tiers": [
+            "Niveau Gratuit : Limité à 5 éléments avec fonctionnalités de base",
+            "Pro Mensuel : 2,99 $/mois pour un historique illimité",
+            "Pro Annuel : 19,99 $/an pour un historique illimité",
+            "Pro À Vie : 59,99 $ achat unique pour un accès illimité"
+          ],
+          "note": "Tous les achats sont traités via Apple et soumis aux conditions d'Apple. Les abonnements se renouvellent automatiquement sauf annulation au moins 24 heures avant la fin de la période en cours. Gérez les abonnements dans vos paramètres Apple ID."
+        },
+        "refunds": {
+          "title": "Remboursements",
+          "content": "Tous les achats sont effectués via l'App Store d'Apple. Les demandes de remboursement doivent être adressées à Apple conformément à leur politique de remboursement. Nous ne pouvons pas traiter les remboursements directement."
+        },
+        "userResponsibilities": {
+          "title": "Responsabilités de l'Utilisateur",
+          "intro": "Vous êtes responsable de :",
+          "items": [
+            "Vous assurer que votre utilisation de l'App respecte les lois applicables",
+            "Maintenir la sécurité de votre appareil et de vos données",
+            "Tout contenu que vous copiez et stockez en utilisant l'App",
+            "Gérer et sauvegarder vos propres données"
+          ]
+        },
+        "privacy": {
+          "title": "Confidentialité",
+          "content": "Votre confidentialité est importante pour nous. Veuillez consulter notre Politique de Confidentialité pour comprendre comment ClipArc gère vos données. En résumé, toutes les données sont stockées localement sur votre appareil et ne sont jamais transmises à des serveurs externes."
+        },
+        "disclaimer": {
+          "title": "Exclusion de Garanties",
+          "content1": "L'APP EST FOURNIE 'EN L'ÉTAT' ET 'SELON DISPONIBILITÉ' SANS GARANTIES D'AUCUNE SORTE, EXPRESSES OU IMPLICITES, Y COMPRIS MAIS SANS S'Y LIMITER LES GARANTIES IMPLICITES DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET DE NON-CONTREFAÇON.",
+          "content2": "Nous ne garantissons pas que l'App sera ininterrompue, sans erreur ou totalement sécurisée. Vous utilisez l'App à vos propres risques."
+        },
+        "liability": {
+          "title": "Limitation de Responsabilité",
+          "intro": "DANS TOUTE LA MESURE PERMISE PAR LA LOI, VERSEGATES NE SERA PAS RESPONSABLE DES DOMMAGES INDIRECTS, ACCESSOIRES, SPÉCIAUX, CONSÉCUTIFS OU PUNITIFS, OU DE TOUTE PERTE DE PROFITS OU DE REVENUS, QU'ILS SOIENT ENCOURUS DIRECTEMENT OU INDIRECTEMENT, OU DE TOUTE PERTE DE DONNÉES, D'UTILISATION, DE FONDS DE COMMERCE OU D'AUTRES PERTES INTANGIBLES RÉSULTANT DE :",
+          "items": [
+            "Votre utilisation ou incapacité à utiliser l'App",
+            "Tout accès non autorisé ou altération de vos données",
+            "Toute perte de données ou d'historique du presse-papiers",
+            "Tout autre sujet relatif à l'App"
+          ]
+        },
+        "indemnification": {
+          "title": "Indemnisation",
+          "content": "Vous acceptez d'indemniser et de dégager de toute responsabilité Versegates et ses dirigeants, directeurs, employés et agents de toute réclamation, dommage, perte, responsabilité et dépense découlant de votre utilisation de l'App ou de la violation de ces Conditions."
+        },
+        "modifications": {
+          "title": "Modifications de l'App",
+          "content": "Nous nous réservons le droit de modifier, suspendre ou interrompre l'App ou toute partie de celle-ci à tout moment sans préavis. Nous ne serons pas responsables envers vous ou tout tiers de toute modification, suspension ou interruption de l'App."
+        },
+        "changes": {
+          "title": "Modifications des Conditions",
+          "content": "Nous pouvons mettre à jour ces Conditions de temps en temps. Nous vous informerons de tout changement important en mettant à jour la date de 'Dernière mise à jour'. Votre utilisation continue de l'App après de tels changements constitue l'acceptation des nouvelles Conditions."
+        },
+        "governingLaw": {
+          "title": "Droit Applicable",
+          "content": "Ces Conditions seront régies et interprétées conformément aux lois de la juridiction dans laquelle Versegates opère, sans égard à ses dispositions relatives aux conflits de lois."
+        },
+        "contact": {
+          "title": "Contactez-nous",
+          "content": "Si vous avez des questions concernant ces Conditions, contactez-nous à :"
+        }
+      },
+      "backToCliparc": "Retour à ClipArc"
+    },
+    "troubleshooting": {
+      "meta": {
+        "title": "Dépannage - ClipArc",
+        "description": "Guide de dépannage ClipArc - Gestionnaire de Presse-papiers Intelligent pour macOS"
+      },
+      "title": "Dépannage",
+      "subtitle": "ClipArc - Gestionnaire de Presse-papiers Intelligent pour macOS",
+      "backToSupport": "Retour au Support",
+      "cantPaste": {
+        "title": "Impossible de coller dans d'autres apps (Mac)",
+        "description": "Pour coller directement dans d'autres applications, ClipArc a besoin d'accéder aux fonctions d'accessibilité de votre Mac. Parfois (par exemple, après une mise à jour du système), l'accès peut être révoqué involontairement et vous devrez le réactiver manuellement.",
+        "stepsTitle": "Étapes pour Résoudre",
+        "steps": {
+          "step1": "Allez dans Réglages Système → Confidentialité et sécurité → Accessibilité",
+          "step2": "Trouvez ClipArc dans la liste et cliquez sur le bouton « − » pour le supprimer",
+          "step3": "Redémarrez votre Mac",
+          "step4": "Lancez ClipArc, essayez de coller un élément dans n'importe quelle app, et suivez les instructions à l'écran pour accorder à nouveau l'autorisation"
+        },
+        "imageAlt": "Réglages d'accessibilité macOS affichant ClipArc",
+        "note": {
+          "label": "Note :",
+          "content": "Ce problème n'affecte que Mac. Sur iPhone, iPad et Vision Pro, ClipArc fonctionne avec le presse-papiers système sans nécessiter de permissions spéciales."
+        }
+      },
+      "stillNeedHelp": {
+        "title": "Besoin d'aide supplémentaire ?",
+        "description": "Si les étapes ci-dessus ne résolvent pas votre problème, contactez notre équipe de support."
+      }
+    }
+  },
+  "common": {
+    "copyright": "© {year} Versegates. Tous droits réservés.",
+    "seePrivacyPolicy": "Consultez notre Politique de Confidentialité pour plus de détails."
+  }
+}

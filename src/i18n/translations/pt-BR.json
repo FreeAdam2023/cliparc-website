@@ -1,0 +1,450 @@
+{
+  "cliparc": {
+    "meta": {
+      "title": "ClipArc - Gerenciador de Área de Transferência Inteligente para macOS",
+      "description": "O gerenciador de área de transferência inteligente para macOS que lembra tudo que você copia. Detecção inteligente de conteúdo, busca instantânea e colagem perfeita em todos os seus apps."
+    },
+    "hero": {
+      "tagline": "Gerenciador de Área de Transferência Inteligente para macOS",
+      "description": "Nunca perca o que você copia. O ClipArc organiza de forma inteligente seu histórico com detecção de conteúdo inteligente, busca instantânea e colagem com um clique."
+    },
+    "features": {
+      "title": "Recursos",
+      "intelligentDetection": {
+        "title": "Detecção Inteligente de Conteúdo",
+        "description": "Categoriza automaticamente o conteúdo em 10 tipos: Texto, URL, Imagem, Código, Cor, Email, Telefone, Número, JSON e Arquivo."
+      },
+      "instantAccess": {
+        "title": "Acesso Instantâneo",
+        "description": "Pressione Cmd+Shift+V em qualquer lugar para abrir seu histórico. Pesquise, filtre e cole em segundos sem trocar de app."
+      },
+      "powerfulSearch": {
+        "title": "Busca Poderosa",
+        "description": "Busca fuzzy em todo o conteúdo. Filtre por tipo para encontrar rapidamente a URL, trecho de código ou imagem copiada anteriormente."
+      },
+      "frequentItems": {
+        "title": "Itens Frequentes",
+        "description": "Rastreia os itens mais usados. Acesse com um clique o conteúdo colado frequentemente para máxima produtividade."
+      },
+      "privacyFirst": {
+        "title": "Privacidade em Primeiro Lugar",
+        "description": "Todos os dados são armazenados localmente no seu dispositivo. Sem sincronização na nuvem, sem conta necessária. Seu histórico nunca sai do dispositivo."
+      },
+      "smartPaste": {
+        "title": "Colagem Inteligente",
+        "description": "Cole com um clique em qualquer aplicativo ativo. Funciona perfeitamente com todos os apps com restauração automática."
+      }
+    },
+    "contentTypes": {
+      "title": "Reconhece Todo Seu Conteúdo",
+      "text": "Texto",
+      "urls": "URLs",
+      "images": "Imagens",
+      "code": "Código",
+      "colors": "Cores",
+      "emails": "Emails",
+      "phoneNumbers": "Telefones",
+      "numbers": "Números",
+      "json": "JSON",
+      "files": "Arquivos"
+    },
+    "perfectFor": {
+      "title": "Perfeito Para",
+      "developers": {
+        "title": "Desenvolvedores",
+        "description": "Trechos de código, comandos de terminal, chaves API na ponta dos dedos"
+      },
+      "writers": {
+        "title": "Escritores",
+        "description": "Notas de pesquisa, citações e referências sempre acessíveis"
+      },
+      "designers": {
+        "title": "Designers",
+        "description": "Códigos de cores, imagens e recursos de design organizados"
+      },
+      "dataAnalysts": {
+        "title": "Analistas de Dados",
+        "description": "Dados JSON, números e consultas rastreados automaticamente"
+      },
+      "businessProfessionals": {
+        "title": "Profissionais de Negócios",
+        "description": "Emails, contatos e documentos na ponta dos dedos"
+      },
+      "powerUsers": {
+        "title": "Power Users",
+        "description": "Turbine seu fluxo de trabalho com histórico ilimitado"
+      }
+    },
+    "featuresList": {
+      "unlimitedHistory": "Histórico ilimitado (Pro)",
+      "contentTypes": "10 categorias de tipos de conteúdo",
+      "globalHotkey": "Atalho global no Mac (Cmd+Shift+V)",
+      "fuzzySearch": "Busca fuzzy e filtros",
+      "frequentItems": "Rastreamento de itens frequentes",
+      "urlTitle": "Obtenção de títulos de páginas URL",
+      "menuBar": "Interface na barra de menus",
+      "batchDelete": "Exclusão em lote",
+      "sourceApp": "Rastreamento do app de origem",
+      "offline": "Funciona completamente offline",
+      "languages": "13 idiomas suportados",
+      "nativeDesign": "Design nativo para macOS"
+    },
+    "pricing": {
+      "title": "Preços Simples",
+      "free": {
+        "title": "Grátis",
+        "price": "$0",
+        "features": ["5 itens na área de transferência", "Recursos básicos", "Acesso à barra de menus"]
+      },
+      "proYearly": {
+        "title": "Pro Anual",
+        "price": "$19,99",
+        "period": "/ano",
+        "save": "Economize 44%",
+        "mostPopular": "Mais Popular",
+        "features": ["Histórico ilimitado", "Todos os recursos", "Suporte prioritário"]
+      },
+      "lifetime": {
+        "title": "Vitalício",
+        "price": "$59,99",
+        "features": ["Compra única", "Todos os recursos para sempre", "Atualizações grátis"]
+      }
+    },
+    "requirements": {
+      "title": "Requisitos do Sistema",
+      "description": "Requer macOS 14.0 ou posterior. Funciona em Macs com Apple Silicon e Intel."
+    },
+    "cta": {
+      "download": "Baixar na Mac App Store",
+      "privacy": "Política de Privacidade",
+      "terms": "Termos de Serviço",
+      "support": "Suporte",
+      "troubleshooting": "Solução de Problemas"
+    },
+    "support": {
+      "meta": {
+        "title": "Suporte - ClipArc",
+        "description": "Obtenha ajuda e suporte para o ClipArc - Gerenciador de Área de Transferência Inteligente para macOS"
+      },
+      "title": "Suporte",
+      "subtitle": "ClipArc - Gerenciador de Área de Transferência Inteligente para macOS",
+      "contact": {
+        "title": "Entre em Contato",
+        "description": "Se você tiver dúvidas, feedback ou precisar de assistência com o ClipArc, entre em contato:"
+      },
+      "gettingStarted": {
+        "title": "Como Começar",
+        "step1": {
+          "title": "1. Conceder Permissão de Acessibilidade (apenas Mac)",
+          "description": "No Mac, o macOS pedirá permissão de Acessibilidade na primeira inicialização. Isso é necessário para o atalho global (Cmd+Shift+V). Vá em Configurações do Sistema → Privacidade e Segurança → Acessibilidade e ative o ClipArc. No iPhone, iPad e Vision Pro, nenhuma permissão especial é necessária."
+        },
+        "step2": {
+          "title": "2. Acessar Seu Histórico",
+          "description": "No Mac, pressione Cmd+Shift+V em qualquer lugar ou clique no ícone da barra de menus. No iPhone, iPad e Vision Pro, abra o app para ver seu histórico."
+        },
+        "step3": {
+          "title": "3. Colar com Um Clique",
+          "description": "Toque ou clique em qualquer item no histórico para colá-lo instantaneamente no aplicativo ativo."
+        }
+      },
+      "faq": {
+        "title": "Perguntas Frequentes",
+        "q1": {
+          "question": "Por que o ClipArc precisa de permissão de Acessibilidade no Mac?",
+          "answer": "No Mac, a permissão de Acessibilidade é necessária para duas funções: o atalho global (Cmd+Shift+V) para abrir o ClipArc de qualquer app, e a função de colagem inteligente que cola automaticamente o conteúdo no aplicativo ativo. No iPhone, iPad e Vision Pro, nenhuma permissão especial é necessária."
+        },
+        "q2": {
+          "question": "Meus dados da área de transferência estão seguros?",
+          "answer": "Sim. Todos os seus dados são armazenados localmente no seu dispositivo usando o framework SwiftData seguro da Apple. Nenhum dado é transmitido para servidores externos, a menos que você faça login explicitamente com Apple ID para sincronização Pro."
+        },
+        "q3": {
+          "question": "Qual a diferença entre Grátis e Pro?",
+          "answer": "A versão gratuita armazena até 5 itens e exibe 5 no menu rápido. O Pro desbloqueia histórico ilimitado (configurável de 5 a 1000), 10 itens no menu rápido, armazenamento ilimitado de imagens/arquivos e busca completa."
+        },
+        "q4": {
+          "question": "Quais tipos de conteúdo o ClipArc reconhece?",
+          "answer": "O ClipArc detecta automaticamente 10 tipos de conteúdo: Texto, URL (com obtenção de título da página), Imagem, Código (todas as linguagens), códigos de Cor (hex, RGB), Email, Telefones, Números/moeda, JSON e Arquivos."
+        },
+        "q5": {
+          "question": "Como limpo meu histórico?",
+          "answer": "Você pode excluir itens individuais passando o mouse sobre eles e clicando no botão excluir. Para limpar tudo, use a opção 'Limpar Tudo' nas configurações. Desinstalar o app também removerá todos os dados."
+        },
+        "q6": {
+          "question": "O ClipArc funciona com imagens e arquivos?",
+          "answer": "Sim. O ClipArc armazena imagens copiadas com miniaturas e informações de dimensões. Caminhos de arquivos também são rastreados, incluindo seleções múltiplas."
+        },
+        "q7": {
+          "question": "Quais são os requisitos do sistema?",
+          "answer": "O ClipArc requer iOS 26.1+ para iPhone e iPad, macOS 26.1+ para Mac ou visionOS 26.1+ para Apple Vision Pro."
+        },
+        "q8": {
+          "question": "Quais opções de personalização estão disponíveis?",
+          "answer": "O ClipArc oferece diversas opções de personalização: limite de histórico (5 a 1000 itens), iniciar no login (Mac), mostrar/ocultar ícone no dock (Mac), efeitos sonoros, aparência (Sistema/Claro/Escuro) e seleção de idioma."
+        },
+        "q9": {
+          "question": "Quais idiomas são suportados?",
+          "answer": "O ClipArc suporta 13 idiomas: Inglês, Chinês Simplificado, Chinês Tradicional, Japonês, Coreano, Espanhol, Francês, Alemão, Italiano, Português do Brasil, Russo, Árabe e Hindi."
+        },
+        "q10": {
+          "question": "Preciso de uma conta para usar o ClipArc?",
+          "answer": "Não, uma conta não é necessária. O Iniciar Sessão com Apple é opcional e disponível apenas para assinantes Pro que desejam sincronizar o status da assinatura entre seus dispositivos Apple. Os dados da área de transferência permanecem sempre locais."
+        },
+        "q11": {
+          "question": "O que é o Menu Rápido?",
+          "answer": "No Mac, o Menu Rápido é acessado pelo ícone na barra de menus e exibe seus itens copiados recentemente para acesso rápido. Usuários gratuitos veem 5 itens, enquanto usuários Pro veem 10 itens. No iPhone, iPad e Vision Pro, acesse o histórico diretamente pelo app."
+        }
+      },
+      "troubleshooting": {
+        "title": "Solução de Problemas",
+        "cantPaste": {
+          "title": "Não consigo colar em outros apps (Mac)",
+          "description": "Para colar diretamente em outros aplicativos, o ClipArc precisa de acesso aos recursos de acessibilidade do seu Mac. Às vezes (por exemplo, após uma atualização do sistema operacional), o acesso pode ser revogado involuntariamente e você precisará reativá-lo manualmente.",
+          "steps": {
+            "step1": "Vá para Ajustes do Sistema → Privacidade e Segurança → Acessibilidade",
+            "step2": "Encontre ClipArc na lista e clique no botão \"−\" para removê-lo",
+            "step3": "Reinicie seu Mac",
+            "step4": "Abra o ClipArc, tente colar qualquer item em qualquer app e siga as instruções na tela para conceder a permissão novamente"
+          },
+          "imageAlt": "Configurações de Acessibilidade do macOS mostrando ClipArc"
+        }
+      },
+      "links": {
+        "title": "Links Úteis",
+        "home": "Página Inicial do ClipArc",
+        "privacy": "Política de Privacidade",
+        "terms": "Termos de Serviço",
+        "troubleshooting": "Guia de Solução de Problemas"
+      },
+      "backToCliparc": "Voltar ao ClipArc"
+    },
+    "privacy": {
+      "meta": {
+        "title": "Política de Privacidade - ClipArc",
+        "description": "Política de Privacidade do ClipArc - Gerenciador de Área de Transferência Inteligente para macOS"
+      },
+      "title": "Política de Privacidade",
+      "subtitle": "ClipArc - Gerenciador de Área de Transferência Inteligente para macOS",
+      "lastUpdated": "Última atualização: 23 de janeiro de 2026",
+      "sections": {
+        "privacyMatters": {
+          "title": "Sua Privacidade Importa",
+          "content": "O ClipArc foi projetado com a privacidade como prioridade. Todos os seus dados são armazenados localmente no seu dispositivo. Não coletamos, transmitimos ou acessamos nenhum conteúdo da sua área de transferência. O que você copia permanece no seu dispositivo."
+        },
+        "infoCollect": {
+          "title": "Informações Que Coletamos",
+          "intro": "Não coletamos nenhuma informação pessoal.",
+          "stored": "Os seguintes dados são armazenados apenas localmente no seu dispositivo e nunca são transmitidos:",
+          "items": [
+            "Conteúdo da Área de Transferência: Texto, imagens, arquivos e outros conteúdos que você copia",
+            "Metadados do Conteúdo: Tipo de conteúdo, timestamps, contagem de uso e aplicativo de origem",
+            "Preferências do Usuário: Configurações, preferências de idioma e configuração de atalhos",
+            "Status da Assinatura: Se você tem uma assinatura Pro ativa (gerenciado pela Apple)"
+          ]
+        },
+        "infoNotCollect": {
+          "title": "Informações Que NÃO Coletamos",
+          "items": [
+            "Não coletamos dados analíticos ou de uso",
+            "Não rastreamos seu comportamento ou atividades",
+            "Não usamos SDKs de rastreamento ou publicidade de terceiros",
+            "Não transmitimos o conteúdo da área de transferência para servidores externos, a menos que a sincronização Pro seja explicitamente ativada",
+            "Não compartilhamos dados com terceiros",
+            "Conta opcional - Iniciar Sessão com Apple disponível apenas para sincronização de assinatura Pro entre seus dispositivos Apple"
+          ]
+        },
+        "howItWorks": {
+          "title": "Como o ClipArc Funciona",
+          "intro": "O ClipArc monitora a área de transferência do sistema para fornecer seus recursos:",
+          "items": [
+            "O conteúdo é capturado e armazenado localmente usando o framework SwiftData da Apple",
+            "A detecção do tipo de conteúdo é feita inteiramente no seu dispositivo",
+            "A obtenção do título da página URL é a única requisição de rede, e apenas quando você copia uma URL",
+            "Todas as operações de busca e filtro acontecem localmente"
+          ]
+        },
+        "urlFetching": {
+          "title": "Obtenção de Títulos de Páginas URL",
+          "content": "Quando você copia uma URL, o ClipArc pode obter o título da página web para fornecer melhor contexto no histórico. Esta é a única vez que o ClipArc faz uma requisição de rede. O conteúdo da URL é obtido diretamente e nenhum dado é enviado aos nossos servidores."
+        },
+        "permissions": {
+          "title": "Permissões Necessárias",
+          "intro": "O ClipArc pode requerer as seguintes permissões:",
+          "items": [
+            "Acessibilidade (apenas Mac): Necessária para o atalho global e a funcionalidade de colagem inteligente",
+            "Acesso à Área de Transferência: Necessário para monitorar e armazenar o conteúdo"
+          ],
+          "note": "Essas permissões são usadas apenas para funcionalidades do app e não para coleta de dados."
+        },
+        "dataStorage": {
+          "title": "Armazenamento de Dados",
+          "content": "Todos os dados são armazenados localmente no seu dispositivo usando o framework SwiftData da Apple. Os dados são armazenados no container sandbox do app, protegido pelos recursos de segurança da Apple.",
+          "control": "Você tem controle total sobre seus dados:",
+          "items": [
+            "Exclua itens individuais a qualquer momento",
+            "Limpe todo o histórico pelo app",
+            "Remova todos os dados desinstalando o app"
+          ]
+        },
+        "appleSignIn": {
+          "title": "Iniciar Sessão com Apple (Opcional)",
+          "content": "O Iniciar Sessão com Apple é opcional e disponível para assinantes Pro que desejam verificar o status da assinatura em vários dispositivos Apple. Quando você usa o Iniciar Sessão com Apple, recebemos apenas um identificador anônimo - seu nome, email ou outros dados pessoais não são coletados. Os dados da área de transferência nunca são sincronizados externamente. Você pode usar todos os recursos do ClipArc sem fazer login."
+        },
+        "inAppPurchases": {
+          "title": "Compras no App",
+          "content": "O ClipArc usa o StoreKit da Apple para compras no app e assinaturas. Todo o processamento de pagamentos é feito pela Apple. Não coletamos ou armazenamos informações de pagamento."
+        },
+        "thirdParty": {
+          "title": "Serviços de Terceiros",
+          "intro": "O ClipArc não usa nenhum serviço de análise, publicidade ou rastreamento de terceiros. Confiamos exclusivamente nos frameworks nativos da Apple:",
+          "items": [
+            "SwiftData (para armazenamento local)",
+            "StoreKit (para compras no app)",
+            "Iniciar Sessão com Apple (opcional, para verificação de assinatura Pro)",
+            "URLSession (apenas para obtenção de títulos URL)"
+          ]
+        },
+        "children": {
+          "title": "Privacidade de Crianças",
+          "content": "O ClipArc é adequado para todas as idades. Não coletamos informações pessoais de nenhum usuário, incluindo crianças. Como nenhum dado é transmitido externamente, não há preocupações com dados de crianças."
+        },
+        "changes": {
+          "title": "Alterações nesta Política",
+          "content": "Podemos atualizar esta Política de Privacidade periodicamente. Quaisquer alterações serão refletidas nesta página com uma data de 'Última atualização' atualizada."
+        },
+        "contact": {
+          "title": "Entre em Contato",
+          "content": "Se você tiver dúvidas sobre esta Política de Privacidade ou o ClipArc, entre em contato:"
+        }
+      },
+      "backToCliparc": "Voltar ao ClipArc"
+    },
+    "terms": {
+      "meta": {
+        "title": "Termos de Serviço - ClipArc",
+        "description": "Termos de Serviço do ClipArc - Gerenciador de Área de Transferência Inteligente para macOS"
+      },
+      "title": "Termos de Serviço",
+      "subtitle": "ClipArc - Gerenciador de Área de Transferência Inteligente para macOS",
+      "lastUpdated": "Última atualização: 23 de janeiro de 2026",
+      "sections": {
+        "agreement": {
+          "title": "Concordância com os Termos",
+          "content": "Ao baixar, instalar ou usar o ClipArc ('o App'), você concorda em estar vinculado a estes Termos de Serviço ('Termos'). Se você não concordar com estes Termos, não use o App."
+        },
+        "description": {
+          "title": "Descrição do Serviço",
+          "content": "O ClipArc é um aplicativo de gerenciamento de área de transferência para plataformas Apple (iPhone, iPad, Mac e Vision Pro) que armazena e organiza seu histórico localmente no seu dispositivo. O App fornece recursos incluindo, mas não limitados a, monitoramento da área de transferência, detecção de tipo de conteúdo, funcionalidade de busca e recursos de colagem rápida."
+        },
+        "license": {
+          "title": "Licença",
+          "intro": "A Versegates concede a você uma licença limitada, não exclusiva, intransferível e revogável para usar o ClipArc para fins pessoais ou comerciais de acordo com estes Termos e os Termos de Serviço da App Store da Apple.",
+          "restrictions": "Você não pode:",
+          "items": [
+            "Copiar, modificar ou distribuir o App",
+            "Fazer engenharia reversa, descompilar ou desmontar o App",
+            "Remover avisos de propriedade ou rótulos do App",
+            "Usar o App para qualquer finalidade ilegal"
+          ]
+        },
+        "subscriptions": {
+          "title": "Assinaturas e Compras",
+          "intro": "O ClipArc oferece um nível gratuito e assinaturas Pro pagas através da App Store da Apple.",
+          "tiers": [
+            "Nível Gratuito: Limitado a 5 itens com recursos básicos",
+            "Pro Mensal: $2,99/mês para histórico ilimitado",
+            "Pro Anual: $19,99/ano para histórico ilimitado",
+            "Pro Vitalício: $59,99 compra única para acesso ilimitado"
+          ],
+          "note": "Todas as compras são processadas através da Apple e estão sujeitas aos termos da Apple. As assinaturas são renovadas automaticamente a menos que sejam canceladas pelo menos 24 horas antes do final do período atual. Gerencie assinaturas nas configurações do seu Apple ID."
+        },
+        "refunds": {
+          "title": "Reembolsos",
+          "content": "Todas as compras são feitas através da App Store da Apple. Solicitações de reembolso devem ser direcionadas à Apple de acordo com sua política de reembolso. Não podemos processar reembolsos diretamente."
+        },
+        "userResponsibilities": {
+          "title": "Responsabilidades do Usuário",
+          "intro": "Você é responsável por:",
+          "items": [
+            "Garantir que seu uso do App esteja em conformidade com as leis aplicáveis",
+            "Manter a segurança do seu dispositivo e dados",
+            "Qualquer conteúdo que você copie e armazene usando o App",
+            "Gerenciar e fazer backup dos seus próprios dados"
+          ]
+        },
+        "privacy": {
+          "title": "Privacidade",
+          "content": "Sua privacidade é importante para nós. Consulte nossa Política de Privacidade para entender como o ClipArc trata seus dados. Em resumo, todos os dados são armazenados localmente no seu dispositivo e nunca são transmitidos para servidores externos."
+        },
+        "disclaimer": {
+          "title": "Isenção de Garantias",
+          "content1": "O APP É FORNECIDO 'COMO ESTÁ' E 'CONFORME DISPONÍVEL' SEM GARANTIAS DE QUALQUER TIPO, EXPRESSAS OU IMPLÍCITAS, INCLUINDO, MAS NÃO LIMITADO A, GARANTIAS IMPLÍCITAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO E NÃO VIOLAÇÃO.",
+          "content2": "Não garantimos que o App será ininterrupto, livre de erros ou completamente seguro. Você usa o App por sua conta e risco."
+        },
+        "liability": {
+          "title": "Limitação de Responsabilidade",
+          "intro": "NA EXTENSÃO MÁXIMA PERMITIDA POR LEI, A VERSEGATES NÃO SERÁ RESPONSÁVEL POR QUAISQUER DANOS INDIRETOS, INCIDENTAIS, ESPECIAIS, CONSEQUENCIAIS OU PUNITIVOS, OU QUALQUER PERDA DE LUCROS OU RECEITAS, INCORRIDOS DIRETA OU INDIRETAMENTE, OU QUALQUER PERDA DE DADOS, USO, FUNDO DE COMÉRCIO OU OUTRAS PERDAS INTANGÍVEIS RESULTANTES DE:",
+          "items": [
+            "Seu uso ou incapacidade de usar o App",
+            "Qualquer acesso não autorizado ou alteração dos seus dados",
+            "Qualquer perda de dados ou histórico da área de transferência",
+            "Qualquer outro assunto relacionado ao App"
+          ]
+        },
+        "indemnification": {
+          "title": "Indenização",
+          "content": "Você concorda em indenizar e isentar a Versegates e seus diretores, funcionários e agentes de quaisquer reclamações, danos, perdas, responsabilidades e despesas decorrentes do seu uso do App ou violação destes Termos."
+        },
+        "modifications": {
+          "title": "Modificações no App",
+          "content": "Reservamo-nos o direito de modificar, suspender ou descontinuar o App ou qualquer parte dele a qualquer momento sem aviso prévio. Não seremos responsáveis perante você ou terceiros por qualquer modificação, suspensão ou descontinuação do App."
+        },
+        "changes": {
+          "title": "Alterações nos Termos",
+          "content": "Podemos atualizar estes Termos periodicamente. Notificaremos você sobre quaisquer alterações materiais atualizando a data de 'Última atualização'. Seu uso continuado do App após tais alterações constitui aceitação dos novos Termos."
+        },
+        "governingLaw": {
+          "title": "Lei Aplicável",
+          "content": "Estes Termos serão regidos e interpretados de acordo com as leis da jurisdição em que a Versegates opera, sem considerar suas disposições sobre conflito de leis."
+        },
+        "contact": {
+          "title": "Entre em Contato",
+          "content": "Se você tiver dúvidas sobre estes Termos, entre em contato:"
+        }
+      },
+      "backToCliparc": "Voltar ao ClipArc"
+    },
+    "troubleshooting": {
+      "meta": {
+        "title": "Solução de Problemas - ClipArc",
+        "description": "Guia de solução de problemas do ClipArc - Gerenciador de Área de Transferência Inteligente para macOS"
+      },
+      "title": "Solução de Problemas",
+      "subtitle": "ClipArc - Gerenciador de Área de Transferência Inteligente para macOS",
+      "backToSupport": "Voltar ao Suporte",
+      "cantPaste": {
+        "title": "Não consigo colar em outros apps (Mac)",
+        "description": "Para colar diretamente em outros aplicativos, o ClipArc precisa de acesso aos recursos de acessibilidade do seu Mac. Às vezes (por exemplo, após uma atualização do sistema operacional), o acesso pode ser revogado involuntariamente e você precisará reativá-lo manualmente.",
+        "stepsTitle": "Passos para Resolver",
+        "steps": {
+          "step1": "Vá para Ajustes do Sistema → Privacidade e Segurança → Acessibilidade",
+          "step2": "Encontre ClipArc na lista e clique no botão \"−\" para removê-lo",
+          "step3": "Reinicie seu Mac",
+          "step4": "Abra o ClipArc, tente colar qualquer item em qualquer app e siga as instruções na tela para conceder a permissão novamente"
+        },
+        "imageAlt": "Configurações de Acessibilidade do macOS mostrando ClipArc",
+        "note": {
+          "label": "Nota:",
+          "content": "Este problema afeta apenas o Mac. No iPhone, iPad e Vision Pro, o ClipArc funciona com a área de transferência do sistema sem precisar de permissões especiais."
+        }
+      },
+      "stillNeedHelp": {
+        "title": "Ainda precisa de ajuda?",
+        "description": "Se os passos acima não resolverem seu problema, entre em contato com nossa equipe de suporte."
+      }
+    }
+  },
+  "common": {
+    "copyright": "© {year} Versegates. Todos os direitos reservados.",
+    "seePrivacyPolicy": "Consulte nossa Política de Privacidade para mais detalhes."
+  }
+}

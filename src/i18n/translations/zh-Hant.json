@@ -1,0 +1,450 @@
+{
+  "cliparc": {
+    "meta": {
+      "title": "ClipArc - macOS 智慧剪貼簿管理器",
+      "description": "智慧剪貼簿管理器，記住您複製的一切。智慧內容偵測、即時搜尋，無縫貼上到 Mac 上的所有應用程式。"
+    },
+    "hero": {
+      "tagline": "macOS 智慧剪貼簿管理器",
+      "description": "不再遺失複製的內容。ClipArc 透過智慧內容偵測、即時搜尋和一鍵貼上，智慧整理您的剪貼簿歷史記錄。"
+    },
+    "features": {
+      "title": "功能特點",
+      "intelligentDetection": {
+        "title": "智慧內容辨識",
+        "description": "自動將剪貼簿內容分類為 10 種類型：文字、網址、圖片、程式碼、顏色、電郵、電話、數字、JSON、檔案等。"
+      },
+      "instantAccess": {
+        "title": "即時存取",
+        "description": "隨時按下 Cmd+Shift+V 開啟剪貼簿歷史記錄。無需切換應用程式，即可搜尋、篩選和貼上。"
+      },
+      "powerfulSearch": {
+        "title": "強大搜尋",
+        "description": "模糊搜尋所有剪貼簿內容。按類型篩選，快速找到之前複製的網址、程式碼片段或圖片。"
+      },
+      "frequentItems": {
+        "title": "常用項目",
+        "description": "追蹤最常使用的剪貼簿項目。一鍵存取頻繁貼上的內容，最大化工作效率。"
+      },
+      "privacyFirst": {
+        "title": "隱私優先",
+        "description": "所有資料都儲存在您的裝置本機。無需雲端同步，無需帳戶。您的剪貼簿歷史永不離開裝置。"
+      },
+      "smartPaste": {
+        "title": "智慧貼上",
+        "description": "一鍵貼上到任何使用中的應用程式。在所有應用程式中無縫運作，自動恢復剪貼簿。"
+      }
+    },
+    "contentTypes": {
+      "title": "辨識所有內容類型",
+      "text": "文字",
+      "urls": "網址",
+      "images": "圖片",
+      "code": "程式碼",
+      "colors": "顏色",
+      "emails": "電郵",
+      "phoneNumbers": "電話號碼",
+      "numbers": "數字",
+      "json": "JSON",
+      "files": "檔案"
+    },
+    "perfectFor": {
+      "title": "適用對象",
+      "developers": {
+        "title": "開發者",
+        "description": "程式碼片段、終端機指令、API 金鑰觸手可及"
+      },
+      "writers": {
+        "title": "寫作者",
+        "description": "研究筆記、引用和參考資料隨時可用"
+      },
+      "designers": {
+        "title": "設計師",
+        "description": "顏色代碼、圖片和設計素材井然有序"
+      },
+      "dataAnalysts": {
+        "title": "資料分析師",
+        "description": "JSON 資料、數字和查詢自動追蹤"
+      },
+      "businessProfessionals": {
+        "title": "商務人士",
+        "description": "電郵、聯絡人和文件觸手可及"
+      },
+      "powerUsers": {
+        "title": "進階使用者",
+        "description": "無限剪貼簿歷史記錄，超級加速您的工作流程"
+      }
+    },
+    "featuresList": {
+      "unlimitedHistory": "無限剪貼簿歷史記錄（Pro）",
+      "contentTypes": "10 種內容類型分類",
+      "globalHotkey": "Mac 全域快捷鍵（Cmd+Shift+V）",
+      "fuzzySearch": "模糊搜尋和篩選",
+      "frequentItems": "常用項目追蹤",
+      "urlTitle": "網址頁面標題擷取",
+      "menuBar": "選單列應用程式介面",
+      "batchDelete": "批次刪除操作",
+      "sourceApp": "來源應用程式追蹤",
+      "offline": "完全離線運作",
+      "languages": "支援 13 種語言",
+      "nativeDesign": "原生 macOS 設計"
+    },
+    "pricing": {
+      "title": "簡單定價",
+      "free": {
+        "title": "免費版",
+        "price": "$0",
+        "features": ["5 條剪貼簿項目", "基本功能", "選單列存取"]
+      },
+      "proYearly": {
+        "title": "Pro 年費",
+        "price": "$19.99",
+        "period": "/年",
+        "save": "節省 44%",
+        "mostPopular": "最受歡迎",
+        "features": ["無限歷史記錄", "全部功能", "優先支援"]
+      },
+      "lifetime": {
+        "title": "終身版",
+        "price": "$59.99",
+        "features": ["一次購買", "永久使用全部功能", "免費更新"]
+      }
+    },
+    "requirements": {
+      "title": "系統需求",
+      "description": "需要 macOS 14.0 或更高版本。支援 Apple 晶片和 Intel Mac。"
+    },
+    "cta": {
+      "download": "在 Mac App Store 下載",
+      "privacy": "隱私權政策",
+      "terms": "服務條款",
+      "support": "支援",
+      "troubleshooting": "故障排除"
+    },
+    "support": {
+      "meta": {
+        "title": "支援 - ClipArc",
+        "description": "取得 ClipArc 的協助和支援 - macOS 智慧剪貼簿管理器"
+      },
+      "title": "支援",
+      "subtitle": "ClipArc - macOS 智慧剪貼簿管理器",
+      "contact": {
+        "title": "聯絡我們",
+        "description": "如果您有任何問題、意見或需要 ClipArc 的協助，請聯絡我們："
+      },
+      "gettingStarted": {
+        "title": "入門指南",
+        "step1": {
+          "title": "1. 授予所需權限",
+          "description": "Mac：首次啟動 ClipArc 時，macOS 會要求輔助使用權限，用於全域快捷鍵（Cmd+Shift+V）。前往系統設定 → 隱私權與安全性 → 輔助使用，啟用 ClipArc。iPhone/iPad：ClipArc 與系統剪貼簿無縫協作，無需額外權限。"
+        },
+        "step2": {
+          "title": "2. 存取剪貼簿歷史",
+          "description": "Mac：在任何地方按下 Cmd+Shift+V 開啟 ClipArc 的剪貼簿面板，或點按選單列圖示。iPhone/iPad/Vision Pro：開啟 ClipArc 應用程式查看和管理您的剪貼簿歷史。"
+        },
+        "step3": {
+          "title": "3. 一鍵貼上",
+          "description": "點按剪貼簿歷史記錄中的任何項目，將其複製回剪貼簿，隨時可貼上到任何應用程式。"
+        }
+      },
+      "faq": {
+        "title": "常見問題",
+        "q1": {
+          "question": "為什麼 ClipArc 在 Mac 上需要輔助使用權限？",
+          "answer": "在 macOS 上，輔助使用權限用於兩個功能：全域快捷鍵（Cmd+Shift+V）可從任何應用程式開啟 ClipArc，以及智慧貼上功能可自動將內容貼上到您的使用中應用程式。iPhone、iPad 和 Vision Pro 不需要此權限。"
+        },
+        "q2": {
+          "question": "我的剪貼簿資料安全嗎？",
+          "answer": "是的。您所有的剪貼簿資料都使用 Apple 安全的 SwiftData 框架儲存在裝置本機。沒有任何資料會傳送到外部伺服器。"
+        },
+        "q3": {
+          "question": "免費版和 Pro 版有什麼差別？",
+          "answer": "免費版最多儲存 5 條剪貼簿項目，快捷選單顯示 5 個項目。Pro 版解鎖無限剪貼簿歷史（可設定 5-1000 條）、快捷選單顯示 10 個項目、無限圖片和檔案儲存，以及完整搜尋功能。"
+        },
+        "q4": {
+          "question": "ClipArc 能辨識哪些內容類型？",
+          "answer": "ClipArc 自動偵測 10 種內容類型：文字、網址（含頁面標題擷取）、圖片、程式碼（所有程式語言）、顏色代碼（hex、RGB）、電郵、電話號碼、數字/貨幣、JSON、檔案。"
+        },
+        "q5": {
+          "question": "如何清除剪貼簿歷史記錄？",
+          "answer": "您可以將滑鼠懸停在項目上並點按刪除按鈕來刪除單一項目。要清除所有歷史記錄，請使用應用程式設定中的「清除全部」選項。解除安裝應用程式也會刪除所有資料。"
+        },
+        "q6": {
+          "question": "ClipArc 支援圖片和檔案嗎？",
+          "answer": "是的。ClipArc 儲存複製的圖片及其縮圖和尺寸資訊。檔案路徑也會被追蹤，包括多檔案選取。"
+        },
+        "q7": {
+          "question": "系統需求是什麼？",
+          "answer": "ClipArc 需要 iOS 26.1 或更高版本（iPhone、iPad）、macOS 26.1 或更高版本（Mac）或 visionOS 26.1 或更高版本（Apple Vision Pro）。Mac 支援 Apple 晶片和 Intel 處理器。"
+        },
+        "q8": {
+          "question": "有哪些自訂選項？",
+          "answer": "ClipArc 提供多種設定：設定歷史記錄限制（5-1000 條）、外觀（跟隨系統/淺色/深色）、語言偏好和聲音通知。在 Mac 上，您還可以設定開機啟動和顯示/隱藏 Dock 圖示。"
+        },
+        "q9": {
+          "question": "ClipArc 支援哪些語言？",
+          "answer": "ClipArc 支援 13 種語言：英語、簡體中文、繁體中文、日語、韓語、西班牙語、法語、德語、義大利語、葡萄牙語（巴西）、俄語、阿拉伯語和印地語。"
+        },
+        "q10": {
+          "question": "使用 ClipArc 需要帳戶嗎？",
+          "answer": "使用 ClipArc 不需要帳戶。您可以選擇使用 Apple ID 登入，以便在裝置間驗證 Pro 會員資格。所有剪貼簿資料仍然儲存在各裝置本機。"
+        },
+        "q11": {
+          "question": "什麼是快捷選單？（僅限 Mac）",
+          "answer": "在 Mac 上，快捷選單可從選單列圖示存取，顯示您最近的剪貼簿項目以便快速存取。免費使用者可看到 5 個項目，Pro 使用者可看到 10 個項目。"
+        }
+      },
+      "troubleshooting": {
+        "title": "故障排除",
+        "cantPaste": {
+          "title": "無法貼上到其他應用程式（Mac）",
+          "description": "要直接貼上到其他應用程式，ClipArc 需要存取 Mac 的輔助使用功能。有時（例如在作業系統更新後），此權限可能會被意外撤銷，您需要手動重新啟用。",
+          "steps": {
+            "step1": "前往 系統設定 → 隱私權與安全性 → 輔助使用",
+            "step2": "在列表中找到 ClipArc，點按「−」按鈕將其移除",
+            "step3": "重新啟動 Mac",
+            "step4": "啟動 ClipArc，嘗試將任意內容貼上到任何應用程式，按照螢幕提示重新授予權限"
+          },
+          "imageAlt": "macOS 輔助使用設定顯示 ClipArc"
+        }
+      },
+      "links": {
+        "title": "相關連結",
+        "home": "ClipArc 首頁",
+        "privacy": "隱私權政策",
+        "terms": "服務條款",
+        "troubleshooting": "故障排除指南"
+      },
+      "backToCliparc": "返回 ClipArc"
+    },
+    "privacy": {
+      "meta": {
+        "title": "隱私權政策 - ClipArc",
+        "description": "ClipArc 隱私權政策 - macOS 智慧剪貼簿管理器"
+      },
+      "title": "隱私權政策",
+      "subtitle": "ClipArc - macOS 智慧剪貼簿管理器",
+      "lastUpdated": "最後更新：2026 年 1 月 23 日",
+      "sections": {
+        "privacyMatters": {
+          "title": "您的隱私至關重要",
+          "content": "ClipArc 以隱私為核心設計。您所有的剪貼簿資料都儲存在裝置本機。我們不收集、傳輸或存取您的任何剪貼簿內容。您複製的內容留在您的裝置上。"
+        },
+        "infoCollect": {
+          "title": "我們收集的資訊",
+          "intro": "我們不收集任何個人資訊。",
+          "stored": "以下資料僅儲存在您的裝置本機，永不傳輸：",
+          "items": [
+            "剪貼簿內容：您複製的文字、圖片、檔案和其他內容",
+            "內容中繼資料：內容類型、時間戳記、使用次數和來源應用程式",
+            "使用者偏好設定：設定、語言偏好和快捷鍵設定",
+            "訂閱狀態：您是否有有效的 Pro 訂閱（由 Apple 管理）"
+          ]
+        },
+        "infoNotCollect": {
+          "title": "我們不收集的資訊",
+          "items": [
+            "我們不收集分析或使用資料",
+            "我們不追蹤您的行為或活動",
+            "我們不使用任何第三方追蹤或廣告 SDK",
+            "我們不將您的剪貼簿內容傳輸到任何外部伺服器",
+            "我們不與第三方分享任何資料",
+            "帳戶是可選的 - Apple 登入僅用於 Pro 會員驗證"
+          ]
+        },
+        "howItWorks": {
+          "title": "ClipArc 如何運作",
+          "intro": "ClipArc 監控您的系統剪貼簿以提供其功能：",
+          "items": [
+            "使用 Apple 的 SwiftData 框架在本機擷取和儲存剪貼簿內容",
+            "內容類型偵測完全在您的裝置上進行",
+            "網址頁面標題擷取是唯一的網路要求，且僅在您複製網址時發生",
+            "所有搜尋和篩選操作都在本機進行"
+          ]
+        },
+        "urlFetching": {
+          "title": "網址頁面標題擷取",
+          "content": "當您複製網址時，ClipArc 可能會擷取網頁標題，以便在剪貼簿歷史記錄中提供更好的上下文。這是 ClipArc 發出網路要求的唯一時機。網址內容直接擷取，沒有資料傳送到我們的伺服器。"
+        },
+        "permissions": {
+          "title": "所需權限",
+          "intro": "ClipArc 需要以下權限：",
+          "items": [
+            "輔助使用（僅限 macOS）：Mac 上全域快捷鍵和智慧貼上功能所需",
+            "剪貼簿存取：監控和儲存剪貼簿內容所需"
+          ],
+          "note": "這些權限僅用於應用程式功能，不用於資料收集。在 iPhone、iPad 和 Vision Pro 上，除標準剪貼簿存取外不需要特殊權限。"
+        },
+        "dataStorage": {
+          "title": "資料儲存",
+          "content": "所有資料都使用 Apple 的 SwiftData 框架儲存在您的裝置本機。資料儲存在應用程式的沙盒容器中，受平台安全功能保護。",
+          "control": "您可以完全控制您的資料：",
+          "items": [
+            "隨時刪除單一剪貼簿項目",
+            "透過應用程式清除所有歷史記錄",
+            "解除安裝應用程式即可刪除所有資料"
+          ]
+        },
+        "appleSignIn": {
+          "title": "Apple 登入（可選）",
+          "content": "ClipArc 為希望在裝置間驗證會員資格的 Pro 訂閱者提供可選的 Apple 登入。登入時，我們僅接收 Apple 提供的匿名使用者識別碼。您的剪貼簿資料永遠不會在裝置間同步——它始終儲存在各裝置本機。您可以在不登入的情況下使用 ClipArc。"
+        },
+        "inAppPurchases": {
+          "title": "App 內購買",
+          "content": "ClipArc 使用 Apple 的 StoreKit 進行 App 內購買和訂閱。所有付款處理由 Apple 完成。我們不收集或儲存任何付款資訊。"
+        },
+        "thirdParty": {
+          "title": "第三方服務",
+          "intro": "ClipArc 不使用任何第三方分析、廣告或追蹤服務。我們僅使用 Apple 的原生框架：",
+          "items": [
+            "SwiftData（用於本機資料儲存）",
+            "StoreKit（用於 App 內購買）",
+            "透過 Apple 登入（可選，用於 Pro 會員驗證）",
+            "URLSession（僅用於網址標題擷取）"
+          ]
+        },
+        "children": {
+          "title": "兒童隱私",
+          "content": "ClipArc 適合所有年齡。我們不收集任何使用者的個人資訊，包括兒童。由於沒有資料傳輸到外部，因此不存在兒童資料方面的顧慮。"
+        },
+        "changes": {
+          "title": "政策變更",
+          "content": "我們可能會不時更新本隱私權政策。任何變更都會反映在本頁面上，並更新「最後更新」日期。"
+        },
+        "contact": {
+          "title": "聯絡我們",
+          "content": "如果您對本隱私權政策或 ClipArc 有任何問題，請聯絡我們："
+        }
+      },
+      "backToCliparc": "返回 ClipArc"
+    },
+    "terms": {
+      "meta": {
+        "title": "服務條款 - ClipArc",
+        "description": "ClipArc 服務條款 - macOS 智慧剪貼簿管理器"
+      },
+      "title": "服務條款",
+      "subtitle": "ClipArc - macOS 智慧剪貼簿管理器",
+      "lastUpdated": "最後更新：2026 年 1 月 23 日",
+      "sections": {
+        "agreement": {
+          "title": "條款同意",
+          "content": "下載、安裝或使用 ClipArc（「本應用程式」）即表示您同意受本服務條款（「條款」）的約束。如果您不同意這些條款，請不要使用本應用程式。"
+        },
+        "description": {
+          "title": "服務描述",
+          "content": "ClipArc 是一款 Apple 平台（iOS、macOS 和 visionOS）剪貼簿管理應用程式，可在您的裝置本機儲存和整理剪貼簿歷史記錄。本應用程式提供的功能包括但不限於剪貼簿監控、內容類型偵測、搜尋功能和快速貼上功能。"
+        },
+        "license": {
+          "title": "授權",
+          "intro": "Versegates 授予您有限的、非獨佔的、不可轉讓的、可撤銷的授權，允許您根據這些條款和 Apple App Store 服務條款將 ClipArc 用於個人或商業目的。",
+          "restrictions": "您不得：",
+          "items": [
+            "複製、修改或散佈本應用程式",
+            "逆向工程、反編譯或反組譯本應用程式",
+            "移除本應用程式上的任何專有聲明或標籤",
+            "將本應用程式用於任何非法目的"
+          ]
+        },
+        "subscriptions": {
+          "title": "訂閱和購買",
+          "intro": "ClipArc 透過 Apple App Store 提供免費版和付費 Pro 訂閱。",
+          "tiers": [
+            "免費版：限制 5 條剪貼簿項目，基本功能",
+            "Pro 月費：$2.99/月，無限剪貼簿歷史記錄",
+            "Pro 年費：$19.99/年，無限剪貼簿歷史記錄",
+            "Pro 終身版：$59.99 一次性購買，無限存取"
+          ],
+          "note": "所有購買均透過 Apple 處理，受 Apple 條款和條件約束。除非在目前期限結束前至少 24 小時取消，否則訂閱將自動續訂。在您的 Apple ID 設定中管理訂閱。"
+        },
+        "refunds": {
+          "title": "退款",
+          "content": "所有購買均透過 Apple App Store 進行。退款要求應根據 Apple 的退款政策向 Apple 提出。我們無法直接處理退款。"
+        },
+        "userResponsibilities": {
+          "title": "使用者責任",
+          "intro": "您有責任：",
+          "items": [
+            "確保您對本應用程式的使用符合適用法律",
+            "維護您裝置和資料的安全",
+            "您使用本應用程式複製和儲存的任何內容",
+            "管理和備份您自己的資料"
+          ]
+        },
+        "privacy": {
+          "title": "隱私",
+          "content": "您的隱私對我們很重要。請檢閱我們的隱私權政策，瞭解 ClipArc 如何處理您的資料。總之，所有剪貼簿資料都儲存在您的裝置本機，永不傳輸到外部伺服器。"
+        },
+        "disclaimer": {
+          "title": "免責聲明",
+          "content1": "本應用程式按「原樣」和「可用」提供，不提供任何明示或暗示的保證，包括但不限於適銷性、特定目的適用性和非侵權性的暗示保證。",
+          "content2": "我們不保證本應用程式將不中斷、無錯誤或完全安全。您使用本應用程式的風險自負。"
+        },
+        "liability": {
+          "title": "責任限制",
+          "intro": "在法律允許的最大範圍內，VERSEGATES 不對以下原因導致的任何間接、附帶、特殊、後果性或懲罰性損害，或任何利潤或收入損失（無論是直接還是間接產生），或任何資料、使用、商譽或其他無形損失承擔責任：",
+          "items": [
+            "您使用或無法使用本應用程式",
+            "對您資料的任何未經授權的存取或更改",
+            "任何剪貼簿資料或歷史記錄的遺失",
+            "與本應用程式相關的任何其他事項"
+          ]
+        },
+        "indemnification": {
+          "title": "賠償",
+          "content": "您同意賠償並使 Versegates 及其管理人員、董事、員工和代理人免受因您使用本應用程式或違反這些條款而產生的任何索賠、損害、損失、責任和費用的損害。"
+        },
+        "modifications": {
+          "title": "應用程式修改",
+          "content": "我們保留隨時修改、暫停或終止本應用程式或其任何部分的權利，恕不另行通知。我們不對任何修改、暫停或終止本應用程式向您或任何第三方承擔責任。"
+        },
+        "changes": {
+          "title": "條款變更",
+          "content": "我們可能會不時更新這些條款。我們將透過更新「最後更新」日期通知您任何重大變更。在此類變更後繼續使用本應用程式即表示接受新條款。"
+        },
+        "governingLaw": {
+          "title": "管轄法律",
+          "content": "這些條款應受 Versegates 營運所在司法管轄區的法律管轄並據其解釋，不考慮其法律衝突條款。"
+        },
+        "contact": {
+          "title": "聯絡我們",
+          "content": "如果您對這些條款有任何問題，請聯絡我們："
+        }
+      },
+      "backToCliparc": "返回 ClipArc"
+    },
+    "troubleshooting": {
+      "meta": {
+        "title": "故障排除 - ClipArc",
+        "description": "ClipArc 故障排除指南 - macOS 智慧剪貼簿管理器"
+      },
+      "title": "故障排除",
+      "subtitle": "ClipArc - macOS 智慧剪貼簿管理器",
+      "backToSupport": "返回支援",
+      "cantPaste": {
+        "title": "無法貼上到其他應用程式（Mac）",
+        "description": "要直接貼上到其他應用程式，ClipArc 需要存取 Mac 的輔助使用功能。有時（例如在作業系統更新後），此權限可能會被意外撤銷，您需要手動重新啟用。",
+        "stepsTitle": "解決步驟",
+        "steps": {
+          "step1": "前往 系統設定 → 隱私權與安全性 → 輔助使用",
+          "step2": "在列表中找到 ClipArc，點按「−」按鈕將其移除",
+          "step3": "重新啟動 Mac",
+          "step4": "啟動 ClipArc，嘗試將任意內容貼上到任何應用程式，按照螢幕提示重新授予權限"
+        },
+        "imageAlt": "macOS 輔助使用設定顯示 ClipArc",
+        "note": {
+          "label": "注意：",
+          "content": "此問題僅影響 Mac。在 iPhone、iPad 和 Vision Pro 上，ClipArc 可直接使用系統剪貼簿，無需特殊權限。"
+        }
+      },
+      "stillNeedHelp": {
+        "title": "仍需協助？",
+        "description": "如果以上步驟無法解決您的問題，請聯絡我們的支援團隊。"
+      }
+    }
+  },
+  "common": {
+    "copyright": "© {year} Versegates. 保留所有權利。",
+    "seePrivacyPolicy": "詳情請參閱我們的隱私權政策。"
+  }
+}

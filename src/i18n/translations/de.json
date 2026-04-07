@@ -1,0 +1,450 @@
+{
+  "cliparc": {
+    "meta": {
+      "title": "ClipArc - Intelligenter Zwischenablage-Manager für macOS",
+      "description": "Der intelligente Zwischenablage-Manager für macOS, der sich alles merkt, was Sie kopieren. Intelligente Inhaltserkennung, sofortige Suche und nahtloses Einfügen in alle Ihre Apps."
+    },
+    "hero": {
+      "tagline": "Intelligenter Zwischenablage-Manager für macOS",
+      "description": "Verlieren Sie nie wieder, was Sie kopieren. ClipArc organisiert Ihren Zwischenablageverlauf intelligent mit smarter Inhaltserkennung, sofortiger Suche und Ein-Klick-Einfügen."
+    },
+    "features": {
+      "title": "Funktionen",
+      "intelligentDetection": {
+        "title": "Intelligente Inhaltserkennung",
+        "description": "Kategorisiert Zwischenablage-Inhalte automatisch in 10 Typen: Text, URL, Bild, Code, Farbe, E-Mail, Telefon, Zahl, JSON, Datei und mehr."
+      },
+      "instantAccess": {
+        "title": "Sofortiger Zugriff",
+        "description": "Drücken Sie überall Cmd+Shift+V, um Ihren Verlauf zu öffnen. Suchen, filtern und fügen Sie in Sekunden ein, ohne die App zu wechseln."
+      },
+      "powerfulSearch": {
+        "title": "Leistungsstarke Suche",
+        "description": "Unscharfe Suche in allen Zwischenablage-Inhalten. Filtern Sie nach Typ, um schnell die URL, den Code-Schnipsel oder das Bild zu finden, das Sie zuvor kopiert haben."
+      },
+      "frequentItems": {
+        "title": "Häufige Elemente",
+        "description": "Verfolgt die am häufigsten verwendeten Zwischenablage-Elemente. Greifen Sie mit einem Klick auf häufig eingefügte Inhalte zu für maximale Produktivität."
+      },
+      "privacyFirst": {
+        "title": "Datenschutz Zuerst",
+        "description": "Alle Daten werden lokal auf Ihrem Gerät gespeichert. Keine Cloud-Synchronisation, kein Konto erforderlich. Ihr Verlauf verlässt nie Ihr Gerät."
+      },
+      "smartPaste": {
+        "title": "Intelligentes Einfügen",
+        "description": "Ein-Klick-Einfügen in jede aktive Anwendung. Funktioniert nahtlos mit allen Apps mit automatischer Zwischenablage-Wiederherstellung."
+      }
+    },
+    "contentTypes": {
+      "title": "Erkennt Alle Ihre Inhalte",
+      "text": "Text",
+      "urls": "URLs",
+      "images": "Bilder",
+      "code": "Code",
+      "colors": "Farben",
+      "emails": "E-Mails",
+      "phoneNumbers": "Telefonnummern",
+      "numbers": "Zahlen",
+      "json": "JSON",
+      "files": "Dateien"
+    },
+    "perfectFor": {
+      "title": "Perfekt Für",
+      "developers": {
+        "title": "Entwickler",
+        "description": "Code-Schnipsel, Terminal-Befehle, API-Schlüssel griffbereit"
+      },
+      "writers": {
+        "title": "Autoren",
+        "description": "Recherche-Notizen, Zitate und Referenzen immer zugänglich"
+      },
+      "designers": {
+        "title": "Designer",
+        "description": "Farbcodes, Bilder und Design-Assets organisiert"
+      },
+      "dataAnalysts": {
+        "title": "Datenanalysten",
+        "description": "JSON-Daten, Zahlen und Abfragen automatisch verfolgt"
+      },
+      "businessProfessionals": {
+        "title": "Geschäftsleute",
+        "description": "E-Mails, Kontakte und Dokumente griffbereit"
+      },
+      "powerUsers": {
+        "title": "Power-User",
+        "description": "Beschleunigen Sie Ihren Workflow mit unbegrenztem Verlauf"
+      }
+    },
+    "featuresList": {
+      "unlimitedHistory": "Unbegrenzter Verlauf (Pro)",
+      "contentTypes": "10 Inhaltstyp-Kategorien",
+      "globalHotkey": "Globaler Hotkey auf dem Mac (Cmd+Shift+V)",
+      "fuzzySearch": "Unscharfe Suche und Filterung",
+      "frequentItems": "Verfolgung häufiger Elemente",
+      "urlTitle": "URL-Seitentitel-Abruf",
+      "menuBar": "Menüleisten-App-Oberfläche",
+      "batchDelete": "Stapellöschung",
+      "sourceApp": "Quell-App-Verfolgung",
+      "offline": "Funktioniert komplett offline",
+      "languages": "13 Sprachen unterstützt",
+      "nativeDesign": "Natives macOS-Design"
+    },
+    "pricing": {
+      "title": "Einfache Preise",
+      "free": {
+        "title": "Kostenlos",
+        "price": "0 $",
+        "features": ["5 Zwischenablage-Elemente", "Grundfunktionen", "Menüleisten-Zugriff"]
+      },
+      "proYearly": {
+        "title": "Pro Jährlich",
+        "price": "19,99 $",
+        "period": "/Jahr",
+        "save": "44% sparen",
+        "mostPopular": "Beliebteste",
+        "features": ["Unbegrenzter Verlauf", "Alle Funktionen", "Prioritäts-Support"]
+      },
+      "lifetime": {
+        "title": "Lebenslang",
+        "price": "59,99 $",
+        "features": ["Einmaliger Kauf", "Alle Funktionen für immer", "Kostenlose Updates"]
+      }
+    },
+    "requirements": {
+      "title": "Systemanforderungen",
+      "description": "Erfordert macOS 14.0 oder neuer. Funktioniert auf Apple Silicon und Intel Macs."
+    },
+    "cta": {
+      "download": "Im Mac App Store laden",
+      "privacy": "Datenschutzrichtlinie",
+      "terms": "Nutzungsbedingungen",
+      "support": "Support",
+      "troubleshooting": "Fehlerbehebung"
+    },
+    "support": {
+      "meta": {
+        "title": "Support - ClipArc",
+        "description": "Hilfe und Support für ClipArc - Intelligenter Zwischenablage-Manager für macOS"
+      },
+      "title": "Support",
+      "subtitle": "ClipArc - Intelligenter Zwischenablage-Manager für macOS",
+      "contact": {
+        "title": "Kontaktieren Sie Uns",
+        "description": "Wenn Sie Fragen, Feedback oder Hilfe mit ClipArc benötigen, kontaktieren Sie uns:"
+      },
+      "gettingStarted": {
+        "title": "Erste Schritte",
+        "step1": {
+          "title": "1. Bedienungshilfen-Berechtigung Erteilen (nur Mac)",
+          "description": "Beim ersten Start von ClipArc auf dem Mac wird macOS um Bedienungshilfen-Berechtigung bitten. Dies ist für den globalen Hotkey (Cmd+Shift+V) erforderlich. Gehen Sie zu Systemeinstellungen → Datenschutz & Sicherheit → Bedienungshilfen und aktivieren Sie ClipArc."
+        },
+        "step2": {
+          "title": "2. Globalen Hotkey Verwenden (Mac)",
+          "description": "Auf dem Mac drücken Sie überall Cmd+Shift+V, um das ClipArc-Panel zu öffnen. Sie können auch auf das Menüleisten-Symbol klicken. Auf iPhone, iPad und Vision Pro öffnen Sie die App direkt."
+        },
+        "step3": {
+          "title": "3. Mit Einem Klick Einfügen",
+          "description": "Klicken Sie auf ein beliebiges Element in Ihrem Verlauf, um es sofort in die aktive Anwendung einzufügen."
+        }
+      },
+      "faq": {
+        "title": "Häufig Gestellte Fragen",
+        "q1": {
+          "question": "Warum braucht ClipArc die Bedienungshilfen-Berechtigung? (nur Mac)",
+          "answer": "Auf dem Mac wird die Bedienungshilfen-Berechtigung für zwei Funktionen benötigt: den globalen Hotkey (Cmd+Shift+V) zum Öffnen von ClipArc aus jeder App und die intelligente Einfügefunktion, die Inhalte automatisch in Ihre aktive Anwendung einfügt. Auf iPhone, iPad und Vision Pro ist diese Berechtigung nicht erforderlich."
+        },
+        "q2": {
+          "question": "Sind meine Zwischenablage-Daten sicher?",
+          "answer": "Ja. Alle Ihre Daten werden lokal auf Ihrem Gerät mit Apples sicherem SwiftData-Framework gespeichert. Es werden nie Daten an externe Server übertragen, es sei denn, Sie melden sich explizit mit Ihrer Apple-ID an, um die Pro-Synchronisierung zu aktivieren."
+        },
+        "q3": {
+          "question": "Was ist der Unterschied zwischen Kostenlos und Pro?",
+          "answer": "Die kostenlose Version speichert 5 Elemente und zeigt 5 im Schnellmenü an. Pro schaltet unbegrenzten Verlauf frei (konfigurierbar von 5 bis 1000 Elementen), 10 Elemente im Schnellmenü, unbegrenzte Bild-/Dateispeicherung und vollständige Suchfunktion."
+        },
+        "q4": {
+          "question": "Welche Inhaltstypen erkennt ClipArc?",
+          "answer": "ClipArc erkennt automatisch 10 Inhaltstypen: Text, URL (mit Seitentitel-Abruf), Bild, Code (alle Programmiersprachen), Farbcodes (hex, RGB), E-Mail, Telefonnummern, Zahlen/Währung, JSON und Dateien."
+        },
+        "q5": {
+          "question": "Wie lösche ich meinen Verlauf?",
+          "answer": "Sie können einzelne Elemente löschen, indem Sie darüber fahren und auf die Schaltfläche Löschen klicken. Um alles zu löschen, verwenden Sie die Option 'Alles Löschen' in den App-Einstellungen. Das Deinstallieren der App löscht auch alle Daten."
+        },
+        "q6": {
+          "question": "Funktioniert ClipArc mit Bildern und Dateien?",
+          "answer": "Ja. ClipArc speichert kopierte Bilder mit Vorschaubildern und Größeninformationen. Dateipfade werden ebenfalls verfolgt, einschließlich Mehrfachauswahl."
+        },
+        "q7": {
+          "question": "Was sind die Systemanforderungen?",
+          "answer": "ClipArc erfordert iOS 26.1+ für iPhone und iPad, macOS 26.1+ für Mac oder visionOS 26.1+ für Apple Vision Pro."
+        },
+        "q8": {
+          "question": "Welche Anpassungsoptionen gibt es?",
+          "answer": "ClipArc bietet zahlreiche Anpassungsmöglichkeiten: Verlaufslimit (5-1000 Elemente), Start bei Anmeldung (Mac), Dock-Symbol ein-/ausblenden (Mac), Soundeffekte, Erscheinungsbild (hell/dunkel/System) und Sprachauswahl."
+        },
+        "q9": {
+          "question": "Welche Sprachen werden unterstützt?",
+          "answer": "ClipArc unterstützt 13 Sprachen: Englisch, Deutsch, Spanisch, Französisch, Italienisch, Portugiesisch, Niederländisch, Polnisch, Russisch, Türkisch, Japanisch, Koreanisch und Chinesisch (vereinfacht)."
+        },
+        "q10": {
+          "question": "Benötige ich ein Konto, um ClipArc zu verwenden?",
+          "answer": "Nein, ein Konto ist nicht erforderlich. Die optionale Apple-Anmeldung dient ausschließlich dazu, Pro-Abonnenten die Synchronisierung ihrer Mitgliedschaft über iPhone, iPad, Mac und Vision Pro zu ermöglichen."
+        },
+        "q11": {
+          "question": "Was ist das Schnellmenü?",
+          "answer": "Das Schnellmenü ist auf dem Mac über die Menüleiste zugänglich und zeigt Ihre zuletzt kopierten Elemente für schnellen Zugriff. Die kostenlose Version zeigt 5 Elemente, Pro zeigt 10 Elemente an."
+        }
+      },
+      "troubleshooting": {
+        "title": "Fehlerbehebung",
+        "cantPaste": {
+          "title": "Kann nicht in andere Apps einfügen (Mac)",
+          "description": "Um direkt in andere Anwendungen einzufügen, benötigt ClipArc Zugriff auf die Bedienungshilfen Ihres Macs. Manchmal (z.B. nach einem Betriebssystem-Update) kann dieser Zugriff unbeabsichtigt entzogen werden, und Sie müssen ihn manuell wieder aktivieren.",
+          "steps": {
+            "step1": "Gehen Sie zu Systemeinstellungen → Datenschutz & Sicherheit → Bedienungshilfen",
+            "step2": "Finden Sie ClipArc in der Liste und klicken Sie auf die Schaltfläche \"−\", um es zu entfernen",
+            "step3": "Starten Sie Ihren Mac neu",
+            "step4": "Starten Sie ClipArc, versuchen Sie ein Element in eine beliebige App einzufügen, und folgen Sie den Bildschirmanweisungen, um die Berechtigung erneut zu erteilen"
+          },
+          "imageAlt": "macOS Bedienungshilfen-Einstellungen mit ClipArc"
+        }
+      },
+      "links": {
+        "title": "Nützliche Links",
+        "home": "ClipArc Startseite",
+        "privacy": "Datenschutzrichtlinie",
+        "terms": "Nutzungsbedingungen",
+        "troubleshooting": "Fehlerbehebungsanleitung"
+      },
+      "backToCliparc": "Zurück zu ClipArc"
+    },
+    "privacy": {
+      "meta": {
+        "title": "Datenschutzrichtlinie - ClipArc",
+        "description": "Datenschutzrichtlinie von ClipArc - Intelligenter Zwischenablage-Manager für macOS"
+      },
+      "title": "Datenschutzrichtlinie",
+      "subtitle": "ClipArc - Intelligenter Zwischenablage-Manager für macOS",
+      "lastUpdated": "Letzte Aktualisierung: 23. Januar 2026",
+      "sections": {
+        "privacyMatters": {
+          "title": "Ihre Privatsphäre Ist Uns Wichtig",
+          "content": "ClipArc wurde mit Datenschutz als Kernprinzip entwickelt. Alle Ihre Zwischenablage-Daten werden lokal auf Ihrem Gerät gespeichert. Wir sammeln, übertragen oder greifen auf keine Ihrer Zwischenablage-Inhalte zu. Was Sie kopieren, bleibt auf Ihrem Gerät."
+        },
+        "infoCollect": {
+          "title": "Informationen, Die Wir Sammeln",
+          "intro": "Wir sammeln keine persönlichen Informationen.",
+          "stored": "Die folgenden Daten werden nur lokal auf Ihrem Gerät gespeichert und nie übertragen:",
+          "items": [
+            "Zwischenablage-Inhalt: Text, Bilder, Dateien und andere Inhalte, die Sie kopieren",
+            "Inhalts-Metadaten: Inhaltstyp, Zeitstempel, Nutzungsanzahl und Quellanwendung",
+            "Benutzereinstellungen: Einstellungen, Sprachpräferenzen und Hotkey-Konfiguration",
+            "Abonnementstatus: Ob Sie ein aktives Pro-Abonnement haben (von Apple verwaltet)"
+          ]
+        },
+        "infoNotCollect": {
+          "title": "Informationen, Die Wir NICHT Sammeln",
+          "items": [
+            "Wir sammeln keine Analyse- oder Nutzungsdaten",
+            "Wir verfolgen Ihr Verhalten oder Ihre Aktivitäten nicht",
+            "Wir verwenden keine Tracking- oder Werbe-SDKs von Drittanbietern",
+            "Wir übertragen Ihre Zwischenablage-Inhalte nicht an externe Server",
+            "Keine externe Übertragung, es sei denn, die Pro-Synchronisierung ist explizit aktiviert",
+            "Ein Konto ist optional - Mit Apple anmelden dient nur zur Synchronisierung der Pro-Mitgliedschaft über Geräte hinweg"
+          ]
+        },
+        "howItWorks": {
+          "title": "Wie ClipArc Funktioniert",
+          "intro": "ClipArc überwacht Ihre System-Zwischenablage, um seine Funktionen bereitzustellen:",
+          "items": [
+            "Zwischenablage-Inhalte werden mit Apples SwiftData-Framework lokal erfasst und gespeichert",
+            "Die Inhaltstyperkennung erfolgt vollständig auf Ihrem Gerät",
+            "Der URL-Seitentitel-Abruf ist die einzige Netzwerkanfrage, und nur wenn Sie eine URL kopieren",
+            "Alle Such- und Filteroperationen erfolgen lokal"
+          ]
+        },
+        "urlFetching": {
+          "title": "URL-Seitentitel-Abruf",
+          "content": "Wenn Sie eine URL kopieren, kann ClipArc den Webseitentitel abrufen, um einen besseren Kontext in Ihrem Verlauf zu bieten. Dies ist das einzige Mal, dass ClipArc eine Netzwerkanfrage stellt. Der URL-Inhalt wird direkt abgerufen und keine Daten werden an unsere Server gesendet."
+        },
+        "permissions": {
+          "title": "Erforderliche Berechtigungen",
+          "intro": "ClipArc benötigt die folgenden Berechtigungen:",
+          "items": [
+            "Bedienungshilfen (nur Mac): Erforderlich für den globalen Hotkey und die intelligente Einfügefunktion",
+            "Zwischenablage-Zugriff: Erforderlich zum Überwachen und Speichern von Zwischenablage-Inhalten"
+          ],
+          "note": "Diese Berechtigungen werden ausschließlich für App-Funktionen und nicht für die Datensammlung verwendet."
+        },
+        "dataStorage": {
+          "title": "Datenspeicherung",
+          "content": "Alle Daten werden lokal auf Ihrem Gerät mit Apples SwiftData-Framework gespeichert. Die Daten werden im Sandbox-Container der App gespeichert, geschützt durch Sicherheitsfunktionen von iOS, macOS und visionOS.",
+          "control": "Sie haben die volle Kontrolle über Ihre Daten:",
+          "items": [
+            "Löschen Sie einzelne Elemente jederzeit",
+            "Löschen Sie den gesamten Verlauf über die App",
+            "Entfernen Sie alle Daten durch Deinstallieren der App"
+          ]
+        },
+        "appleSignIn": {
+          "title": "Mit Apple anmelden (Optional)",
+          "content": "ClipArc bietet optional Mit Apple anmelden für Pro-Abonnenten, um ihre Mitgliedschaft auf iPhone, iPad, Mac und Vision Pro zu verifizieren. Bei der Anmeldung erhalten wir nur einen anonymen Identifikator von Apple. Ihre Zwischenablage-Daten werden niemals extern synchronisiert. Sie können ClipArc vollständig ohne Anmeldung nutzen."
+        },
+        "inAppPurchases": {
+          "title": "In-App-Käufe",
+          "content": "ClipArc verwendet Apples StoreKit für In-App-Käufe und Abonnements. Die gesamte Zahlungsabwicklung erfolgt durch Apple. Wir sammeln oder speichern keine Zahlungsinformationen."
+        },
+        "thirdParty": {
+          "title": "Dienste von Drittanbietern",
+          "intro": "ClipArc verwendet keine Analyse-, Werbe- oder Tracking-Dienste von Drittanbietern. Wir verlassen uns ausschließlich auf Apples native Frameworks:",
+          "items": [
+            "SwiftData (für lokale Datenspeicherung)",
+            "StoreKit (für In-App-Käufe)",
+            "Mit Apple anmelden (optional, zur Pro-Mitgliedschaftsverifizierung)",
+            "URLSession (nur für URL-Titel-Abruf)"
+          ]
+        },
+        "children": {
+          "title": "Datenschutz für Kinder",
+          "content": "ClipArc ist für alle Altersgruppen geeignet. Wir sammeln keine persönlichen Informationen von Benutzern, einschließlich Kindern. Da keine Daten extern übertragen werden, gibt es keine Bedenken bezüglich Kinderdaten."
+        },
+        "changes": {
+          "title": "Änderungen an Dieser Richtlinie",
+          "content": "Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Änderungen werden auf dieser Seite mit einem aktualisierten Datum der 'Letzten Aktualisierung' widergespiegelt."
+        },
+        "contact": {
+          "title": "Kontaktieren Sie Uns",
+          "content": "Wenn Sie Fragen zu dieser Datenschutzrichtlinie oder ClipArc haben, kontaktieren Sie uns unter:"
+        }
+      },
+      "backToCliparc": "Zurück zu ClipArc"
+    },
+    "terms": {
+      "meta": {
+        "title": "Nutzungsbedingungen - ClipArc",
+        "description": "Nutzungsbedingungen von ClipArc - Intelligenter Zwischenablage-Manager für macOS"
+      },
+      "title": "Nutzungsbedingungen",
+      "subtitle": "ClipArc - Intelligenter Zwischenablage-Manager für macOS",
+      "lastUpdated": "Letzte Aktualisierung: 23. Januar 2026",
+      "sections": {
+        "agreement": {
+          "title": "Zustimmung zu den Bedingungen",
+          "content": "Durch das Herunterladen, Installieren oder Verwenden von ClipArc ('die App') erklären Sie sich mit diesen Nutzungsbedingungen ('Bedingungen') einverstanden. Wenn Sie diesen Bedingungen nicht zustimmen, verwenden Sie die App bitte nicht."
+        },
+        "description": {
+          "title": "Beschreibung des Dienstes",
+          "content": "ClipArc ist eine Zwischenablage-Verwaltungsanwendung für Apple-Plattformen (iPhone, iPad, Mac und Vision Pro), die Ihren Verlauf lokal auf Ihrem Gerät speichert und organisiert. Die App bietet Funktionen einschließlich, aber nicht beschränkt auf Zwischenablage-Überwachung, Inhaltstyperkennung, Suchfunktionalität und schnelle Einfügefähigkeiten."
+        },
+        "license": {
+          "title": "Lizenz",
+          "intro": "Versegates gewährt Ihnen eine eingeschränkte, nicht-exklusive, nicht übertragbare, widerrufliche Lizenz zur Nutzung von ClipArc für persönliche oder kommerzielle Zwecke in Übereinstimmung mit diesen Bedingungen und den Nutzungsbedingungen des Apple App Store.",
+          "restrictions": "Sie dürfen nicht:",
+          "items": [
+            "Die App kopieren, modifizieren oder verteilen",
+            "Die App dekompilieren, disassemblieren oder reverse-engineeren",
+            "Eigentumshinweise oder Etiketten von der App entfernen",
+            "Die App für illegale Zwecke verwenden"
+          ]
+        },
+        "subscriptions": {
+          "title": "Abonnements und Käufe",
+          "intro": "ClipArc bietet eine kostenlose Stufe und kostenpflichtige Pro-Abonnements über den Apple App Store an.",
+          "tiers": [
+            "Kostenlose Stufe: Auf 5 Elemente mit Grundfunktionen beschränkt",
+            "Pro Monatlich: 2,99 $/Monat für unbegrenzten Verlauf",
+            "Pro Jährlich: 19,99 $/Jahr für unbegrenzten Verlauf",
+            "Pro Lebenslang: 59,99 $ einmaliger Kauf für unbegrenzten Zugang"
+          ],
+          "note": "Alle Käufe werden über Apple abgewickelt und unterliegen Apples Geschäftsbedingungen. Abonnements verlängern sich automatisch, sofern sie nicht mindestens 24 Stunden vor Ende des aktuellen Zeitraums gekündigt werden. Verwalten Sie Abonnements in Ihren Apple-ID-Einstellungen."
+        },
+        "refunds": {
+          "title": "Rückerstattungen",
+          "content": "Alle Käufe erfolgen über den Apple App Store. Rückerstattungsanträge sollten gemäß der Rückerstattungsrichtlinie von Apple an Apple gerichtet werden. Wir können Rückerstattungen nicht direkt bearbeiten."
+        },
+        "userResponsibilities": {
+          "title": "Benutzerverantwortlichkeiten",
+          "intro": "Sie sind verantwortlich für:",
+          "items": [
+            "Die Sicherstellung, dass Ihre Nutzung der App den geltenden Gesetzen entspricht",
+            "Die Aufrechterhaltung der Sicherheit Ihres Geräts und Ihrer Daten",
+            "Alle Inhalte, die Sie mit der App kopieren und speichern",
+            "Die Verwaltung und Sicherung Ihrer eigenen Daten"
+          ]
+        },
+        "privacy": {
+          "title": "Datenschutz",
+          "content": "Ihre Privatsphäre ist uns wichtig. Bitte lesen Sie unsere Datenschutzrichtlinie, um zu verstehen, wie ClipArc mit Ihren Daten umgeht. Zusammengefasst werden alle Daten lokal auf Ihrem Gerät gespeichert und nie an externe Server übertragen."
+        },
+        "disclaimer": {
+          "title": "Gewährleistungsausschluss",
+          "content1": "DIE APP WIRD 'WIE BESEHEN' UND 'WIE VERFÜGBAR' OHNE JEGLICHE GEWÄHRLEISTUNG BEREITGESTELLT, WEDER AUSDRÜCKLICH NOCH STILLSCHWEIGEND, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF STILLSCHWEIGENDE GEWÄHRLEISTUNGEN DER MARKTGÄNGIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG.",
+          "content2": "Wir garantieren nicht, dass die App ununterbrochen, fehlerfrei oder vollständig sicher sein wird. Sie nutzen die App auf eigenes Risiko."
+        },
+        "liability": {
+          "title": "Haftungsbeschränkung",
+          "intro": "IM MAXIMALEN GESETZLICH ZULÄSSIGEN UMFANG HAFTET VERSEGATES NICHT FÜR INDIREKTE, ZUFÄLLIGE, BESONDERE, FOLGE- ODER STRAFSCHÄDEN ODER FÜR GEWINN- ODER UMSATZVERLUSTE, OB DIREKT ODER INDIREKT ENTSTANDEN, ODER FÜR VERLUSTE VON DATEN, NUTZUNG, GESCHÄFTS- ODER FIRMENWERT ODER ANDEREN IMMATERIELLEN VERLUSTEN, DIE SICH ERGEBEN AUS:",
+          "items": [
+            "Ihrer Nutzung oder Unfähigkeit, die App zu nutzen",
+            "Jedem unbefugten Zugriff auf oder Änderung Ihrer Daten",
+            "Jedem Verlust von Zwischenablage-Daten oder Verlauf",
+            "Jeder anderen Angelegenheit im Zusammenhang mit der App"
+          ]
+        },
+        "indemnification": {
+          "title": "Freistellung",
+          "content": "Sie stimmen zu, Versegates und seine leitenden Angestellten, Direktoren, Mitarbeiter und Vertreter von allen Ansprüchen, Schäden, Verlusten, Verbindlichkeiten und Kosten freizustellen und schadlos zu halten, die sich aus Ihrer Nutzung der App oder Verletzung dieser Bedingungen ergeben."
+        },
+        "modifications": {
+          "title": "Änderungen an der App",
+          "content": "Wir behalten uns das Recht vor, die App oder Teile davon jederzeit ohne Vorankündigung zu ändern, auszusetzen oder einzustellen. Wir haften Ihnen oder Dritten gegenüber nicht für Änderungen, Aussetzungen oder Einstellungen der App."
+        },
+        "changes": {
+          "title": "Änderungen der Bedingungen",
+          "content": "Wir können diese Bedingungen von Zeit zu Zeit aktualisieren. Wir werden Sie über wesentliche Änderungen informieren, indem wir das Datum der 'Letzten Aktualisierung' aktualisieren. Ihre fortgesetzte Nutzung der App nach solchen Änderungen stellt die Annahme der neuen Bedingungen dar."
+        },
+        "governingLaw": {
+          "title": "Geltendes Recht",
+          "content": "Diese Bedingungen unterliegen den Gesetzen des Rechtsgebiets, in dem Versegates tätig ist, und werden entsprechend ausgelegt, ohne Berücksichtigung von Kollisionsnormen."
+        },
+        "contact": {
+          "title": "Kontaktieren Sie Uns",
+          "content": "Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns unter:"
+        }
+      },
+      "backToCliparc": "Zurück zu ClipArc"
+    },
+    "troubleshooting": {
+      "meta": {
+        "title": "Fehlerbehebung - ClipArc",
+        "description": "ClipArc Fehlerbehebungsanleitung - Intelligenter Zwischenablage-Manager für macOS"
+      },
+      "title": "Fehlerbehebung",
+      "subtitle": "ClipArc - Intelligenter Zwischenablage-Manager für macOS",
+      "backToSupport": "Zurück zum Support",
+      "cantPaste": {
+        "title": "Kann nicht in andere Apps einfügen (Mac)",
+        "description": "Um direkt in andere Anwendungen einzufügen, benötigt ClipArc Zugriff auf die Bedienungshilfen Ihres Macs. Manchmal (z.B. nach einem Betriebssystem-Update) kann dieser Zugriff unbeabsichtigt entzogen werden, und Sie müssen ihn manuell wieder aktivieren.",
+        "stepsTitle": "Schritte zur Lösung",
+        "steps": {
+          "step1": "Gehen Sie zu Systemeinstellungen → Datenschutz & Sicherheit → Bedienungshilfen",
+          "step2": "Finden Sie ClipArc in der Liste und klicken Sie auf die Schaltfläche \"−\", um es zu entfernen",
+          "step3": "Starten Sie Ihren Mac neu",
+          "step4": "Starten Sie ClipArc, versuchen Sie ein Element in eine beliebige App einzufügen, und folgen Sie den Bildschirmanweisungen, um die Berechtigung erneut zu erteilen"
+        },
+        "imageAlt": "macOS Bedienungshilfen-Einstellungen mit ClipArc",
+        "note": {
+          "label": "Hinweis:",
+          "content": "Dieses Problem betrifft nur Mac. Auf iPhone, iPad und Vision Pro funktioniert ClipArc mit der System-Zwischenablage ohne spezielle Berechtigungen."
+        }
+      },
+      "stillNeedHelp": {
+        "title": "Noch Hilfe benötigt?",
+        "description": "Wenn die obigen Schritte Ihr Problem nicht lösen, kontaktieren Sie unser Support-Team."
+      }
+    }
+  },
+  "common": {
+    "copyright": "© {year} Versegates. Alle Rechte vorbehalten.",
+    "seePrivacyPolicy": "Weitere Details finden Sie in unserer Datenschutzrichtlinie."
+  }
+}
