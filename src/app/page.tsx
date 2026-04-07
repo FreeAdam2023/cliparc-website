@@ -161,63 +161,6 @@ export default function HomePage() {
             </div>
           </div>
 
-          {/* Pricing */}
-          <div className="mb-16">
-            <h2 className="text-3xl font-bold text-center mb-8">
-              {t.cliparc.pricing.title}
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              <div className="bg-gray-800/50 rounded-xl p-6 text-center border border-gray-700/50">
-                <h3 className="text-lg font-semibold mb-2">
-                  {t.cliparc.pricing.free.title}
-                </h3>
-                <p className="text-3xl font-bold mb-4">
-                  {t.cliparc.pricing.free.price}
-                </p>
-                <ul className="text-gray-400 text-sm space-y-2">
-                  {t.cliparc.pricing.free.features.map((f, i) => (
-                    <li key={i}>{f}</li>
-                  ))}
-                </ul>
-              </div>
-              <div className="bg-gradient-to-b from-blue-600/20 to-purple-600/20 rounded-xl p-6 text-center border border-blue-500/50 relative">
-                <span className="absolute -top-3 left-1/2 -translate-x-1/2 bg-blue-600 text-white text-xs font-semibold px-3 py-1 rounded-full">
-                  {t.cliparc.pricing.proYearly.mostPopular}
-                </span>
-                <h3 className="text-lg font-semibold mb-2">
-                  {t.cliparc.pricing.proYearly.title}
-                </h3>
-                <p className="text-3xl font-bold mb-1">
-                  {t.cliparc.pricing.proYearly.price}
-                  <span className="text-lg font-normal text-gray-400">
-                    {t.cliparc.pricing.proYearly.period}
-                  </span>
-                </p>
-                <p className="text-green-400 text-sm mb-4">
-                  {t.cliparc.pricing.proYearly.save}
-                </p>
-                <ul className="text-gray-400 text-sm space-y-2">
-                  {t.cliparc.pricing.proYearly.features.map((f, i) => (
-                    <li key={i}>{f}</li>
-                  ))}
-                </ul>
-              </div>
-              <div className="bg-gray-800/50 rounded-xl p-6 text-center border border-gray-700/50">
-                <h3 className="text-lg font-semibold mb-2">
-                  {t.cliparc.pricing.lifetime.title}
-                </h3>
-                <p className="text-3xl font-bold mb-4">
-                  {t.cliparc.pricing.lifetime.price}
-                </p>
-                <ul className="text-gray-400 text-sm space-y-2">
-                  {t.cliparc.pricing.lifetime.features.map((f, i) => (
-                    <li key={i}>{f}</li>
-                  ))}
-                </ul>
-              </div>
-            </div>
-          </div>
-
           {/* Requirements */}
           <div className="bg-gray-800/50 rounded-xl p-8 mb-16">
             <h2 className="text-2xl font-bold mb-4">

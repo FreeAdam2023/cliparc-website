@@ -9,26 +9,12 @@ export function getSoftwareApplicationJsonLd(locale?: string) {
       "Smart Clipboard Manager for macOS. Intelligent content detection, fuzzy search, and seamless paste across all your apps.",
     applicationCategory: "UtilitiesApplication",
     operatingSystem: "macOS 14.0+",
-    offers: [
-      {
-        "@type": "Offer",
-        price: "0",
-        priceCurrency: "USD",
-        description: "Free - 5 clipboard items",
-      },
-      {
-        "@type": "Offer",
-        price: "19.99",
-        priceCurrency: "USD",
-        description: "Pro Yearly",
-      },
-      {
-        "@type": "Offer",
-        price: "59.99",
-        priceCurrency: "USD",
-        description: "Lifetime",
-      },
-    ],
+    offers: {
+      "@type": "Offer",
+      price: "0",
+      priceCurrency: "USD",
+      description: "Free",
+    },
     screenshot: `${BASE_URL}/screenshot.webp`,
     image: `${BASE_URL}/icon.png`,
     url: BASE_URL,
