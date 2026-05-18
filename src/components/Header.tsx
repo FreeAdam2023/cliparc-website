@@ -26,6 +26,14 @@ export default function Header({
         </Link>
 
         <nav className="flex items-center gap-4">
+          {!locale || locale === "en" ? (
+            <Link
+              href="/blog/"
+              className="text-sm text-gray-400 hover:text-white transition"
+            >
+              Blog
+            </Link>
+          ) : null}
           <Link
             href={`${prefix}/support`}
             className="text-sm text-gray-400 hover:text-white transition"

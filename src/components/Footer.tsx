@@ -12,6 +12,11 @@ export default function Footer({ locale }: { locale?: string }) {
             &copy; {year} Versegates. All rights reserved.
           </p>
           <nav className="flex gap-6 text-sm text-gray-400">
+            {!locale || locale === "en" ? (
+              <Link href="/blog/" className="hover:text-white transition">
+                Blog
+              </Link>
+            ) : null}
             <Link href={`${prefix}/privacy`} className="hover:text-white transition">
               Privacy
             </Link>

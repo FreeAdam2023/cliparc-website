@@ -1301,4 +1301,22 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://cliparc.net/ar/troubleshooting/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://cliparc.net/hi/troubleshooting/" />
   </url>
+  <url>
+    <loc>https://cliparc.net/blog/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cliparc.net/blog/clipboard-history-on-mac/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://cliparc.net/blog/mac-clipboard-tricks-for-developers/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

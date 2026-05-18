@@ -1,6 +1,27 @@
-import { writeFileSync } from "fs";
+import { readdirSync, writeFileSync, readFileSync } from "fs";
+import { join } from "path";
 
 const BASE_URL = "https://cliparc.net";
+
+function discoverBlogPosts() {
+  const dir = "src/content/blog";
+  let entries;
+  try {
+    entries = readdirSync(dir);
+  } catch {
+    return [];
+  }
+  return entries
+    .filter((f) => f.endsWith(".tsx"))
+    .map((f) => {
+      const src = readFileSync(join(dir, f), "utf8");
+      const slugMatch = src.match(/slug:\s*"([^"]+)"/);
+      const dateMatch = src.match(/datePublished:\s*"([^"]+)"/);
+      if (!slugMatch) return null;
+      return { slug: slugMatch[1], datePublished: dateMatch?.[1] };
+    })
+    .filter(Boolean);
+}
 const locales = ["en", "zh-Hans", "zh-Hant", "ja", "ko", "es", "fr", "de", "it", "pt-BR", "ru", "ar", "hi"];
 const pages = [
   { path: "", changefreq: "weekly", priority: "1.0" },
@@ -51,6 +72,27 @@ ${buildAlternates(page.path)}
     <changefreq>${page.changefreq}</changefreq>
     <priority>${(parseFloat(page.priority) * 0.9).toFixed(1)}</priority>
 ${buildAlternates(page.path)}
+  </url>
+`;
+  }
+}
+
+// Blog (English only)
+const blogPosts = discoverBlogPosts();
+if (blogPosts.length > 0) {
+  xml += `  <url>
+    <loc>${BASE_URL}/blog/</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+`;
+  for (const post of blogPosts) {
+    xml += `  <url>
+    <loc>${BASE_URL}/blog/${post.slug}/</loc>
+    <lastmod>${post.datePublished || today}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 `;
   }

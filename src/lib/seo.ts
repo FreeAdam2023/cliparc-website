@@ -54,6 +54,48 @@ export function getSoftwareApplicationJsonLd(locale?: string) {
   };
 }
 
+export function getArticleJsonLd({
+  title,
+  description,
+  slug,
+  datePublished,
+  dateModified,
+  image,
+}: {
+  title: string;
+  description: string;
+  slug: string;
+  datePublished: string;
+  dateModified?: string;
+  image?: string;
+}) {
+  const url = `${BASE_URL}/blog/${slug}/`;
+  return {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: title,
+    description,
+    url,
+    mainEntityOfPage: url,
+    datePublished,
+    dateModified: dateModified || datePublished,
+    image: image ? `${BASE_URL}${image}` : `${BASE_URL}/og-image.png`,
+    author: {
+      "@type": "Organization",
+      name: "Versegates",
+      url: "https://versegates.com",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "Versegates",
+      logo: {
+        "@type": "ImageObject",
+        url: `${BASE_URL}/icon-512.png`,
+      },
+    },
+  };
+}
+
 export function getFaqJsonLd(
   faqs: Array<{ question: string; answer: string }>
 ) {
