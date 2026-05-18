@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
   title: {
     default: "ClipArc - Smart Clipboard Manager for macOS",
-    template: "%s | ClipArc",
+    template: "%s",
   },
   description:
     "The intelligent clipboard manager that remembers everything you copy. Smart content detection, instant search, and seamless paste across all your apps on Mac.",

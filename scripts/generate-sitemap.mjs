@@ -12,11 +12,17 @@ const pages = [
 
 const today = new Date().toISOString().split("T")[0];
 
+function withTrailingSlash(url) {
+  return url.endsWith("/") ? url : `${url}/`;
+}
+
 function buildAlternates(path) {
-  const links = [`    <xhtml:link rel="alternate" hreflang="x-default" href="${BASE_URL}${path}" />`];
-  links.push(`    <xhtml:link rel="alternate" hreflang="en" href="${BASE_URL}${path}" />`);
+  const enUrl = withTrailingSlash(`${BASE_URL}${path || "/"}`);
+  const links = [`    <xhtml:link rel="alternate" hreflang="x-default" href="${enUrl}" />`];
+  links.push(`    <xhtml:link rel="alternate" hreflang="en" href="${enUrl}" />`);
   for (const locale of locales.filter(l => l !== "en")) {
-    links.push(`    <xhtml:link rel="alternate" hreflang="${locale}" href="${BASE_URL}/${locale}${path}" />`);
+    const localeUrl = withTrailingSlash(`${BASE_URL}/${locale}${path}`);
+    links.push(`    <xhtml:link rel="alternate" hreflang="${locale}" href="${localeUrl}" />`);
   }
   return links.join("\n");
 }
@@ -29,7 +35,7 @@ let xml = `<?xml version="1.0" encoding="UTF-8"?>
 for (const page of pages) {
   // English root
   xml += `  <url>
-    <loc>${BASE_URL}${page.path || "/"}</loc>
+    <loc>${withTrailingSlash(`${BASE_URL}${page.path || "/"}`)}</loc>
     <lastmod>${today}</lastmod>
     <changefreq>${page.changefreq}</changefreq>
     <priority>${page.priority}</priority>
@@ -40,7 +46,7 @@ ${buildAlternates(page.path)}
   // Other locales
   for (const locale of locales.filter(l => l !== "en")) {
     xml += `  <url>
-    <loc>${BASE_URL}/${locale}${page.path}</loc>
+    <loc>${withTrailingSlash(`${BASE_URL}/${locale}${page.path}`)}</loc>
     <lastmod>${today}</lastmod>
     <changefreq>${page.changefreq}</changefreq>
     <priority>${(parseFloat(page.priority) * 0.9).toFixed(1)}</priority>

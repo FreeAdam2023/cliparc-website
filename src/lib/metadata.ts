@@ -26,23 +26,28 @@ export function getAppStoreUrl(locale?: string): string {
   return `https://apps.apple.com/${country}/app/cliparc/id${APP_ID}?mt=12`;
 }
 
+function withTrailingSlash(url: string): string {
+  return url.endsWith("/") ? url : `${url}/`;
+}
+
 export function getCanonicalUrl(path: string, locale?: string): string {
   if (!locale || locale === "en") {
-    return `${BASE_URL}${path}`;
+    return withTrailingSlash(`${BASE_URL}${path || "/"}`);
   }
-  return `${BASE_URL}/${locale}${path}`;
+  return withTrailingSlash(`${BASE_URL}/${locale}${path}`);
 }
 
 export function getHreflangAlternates(path: string): Record<string, string> {
+  const enUrl = withTrailingSlash(`${BASE_URL}${path || "/"}`);
   const alternates: Record<string, string> = {
-    "x-default": `${BASE_URL}${path}`,
+    "x-default": enUrl,
   };
   for (const locale of locales) {
     const lang = hreflangMap[locale];
     if (locale === "en") {
-      alternates[lang] = `${BASE_URL}${path}`;
+      alternates[lang] = enUrl;
     } else {
-      alternates[lang] = `${BASE_URL}/${locale}${path}`;
+      alternates[lang] = withTrailingSlash(`${BASE_URL}/${locale}${path}`);
     }
   }
   return alternates;
