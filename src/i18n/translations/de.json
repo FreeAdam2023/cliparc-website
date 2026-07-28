@@ -94,7 +94,11 @@
       "free": {
         "title": "Kostenlos",
         "price": "0 $",
-        "features": ["5 Zwischenablage-Elemente", "Grundfunktionen", "Menüleisten-Zugriff"]
+        "features": [
+          "5 Zwischenablage-Elemente",
+          "Grundfunktionen",
+          "Menüleisten-Zugriff"
+        ]
       },
       "proYearly": {
         "title": "Pro Jährlich",
@@ -102,12 +106,20 @@
         "period": "/Jahr",
         "save": "44% sparen",
         "mostPopular": "Beliebteste",
-        "features": ["Unbegrenzter Verlauf", "Alle Funktionen", "Prioritäts-Support"]
+        "features": [
+          "Unbegrenzter Verlauf",
+          "Alle Funktionen",
+          "Prioritäts-Support"
+        ]
       },
       "lifetime": {
         "title": "Lebenslang",
         "price": "59,99 $",
-        "features": ["Einmaliger Kauf", "Alle Funktionen für immer", "Kostenlose Updates"]
+        "features": [
+          "Einmaliger Kauf",
+          "Alle Funktionen für immer",
+          "Kostenlose Updates"
+        ]
       }
     },
     "requirements": {
@@ -119,7 +131,9 @@
       "privacy": "Datenschutzrichtlinie",
       "terms": "Nutzungsbedingungen",
       "support": "Support",
-      "troubleshooting": "Fehlerbehebung"
+      "troubleshooting": "Fehlerbehebung",
+      "downloadDirect": "Erweiterte Version herunterladen",
+      "directNote": "Automatisches Einfügen in jede App, unbegrenzter Verlauf und automatische Updates. Erfordert einmalige Freigabe der Bedienungshilfen."
     },
     "support": {
       "meta": {

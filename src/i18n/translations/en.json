@@ -94,7 +94,11 @@
       "free": {
         "title": "Free",
         "price": "$0",
-        "features": ["5 clipboard items", "Basic features", "Menu bar access"]
+        "features": [
+          "5 clipboard items",
+          "Basic features",
+          "Menu bar access"
+        ]
       },
       "proYearly": {
         "title": "Pro Yearly",
@@ -102,12 +106,20 @@
         "period": "/year",
         "save": "Save 44%",
         "mostPopular": "Most Popular",
-        "features": ["Unlimited history", "All features", "Priority support"]
+        "features": [
+          "Unlimited history",
+          "All features",
+          "Priority support"
+        ]
       },
       "lifetime": {
         "title": "Lifetime",
         "price": "$59.99",
-        "features": ["One-time purchase", "All features forever", "Free updates"]
+        "features": [
+          "One-time purchase",
+          "All features forever",
+          "Free updates"
+        ]
       }
     },
     "requirements": {
@@ -119,7 +131,9 @@
       "privacy": "Privacy Policy",
       "terms": "Terms of Service",
       "support": "Support",
-      "troubleshooting": "Troubleshooting"
+      "troubleshooting": "Troubleshooting",
+      "downloadDirect": "Download Enhanced Version",
+      "directNote": "Auto-paste into any app and unlimited history, with built-in auto-updates. Requires granting Accessibility permission once."
     },
     "support": {
       "meta": {

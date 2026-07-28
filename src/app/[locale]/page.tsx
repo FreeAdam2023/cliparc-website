@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { getTranslation, locales, isValidLocale } from "@/i18n";
-import { buildMetadata } from "@/lib/metadata";
+import { buildMetadata, getDirectDownloadUrl } from "@/lib/metadata";
 import { getSoftwareApplicationJsonLd } from "@/lib/seo";
 import JsonLd from "@/components/JsonLd";
 import Header from "@/components/Header";
@@ -143,7 +143,16 @@ export default async function LocaleHomePage({ params }: Props) {
           {/* CTA */}
           <div className="text-center">
             <AppStoreButton locale={locale} label={t.cliparc.cta.download} />
-            <p className="mt-4 text-gray-400 space-x-4">
+            <div className="mt-6">
+              <a
+                href={getDirectDownloadUrl()}
+                className="inline-block border border-gray-500 hover:border-white text-gray-200 hover:text-white font-medium py-3 px-6 rounded-xl transition"
+              >
+                {t.cliparc.cta.downloadDirect}
+              </a>
+              <p className="mt-3 text-sm text-gray-500 max-w-md mx-auto">{t.cliparc.cta.directNote}</p>
+            </div>
+            <p className="mt-6 text-gray-400 space-x-4">
               <Link href={`/${locale}/privacy`} className="underline hover:text-white">{t.cliparc.cta.privacy}</Link>
               <Link href={`/${locale}/terms`} className="underline hover:text-white">{t.cliparc.cta.terms}</Link>
               <Link href={`/${locale}/support`} className="underline hover:text-white">{t.cliparc.cta.support}</Link>

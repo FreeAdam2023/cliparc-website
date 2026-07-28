@@ -94,7 +94,11 @@
       "free": {
         "title": "免費版",
         "price": "$0",
-        "features": ["5 條剪貼簿項目", "基本功能", "選單列存取"]
+        "features": [
+          "5 條剪貼簿項目",
+          "基本功能",
+          "選單列存取"
+        ]
       },
       "proYearly": {
         "title": "Pro 年費",
@@ -102,12 +106,20 @@
         "period": "/年",
         "save": "節省 44%",
         "mostPopular": "最受歡迎",
-        "features": ["無限歷史記錄", "全部功能", "優先支援"]
+        "features": [
+          "無限歷史記錄",
+          "全部功能",
+          "優先支援"
+        ]
       },
       "lifetime": {
         "title": "終身版",
         "price": "$59.99",
-        "features": ["一次購買", "永久使用全部功能", "免費更新"]
+        "features": [
+          "一次購買",
+          "永久使用全部功能",
+          "免費更新"
+        ]
       }
     },
     "requirements": {
@@ -119,7 +131,9 @@
       "privacy": "隱私權政策",
       "terms": "服務條款",
       "support": "支援",
-      "troubleshooting": "故障排除"
+      "troubleshooting": "故障排除",
+      "downloadDirect": "下載增強版",
+      "directNote": "選中即自動貼上到任意應用、歷史紀錄無上限，並內建自動更新。需授權一次「輔助使用」。"
     },
     "support": {
       "meta": {

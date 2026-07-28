@@ -94,7 +94,11 @@
       "free": {
         "title": "免费版",
         "price": "$0",
-        "features": ["5 条剪贴板项目", "基础功能", "菜单栏访问"]
+        "features": [
+          "5 条剪贴板项目",
+          "基础功能",
+          "菜单栏访问"
+        ]
       },
       "proYearly": {
         "title": "Pro 年费",
@@ -102,12 +106,20 @@
         "period": "/年",
         "save": "节省 44%",
         "mostPopular": "最受欢迎",
-        "features": ["无限历史记录", "全部功能", "优先支持"]
+        "features": [
+          "无限历史记录",
+          "全部功能",
+          "优先支持"
+        ]
       },
       "lifetime": {
         "title": "终身版",
         "price": "$59.99",
-        "features": ["一次购买", "永久使用全部功能", "免费更新"]
+        "features": [
+          "一次购买",
+          "永久使用全部功能",
+          "免费更新"
+        ]
       }
     },
     "requirements": {
@@ -119,7 +131,9 @@
       "privacy": "隐私政策",
       "terms": "服务条款",
       "support": "支持",
-      "troubleshooting": "故障排除"
+      "troubleshooting": "故障排除",
+      "downloadDirect": "下载增强版",
+      "directNote": "选中即自动粘贴到任意应用、历史记录无上限，并内置自动更新。需授权一次“辅助功能”。"
     },
     "support": {
       "meta": {

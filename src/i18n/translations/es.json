@@ -94,7 +94,11 @@
       "free": {
         "title": "Gratis",
         "price": "$0",
-        "features": ["5 elementos del portapapeles", "Características básicas", "Acceso a la barra de menú"]
+        "features": [
+          "5 elementos del portapapeles",
+          "Características básicas",
+          "Acceso a la barra de menú"
+        ]
       },
       "proYearly": {
         "title": "Pro Anual",
@@ -102,12 +106,20 @@
         "period": "/año",
         "save": "Ahorra 44%",
         "mostPopular": "Más Popular",
-        "features": ["Historial ilimitado", "Todas las características", "Soporte prioritario"]
+        "features": [
+          "Historial ilimitado",
+          "Todas las características",
+          "Soporte prioritario"
+        ]
       },
       "lifetime": {
         "title": "De por Vida",
         "price": "$59.99",
-        "features": ["Compra única", "Todas las características para siempre", "Actualizaciones gratis"]
+        "features": [
+          "Compra única",
+          "Todas las características para siempre",
+          "Actualizaciones gratis"
+        ]
       }
     },
     "requirements": {
@@ -119,7 +131,9 @@
       "privacy": "Política de Privacidad",
       "terms": "Términos de Servicio",
       "support": "Soporte",
-      "troubleshooting": "Solución de Problemas"
+      "troubleshooting": "Solución de Problemas",
+      "downloadDirect": "Descargar versión mejorada",
+      "directNote": "Pega automáticamente en cualquier app, historial ilimitado y actualizaciones automáticas. Requiere conceder permiso de Accesibilidad una vez."
     },
     "support": {
       "meta": {

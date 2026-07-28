@@ -94,7 +94,11 @@
       "free": {
         "title": "Gratuito",
         "price": "0 $",
-        "features": ["5 elementi negli appunti", "Funzionalità base", "Accesso barra dei menu"]
+        "features": [
+          "5 elementi negli appunti",
+          "Funzionalità base",
+          "Accesso barra dei menu"
+        ]
       },
       "proYearly": {
         "title": "Pro Annuale",
@@ -102,12 +106,20 @@
         "period": "/anno",
         "save": "Risparmia 44%",
         "mostPopular": "Più Popolare",
-        "features": ["Cronologia illimitata", "Tutte le funzionalità", "Supporto prioritario"]
+        "features": [
+          "Cronologia illimitata",
+          "Tutte le funzionalità",
+          "Supporto prioritario"
+        ]
       },
       "lifetime": {
         "title": "A Vita",
         "price": "59,99 $",
-        "features": ["Acquisto unico", "Tutte le funzionalità per sempre", "Aggiornamenti gratuiti"]
+        "features": [
+          "Acquisto unico",
+          "Tutte le funzionalità per sempre",
+          "Aggiornamenti gratuiti"
+        ]
       }
     },
     "requirements": {
@@ -119,7 +131,9 @@
       "privacy": "Privacy Policy",
       "terms": "Termini di Servizio",
       "support": "Supporto",
-      "troubleshooting": "Risoluzione Problemi"
+      "troubleshooting": "Risoluzione Problemi",
+      "downloadDirect": "Scarica la versione avanzata",
+      "directNote": "Incolla automaticamente in qualsiasi app, cronologia illimitata e aggiornamenti automatici. Richiede di autorizzare l'Accessibilità una volta."
     },
     "support": {
       "meta": {

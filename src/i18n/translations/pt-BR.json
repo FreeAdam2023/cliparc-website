@@ -94,7 +94,11 @@
       "free": {
         "title": "Grátis",
         "price": "$0",
-        "features": ["5 itens na área de transferência", "Recursos básicos", "Acesso à barra de menus"]
+        "features": [
+          "5 itens na área de transferência",
+          "Recursos básicos",
+          "Acesso à barra de menus"
+        ]
       },
       "proYearly": {
         "title": "Pro Anual",
@@ -102,12 +106,20 @@
         "period": "/ano",
         "save": "Economize 44%",
         "mostPopular": "Mais Popular",
-        "features": ["Histórico ilimitado", "Todos os recursos", "Suporte prioritário"]
+        "features": [
+          "Histórico ilimitado",
+          "Todos os recursos",
+          "Suporte prioritário"
+        ]
       },
       "lifetime": {
         "title": "Vitalício",
         "price": "$59,99",
-        "features": ["Compra única", "Todos os recursos para sempre", "Atualizações grátis"]
+        "features": [
+          "Compra única",
+          "Todos os recursos para sempre",
+          "Atualizações grátis"
+        ]
       }
     },
     "requirements": {
@@ -119,7 +131,9 @@
       "privacy": "Política de Privacidade",
       "terms": "Termos de Serviço",
       "support": "Suporte",
-      "troubleshooting": "Solução de Problemas"
+      "troubleshooting": "Solução de Problemas",
+      "downloadDirect": "Baixar versão aprimorada",
+      "directNote": "Colagem automática em qualquer app, histórico ilimitado e atualizações automáticas. Requer conceder permissão de Acessibilidade uma vez."
     },
     "support": {
       "meta": {

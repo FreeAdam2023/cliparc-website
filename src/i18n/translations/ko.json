@@ -94,7 +94,11 @@
       "free": {
         "title": "무료",
         "price": "$0",
-        "features": ["클립보드 항목 5개", "기본 기능", "메뉴 막대 액세스"]
+        "features": [
+          "클립보드 항목 5개",
+          "기본 기능",
+          "메뉴 막대 액세스"
+        ]
       },
       "proYearly": {
         "title": "Pro 연간",
@@ -102,12 +106,20 @@
         "period": "/년",
         "save": "44% 할인",
         "mostPopular": "가장 인기",
-        "features": ["무제한 기록", "모든 기능", "우선 지원"]
+        "features": [
+          "무제한 기록",
+          "모든 기능",
+          "우선 지원"
+        ]
       },
       "lifetime": {
         "title": "평생",
         "price": "$59.99",
-        "features": ["일회성 구매", "영구적으로 모든 기능", "무료 업데이트"]
+        "features": [
+          "일회성 구매",
+          "영구적으로 모든 기능",
+          "무료 업데이트"
+        ]
       }
     },
     "requirements": {
@@ -119,7 +131,9 @@
       "privacy": "개인정보 처리방침",
       "terms": "서비스 약관",
       "support": "지원",
-      "troubleshooting": "문제 해결"
+      "troubleshooting": "문제 해결",
+      "downloadDirect": "강화 버전 다운로드",
+      "directNote": "어떤 앱에든 자동 붙여넣기, 무제한 기록, 자동 업데이트 내장. 최초 1회 '손쉬운 사용' 권한이 필요합니다."
     },
     "support": {
       "meta": {

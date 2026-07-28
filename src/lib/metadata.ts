@@ -26,6 +26,16 @@ export function getAppStoreUrl(locale?: string): string {
   return `https://apps.apple.com/${country}/app/cliparc/id${APP_ID}?mt=12`;
 }
 
+// Direct (Enhanced, non-App-Store) build hosted for website download.
+// TODO: point this at wherever you host the notarized zip — e.g. a GitHub
+// Release asset or object storage. Keep it a stable "latest" URL so the
+// download button doesn't need editing on every release.
+export const DIRECT_DOWNLOAD_URL = `${BASE_URL}/download/ClipArc-latest.zip`;
+
+export function getDirectDownloadUrl(): string {
+  return DIRECT_DOWNLOAD_URL;
+}
+
 function withTrailingSlash(url: string): string {
   return url.endsWith("/") ? url : `${url}/`;
 }

@@ -94,7 +94,11 @@
       "free": {
         "title": "Gratuit",
         "price": "0 $",
-        "features": ["5 éléments de presse-papiers", "Fonctionnalités de base", "Accès à la barre de menus"]
+        "features": [
+          "5 éléments de presse-papiers",
+          "Fonctionnalités de base",
+          "Accès à la barre de menus"
+        ]
       },
       "proYearly": {
         "title": "Pro Annuel",
@@ -102,12 +106,20 @@
         "period": "/an",
         "save": "Économisez 44%",
         "mostPopular": "Plus Populaire",
-        "features": ["Historique illimité", "Toutes les fonctionnalités", "Support prioritaire"]
+        "features": [
+          "Historique illimité",
+          "Toutes les fonctionnalités",
+          "Support prioritaire"
+        ]
       },
       "lifetime": {
         "title": "À Vie",
         "price": "59,99 $",
-        "features": ["Achat unique", "Toutes les fonctionnalités pour toujours", "Mises à jour gratuites"]
+        "features": [
+          "Achat unique",
+          "Toutes les fonctionnalités pour toujours",
+          "Mises à jour gratuites"
+        ]
       }
     },
     "requirements": {
@@ -119,7 +131,9 @@
       "privacy": "Politique de Confidentialité",
       "terms": "Conditions d'Utilisation",
       "support": "Support",
-      "troubleshooting": "Dépannage"
+      "troubleshooting": "Dépannage",
+      "downloadDirect": "Télécharger la version améliorée",
+      "directNote": "Collage automatique dans n'importe quelle app, historique illimité et mises à jour automatiques. Nécessite d'autoriser l'Accessibilité une fois."
     },
     "support": {
       "meta": {
